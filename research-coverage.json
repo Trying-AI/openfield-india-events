@@ -1,0 +1,1397 @@
+{
+  "checkedAt": "2026-10-26T02:42:37.089922+00:00",
+  "domainCount": 100,
+  "qualifiedCount": 17,
+  "underReviewCount": 21,
+  "excludedCount": 11,
+  "documentUrl": "competition-research-2026-10-26.docx",
+  "method": [
+    "Targeted web searches across the 100 requested domains, plus broader searches for active competitions.",
+    "Follow concrete results to official event, rules and contest-listing pages. Stop when a search yields no concrete lead.",
+    "Check Indian entry and cash-prize eligibility, explicit AI permission, cash above USD 200, and the entry deadline. Keep unconfirmed leads separate.",
+    "Record official links, prize conflicts and IST deadlines; deduplicate repeated announcements. This is a dated research snapshot, not continuous coverage of the entire internet."
+  ],
+  "extractionNotes": {
+    "queries": [
+      "site:scratch.mit.edu contest prizes 2026 2027",
+      "site:meshy.ai challenge contest prizes 2026 2027",
+      "site:artstation.com challenge contest prizes 2026 2027",
+      "site:unity.com \"game jam\" prizes 2026 2027",
+      "site:blender.org contest challenge prizes 2026 2027",
+      "site:hyper3d.ai contest challenge prizes 2026 2027",
+      "site:cgtrader.com contest challenge prizes 2026 2027",
+      "site:unity3d.com \"game jam\" contest prizes 2026 2027",
+      "site:fab.com contest challenge prizes 2026 2027",
+      "site:renderosity.com contest challenge prizes 2026 2027",
+      "site:freesound.org contest challenge prizes 2026 2027",
+      "site:godotengine.org \"game jam\" prizes 2026 2027",
+      "site:unrealengine.com contest \"game jam\" prizes 2026 2027",
+      "site:gamesindustry.biz contest \"game jam\" prizes 2026 2027",
+      "site:turbosquid.com contest challenge prizes 2026 2027",
+      "site:turbowarp.org contest \"game jam\" prizes 2026 2027",
+      "site:mixamo.com contest challenge prizes 2026 2027",
+      "site:polyhaven.com contest challenge prizes 2026 2027",
+      "site:superhivemarket.com contest challenge prizes 2026 2027",
+      "site:daz3d.com contest challenge prizes 2026 2027",
+      "site:renderhub.com contest challenge prizes 2026 2027",
+      "site:shadertoy.com contest challenge prizes 2026 2027",
+      "site:80.lv contest challenge prizes 2026 2027",
+      "site:rpgmakerweb.com contest \"game jam\" prizes 2026 2027",
+      "site:gamefromscratch.com contest \"game jam\" prizes 2026 2027",
+      "site:piskelapp.com contest \"game jam\" prizes 2026 2027",
+      "site:kenney.nl contest \"game jam\" prizes 2026 2027",
+      "site:cubebrush.co contest challenge prizes 2026 2027",
+      "site:blendswap.com contest challenge prizes 2026 2027",
+      "site:gamedeveloper.com contest \"game jam\" prizes 2026 2027",
+      "site:babylonjs.com contest \"game jam\" prizes 2026 2027",
+      "site:3dexport.com contest challenge prizes 2026 2027",
+      "site:aseprite.org contest \"game jam\" prizes 2026 2027",
+      "site:textures.com contest challenge prizes 2026 2027",
+      "site:twinery.org contest \"game jam\" prizes 2026 2027",
+      "site:rokoko.com contest challenge prizes 2026 2027",
+      "site:gamedev.tv contest \"game jam\" prizes 2026 2027",
+      "site:playcanvas.com contest \"game jam\" prizes 2026 2027",
+      "site:esotericsoftware.com contest challenge prizes 2026 2027",
+      "site:cgchannel.com contest challenge prizes 2026 2027",
+      "site:rpgmakerofficial.com contest challenge prizes 2026 2027",
+      "site:wickeditor.com contest \"game jam\" prizes 2026 2027",
+      "site:cocos.com contest \"game jam\" prizes 2026 2027",
+      "site:photonengine.com contest \"game jam\" prizes 2026 2027",
+      "site:godotshaders.com contest challenge prizes 2026 2027",
+      "site:kitbash3d.com contest challenge prizes 2026 2027",
+      "site:blendermarket.com contest challenge prizes 2026 2027",
+      "site:meshcapade.com contest challenge prizes 2026 2027",
+      "site:indienova.com contest \"game jam\" prizes 2026 2027",
+      "site:love2d.org contest \"game jam\" prizes 2026 2027",
+      "site:github.com hackathon competition challenge cash prizes October November 2026 2027",
+      "site:atlassian.net hackathon competition challenge cash prizes October November 2026 2027",
+      "site:vercel.com hackathon competition challenge cash prizes October November 2026 2027",
+      "site:lovable.dev hackathon competition challenge cash prizes October November 2026 2027",
+      "site:supabase.com hackathon prizes 2026",
+      "site:huggingface.co hackathon competition challenge prizes 2026 2027",
+      "site:sourceforge.net hackathon competition challenge prizes 2026 2027",
+      "site:visualstudio.com hackathon competition challenge prizes 2026 2027",
+      "site:netlify.com hackathon competition challenge prizes 2026 2027",
+      "site:w3schools.com hackathon competition challenge prizes 2026 2027",
+      "site:leetcode.com hackathon competition challenge prizes 2026 2027",
+      "site:cursor.com hackathon competition challenge prizes 2026 2027",
+      "site:gitlab.com hackathon competition challenge prizes 2026 2027",
+      "site:geeksforgeeks.org hackathon competition challenge prizes October November 2026 2027",
+      "site:stackoverflow.com hackathon competition challenge prizes October November 2026 2027",
+      "site:habr.com hackathon competition challenge prizes October November 2026 2027",
+      "site:kaggle.com hackathon competition challenge prizes October November 2026 2027",
+      "site:stackexchange.com hackathon competition challenge prizes 2026 2027",
+      "site:replit.com hackathon competition challenge prizes 2026 2027",
+      "site:render.com hackathon competition challenge prizes 2026 2027",
+      "site:csdn.net hackathon competition challenge prizes 2026 2027",
+      "site:python.org hackathon competition challenge prizes 2026 2027",
+      "site:docker.com hackathon competition challenge prizes 2026 2027",
+      "site:railway.com hackathon competition challenge prizes 2026 2027",
+      "site:freecodecamp.org hackathon competition challenge prizes 2026 2027",
+      "site:programiz.com hackathon competition challenge prizes 2026 2027",
+      "site:qiita.com hackathon competition challenge prizes 2026 2027",
+      "site:mongodb.com hackathon competition challenge prizes 2026 2027",
+      "site:dev.to challenges hackathon prizes October November 2026",
+      "site:jetbrains.com hackathon competition challenge cash prizes 2026 2027",
+      "site:codeforces.com AI allowed prize 2026 October November contest",
+      "site:digitalocean.com hackathon competition challenge prizes 2026 2027",
+      "site:cursor.sh hackathon competition challenge prizes 2026 2027",
+      "site:npmjs.com hackathon competition challenge prizes 2026 2027",
+      "site:codepen.io challenge contest prizes 2026 2027",
+      "site:v0.app hackathon competition challenge prizes 2026 2027",
+      "site:bolt.new hackathon competition challenge prizes 2026 2027",
+      "site:roadmap.sh hackathon competition challenge prizes 2026 2027",
+      "site:postman.com hackathon competition challenge prizes 2026 2027",
+      "site:hackerrank.com hackathon competition challenge prizes 2026 2027",
+      "site:zenn.dev hackathon competition challenge prizes 2026 2027",
+      "site:laravel.com hackathon competition challenge prizes 2026 2027",
+      "site:pypi.org hackathon competition challenge prizes 2026 2027",
+      "site:nextjs.org hackathon competition challenge prizes 2026 2027",
+      "site:shadcn.com hackathon competition challenge prizes 2026 2027",
+      "site:velog.io hackathon competition challenge prizes 2026 2027",
+      "site:cnblogs.com hackathon competition challenge prizes 2026 2027",
+      "site:codecademy.com hackathon competition challenge prizes 2026 2027",
+      "site:neetcode.io hackathon competition challenge prizes 2026 2027",
+      "site:getbootstrap.com hackathon competition challenge prizes 2026 2027",
+      "AI art film competition cash prize November 2026 worldwide submissions",
+      "AI hackathon cash prizes October November 2026 India online",
+      "game jam cash prize AI allowed November 2026",
+      "AI writing design challenge cash prize December 2026 worldwide",
+      "AI art competition November December 2026 cash worldwide submissions open",
+      "AI film competition 2026 November December prize rules India",
+      "AI music competition cash prize 2026 November open",
+      "site:itch.io/jam AI cash November 2026"
+    ],
+    "discovery": "Built-in web search and direct public event/rules/listing pages. Indexed official-page text was used when a direct page returned empty. No standalone crawler, Google API integration or recurring search service was deployed.",
+    "publication": "This is a research snapshot. Only qualified records are candidates for later publication; pending, closed and excluded records must remain separate."
+  },
+  "coverage": [
+    {
+      "domain": "scratch.mit.edu",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "Search returned community contest discussions and noncash examples; no concrete current cash contest found.",
+      "query": "site:scratch.mit.edu contest prizes 2026 2027",
+      "urls": [
+        "https://scratch.mit.edu/discuss/post/8272449"
+      ]
+    },
+    {
+      "domain": "meshy.ai",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found ended challenges and rewards in credits, subscriptions or hardware; no current qualifying cash pool verified.",
+      "query": "site:meshy.ai challenge contest prizes 2026 2027",
+      "urls": [
+        "https://www.meshy.ai/events/my-companion",
+        "https://www.meshy.ai/challenges/christmas-adventure"
+      ]
+    },
+    {
+      "domain": "artstation.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found the ended ZugZug challenge, which prohibited AI.",
+      "query": "site:artstation.com challenge contest prizes 2026 2027",
+      "urls": [
+        "https://zugzug.artstation.com/blog/category/1?page=1"
+      ]
+    },
+    {
+      "domain": "unity.com",
+      "category": "game-development",
+      "status": "needs_review",
+      "note": "Upcoming official Unity jam permits disclosed AI, but cash awards and final prize eligibility are not published.",
+      "query": "site:unity.com \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://itch.io/jam/official-unity-game-jam-2026",
+        "https://discussions.unity.com/t/the-2026-official-unity-game-jam-starts-november-5th/1740103"
+      ]
+    },
+    {
+      "domain": "blender.org",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found a September 2026 conference animation jam with no verified cash prize.",
+      "query": "site:blender.org contest challenge prizes 2026 2027",
+      "urls": [
+        "https://conference.blender.org/2026/presentations/4237/"
+      ]
+    },
+    {
+      "domain": "hyper3d.ai",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found Cambridge × Arcade AI Game Hackathon, already held October 3–4, 2026.",
+      "query": "site:hyper3d.ai contest challenge prizes 2026 2027",
+      "urls": [
+        "https://hyper3d.ai/blog/hyper3d-cambridge-arcade-ai-hackathon-2026"
+      ]
+    },
+    {
+      "domain": "cgtrader.com",
+      "category": "game-development",
+      "status": "needs_review",
+      "note": "Halloween 2026 challenge allows AI and has $650 cash; Indian prize eligibility remains unspecified.",
+      "query": "site:cgtrader.com contest challenge prizes 2026 2027",
+      "urls": [
+        "https://www.cgtrader.com/blog/halloween-3d-art-challenge-2026",
+        "https://www.cgtrader.com/challenges"
+      ]
+    },
+    {
+      "domain": "unity3d.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current result surfaced for this domain-specific query.",
+      "query": "site:unity3d.com \"game jam\" contest prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "fab.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current contest surfaced for this domain-specific query.",
+      "query": "site:fab.com contest challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "renderosity.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Current-looking listing led to CyberPunk and Pin-Up contests with winners already announced.",
+      "query": "site:renderosity.com contest challenge prizes 2026 2027",
+      "urls": [
+        "https://www.renderosity.com/contests/all",
+        "https://www.renderosity.com/contests/1662/2026-cyberpunk-contest"
+      ]
+    },
+    {
+      "domain": "freesound.org",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:freesound.org contest challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "godotengine.org",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found past XR and GameDev.tv jams and a community contest explicitly offering no cash.",
+      "query": "site:godotengine.org \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://godotengine.org/article/godot-xr-update-game-jam-v/",
+        "https://forum.godotengine.org/t/looking-for-a-godot-coder-for-pgma-2026/136908"
+      ]
+    },
+    {
+      "domain": "unrealengine.com",
+      "category": "game-development",
+      "status": "existing_event_lead",
+      "note": "Found discussion of the 2026 Epic AI MegaJam, already present in the existing verified registry.",
+      "query": "site:unrealengine.com contest \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://forums.unrealengine.com/t/epic-mega-jam/2845022",
+        "https://itch.io/jam/2026-epic-ai-megajam"
+      ]
+    },
+    {
+      "domain": "gamesindustry.biz",
+      "category": "game-development",
+      "status": "access_limited",
+      "note": "Search reported this domain blocked by robots.txt; no qualifying event was verified from it.",
+      "query": "site:gamesindustry.biz contest \"game jam\" prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "turbosquid.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "Found an older Dystopia/Utopia competition page but no current 2026 submission window verified.",
+      "query": "site:turbosquid.com contest challenge prizes 2026 2027",
+      "urls": [
+        "https://www.turbosquid.com/3d-art-competitions"
+      ]
+    },
+    {
+      "domain": "turbowarp.org",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:turbowarp.org contest \"game jam\" prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "mixamo.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:mixamo.com contest challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "polyhaven.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Project Lighthouse prize-eligible submissions closed May 1, 2026 and sponsored rewards were noncash.",
+      "query": "site:polyhaven.com contest challenge prizes 2026 2027",
+      "urls": [
+        "https://blog.polyhaven.com/project-lighthouse-challenge/"
+      ]
+    },
+    {
+      "domain": "superhivemarket.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:superhivemarket.com contest challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "daz3d.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "New User challenges prohibit AI-generated artwork and distribute store credit.",
+      "query": "site:daz3d.com contest challenge prizes 2026 2027",
+      "urls": [
+        "https://www.daz3d.com/forums/discussion/3440/new-user-challenge-rules-and-regulations"
+      ]
+    },
+    {
+      "domain": "renderhub.com",
+      "category": "game-development",
+      "status": "excluded_ai",
+      "note": "Horrific Render Contest 5 is open with $3,800 cash but explicitly prohibits generative AI.",
+      "query": "site:renderhub.com contest challenge prizes 2026 2027",
+      "urls": [
+        "https://www.renderhub.com/3d-contests/",
+        "https://www.renderhub.com/3d-contests/horrific-render-contest-5"
+      ]
+    },
+    {
+      "domain": "shadertoy.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:shadertoy.com contest challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "80.lv",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Search returned past event-ticket and game-key giveaways and older art-challenge coverage.",
+      "query": "site:80.lv contest challenge prizes 2026 2027",
+      "urls": [
+        "https://80.lv/articles/80-level-contest-win-tickets-to-gaming-istanbul-gist-2026-big-event-for-developers-and-players"
+      ]
+    },
+    {
+      "domain": "rpgmakerweb.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "Found republished older IGMC and Touch the Stars material; no current entry window verified.",
+      "query": "site:rpgmakerweb.com contest \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://www.rpgmakerweb.com/blog/touch-the-stars-game-jam-prizes"
+      ]
+    },
+    {
+      "domain": "gamefromscratch.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found the 2022 IGMC prize announcement and older jams, not a current qualifying event.",
+      "query": "site:gamefromscratch.com contest \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://gamefromscratch.com/rpg-maker-resurgence-humble-bundle/"
+      ]
+    },
+    {
+      "domain": "piskelapp.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:piskelapp.com contest \"game jam\" prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "kenney.nl",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:kenney.nl contest \"game jam\" prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "cubebrush.co",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "Found historical Art War/WORLDS pages and a 2022 roundup; no current submission window verified.",
+      "query": "site:cubebrush.co contest challenge prizes 2026 2027",
+      "urls": [
+        "https://cubebrush.co/blog/worlds",
+        "https://cubebrush.co/blog/international-art-competitions-to-consider-for-2022"
+      ]
+    },
+    {
+      "domain": "blendswap.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:blendswap.com contest challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "gamedeveloper.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found the 2025 thatgamecompany jam and a grant initiative rather than a newly verified open contest.",
+      "query": "site:gamedeveloper.com contest \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://www.gamedeveloper.com/business/journey-and-sky-dev-thatgamecompany-announces-game-jam-with-10-000-in-prizes"
+      ]
+    },
+    {
+      "domain": "babylonjs.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found archived QuickGame jam announcements from 2022–2023.",
+      "query": "site:babylonjs.com contest \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://forum.babylonjs.com/t/quickga-me-launch/33600"
+      ]
+    },
+    {
+      "domain": "3dexport.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:3dexport.com contest challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "aseprite.org",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:aseprite.org contest \"game jam\" prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "textures.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:textures.com contest challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "twinery.org",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:twinery.org contest \"game jam\" prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "rokoko.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Event listings showed past animation challenges and equipment/software rewards, not verified cash awards.",
+      "query": "site:rokoko.com contest challenge prizes 2026 2027",
+      "urls": [
+        "https://www.rokoko.com/fr/events",
+        "https://www.rokoko.com/ko/animation-challenge/rokoko-tv-intergalactic"
+      ]
+    },
+    {
+      "domain": "gamedev.tv",
+      "category": "game-development",
+      "status": "needs_review",
+      "note": "December 4–14, 2026 jam is announced, but rules, eligibility and cash prizes are not yet available.",
+      "query": "site:gamedev.tv contest \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://gamedev.tv/p/game-jams"
+      ]
+    },
+    {
+      "domain": "playcanvas.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found the 2016 PLAYHACK cash contest and other archived announcements.",
+      "query": "site:playcanvas.com contest \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://blog.playcanvas.com/playhack-with-playjam-starts-on-monday/"
+      ]
+    },
+    {
+      "domain": "esotericsoftware.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "Search returned a game showcase with prize-mode claims, not a current official development contest.",
+      "query": "site:esotericsoftware.com contest challenge prizes 2026 2027",
+      "urls": [
+        "https://ar.esotericsoftware.com/forum/d/9514-introducing-super-blast-off-demo"
+      ]
+    },
+    {
+      "domain": "cgchannel.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Reallusion 2026 character contest closed August 31 and winners were announced October 21.",
+      "query": "site:cgchannel.com contest challenge prizes 2026 2027",
+      "urls": [
+        "https://www.cgchannel.com/2026/06/reallusions-3d-character-contest-returns-for-2026-with-45000-in-prizes/"
+      ]
+    },
+    {
+      "domain": "rpgmakerofficial.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found the ended 2025 RPG Maker jam and 2026 award results.",
+      "query": "site:rpgmakerofficial.com contest challenge prizes 2026 2027",
+      "urls": [
+        "https://rpgmakerofficial.com/gamejam2025/en/",
+        "https://rpgmakerofficial.com/news/"
+      ]
+    },
+    {
+      "domain": "wickeditor.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Candlestick jam closed in January 2026 and its rules prohibited generative AI.",
+      "query": "site:wickeditor.com contest \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://forum.wickeditor.com/t/candlestick-game-jam/24190"
+      ]
+    },
+    {
+      "domain": "cocos.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:cocos.com contest \"game jam\" prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "photonengine.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found historical multiplayer jam sponsorship announcements, not a current qualifying entry window.",
+      "query": "site:photonengine.com contest \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://blog.photonengine.com/photon-enabling-multiplayer-game-jamming/"
+      ]
+    },
+    {
+      "domain": "godotshaders.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:godotshaders.com contest challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "kitbash3d.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found free-kit/subscription challenges; no current cash prize pool was verified.",
+      "query": "site:kitbash3d.com contest challenge prizes 2026 2027",
+      "urls": [
+        "https://kitbash3d.com/a/blog/house-of-horror-challenge",
+        "https://kitbash3d.com/pages/the-product-drop-challenge-kitbash3d"
+      ]
+    },
+    {
+      "domain": "blendermarket.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:blendermarket.com contest challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "meshcapade.com",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "No concrete current cash contest surfaced for this domain-specific query.",
+      "query": "site:meshcapade.com contest challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "indienova.com",
+      "category": "game-development",
+      "status": "closed_or_nonqualifying",
+      "note": "Found 2025 CiGA and earlier game-jam announcements, without a verified current contest.",
+      "query": "site:indienova.com contest \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://indienova.com/tag/game-jam/"
+      ]
+    },
+    {
+      "domain": "love2d.org",
+      "category": "game-development",
+      "status": "no_concrete_current_result",
+      "note": "Found participant game showcases, without a concrete current cash contest.",
+      "query": "site:love2d.org contest \"game jam\" prizes 2026 2027",
+      "urls": [
+        "https://love2d.org/forums/viewtopic.php?t=96751"
+      ]
+    },
+    {
+      "domain": "github.com",
+      "category": "coding",
+      "status": "concrete_leads",
+      "note": "Official UseAgent issue advertises $325; India/payment eligibility absent. Microsoft Premier League registration closed Oct 20. Community trackers were discovery only.",
+      "query": "site:github.com hackathon competition challenge cash prizes October November 2026 2027",
+      "urls": [
+        "https://github.com/useagenthq/useagent/issues/109",
+        "https://github.com/microsoft/insidethegamehackathon/blob/main/OFFICIAL%20RULES.md"
+      ]
+    },
+    {
+      "domain": "atlassian.net",
+      "category": "coding",
+      "status": "no_qualifying_lead",
+      "note": "Results were an old organizer guide and university staff prize drawing; no current qualifying open contest found.",
+      "query": "site:atlassian.net hackathon competition challenge cash prizes October November 2026 2027",
+      "urls": [
+        "https://lf-hyperledger.atlassian.net/wiki/spaces/events/pages/21790808/Hyperledger%2BHackathon%2BOrganizer%2Bs%2BGuide"
+      ]
+    },
+    {
+      "domain": "vercel.com",
+      "category": "coding",
+      "status": "listing_checked",
+      "note": "Hackathon hub found; retrieved concrete events were June/October14–15 events already ended. June awards were credits, not cash.",
+      "query": "site:vercel.com hackathon competition challenge cash prizes October November 2026 2027",
+      "urls": [
+        "https://community.vercel.com/hackathons",
+        "https://community.vercel.com/hackathons/fast-forward-hack/rules"
+      ]
+    },
+    {
+      "domain": "lovable.dev",
+      "category": "coding",
+      "status": "listing_checked",
+      "note": "Community calendar found; current listed designathon lacked confirmed cash and Indian prize eligibility. Build Launch WIN cash video lacked current dates.",
+      "query": "site:lovable.dev hackathon competition challenge cash prizes October November 2026 2027",
+      "urls": [
+        "https://lovable.dev/community-events",
+        "https://lovable.dev/id/video/10k-prize-hackathon-starts-now-heres-everything-you-need-to-know"
+      ]
+    },
+    {
+      "domain": "supabase.com",
+      "category": "coding",
+      "status": "listing_checked",
+      "note": "Official hackathon listing explicitly says no upcoming hackathons; latest event was Oct 3.",
+      "query": "site:supabase.com hackathon prizes 2026",
+      "urls": [
+        "https://hackathon.supabase.com/",
+        "https://hackathon.supabase.com/hackathon-rules"
+      ]
+    },
+    {
+      "domain": "huggingface.co",
+      "category": "coding",
+      "status": "concrete_leads",
+      "note": "Clocked, ClimX and Qai leads found. Eligibility/prize details incomplete; older AMD/MCP events already ended.",
+      "query": "site:huggingface.co hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://discuss.huggingface.co/t/clocked-build-challenge-build-a-new-ai-app-oct-21-nov-10-2-000-in-prizes/190840",
+        "https://huggingface.co/datasets/isp-uv-es/ClimX",
+        "https://huggingface.co/qai-hackathon"
+      ]
+    },
+    {
+      "domain": "sourceforge.net",
+      "category": "coding",
+      "status": "no_qualifying_lead",
+      "note": "STIR/ETSI technical collaboration hackathons found, without qualifying cash competition evidence; generic software-comparison pages ignored.",
+      "query": "site:sourceforge.net hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://stir.sourceforge.net/2026Hackathon/",
+        "https://sourceforge.net/p/stir/mailman/stir-devel/"
+      ]
+    },
+    {
+      "domain": "visualstudio.com",
+      "category": "coding",
+      "status": "no_qualifying_lead",
+      "note": "Marketplace results describe past hackathon submissions; no current organizer contest with cash/eligibility found.",
+      "query": "site:visualstudio.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://marketplace.visualstudio.com/items?itemName=OneDevPH.obelisk-cli"
+      ]
+    },
+    {
+      "domain": "netlify.com",
+      "category": "coding",
+      "status": "closed_only",
+      "note": "WebMCP Challenge had a USD 5,000 Netlify cash pool, but submissions ended Sep 3, 2026.",
+      "query": "site:netlify.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://www.netlify.com/webmcp-challenge/prizes/"
+      ]
+    },
+    {
+      "domain": "w3schools.com",
+      "category": "coding",
+      "status": "no_qualifying_lead",
+      "note": "Search surfaced tutorials/webinar about a past Lovable buildathon; no concrete current cash contest.",
+      "query": "site:w3schools.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://webinars.w3schools.com/"
+      ]
+    },
+    {
+      "domain": "leetcode.com",
+      "category": "coding",
+      "status": "excluded_policy",
+      "note": "Official contest rules prohibit code-generation tools or external assistance for problem solving; no separate qualifying AI-allowed cash event found.",
+      "query": "site:leetcode.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://leetcode.com/discuss/post/951105/new-contest-rule-effective-from-february-2024/"
+      ]
+    },
+    {
+      "domain": "cursor.com",
+      "category": "coding",
+      "status": "listing_checked",
+      "note": "Official community calendar lists future hackathons; listing alone does not confirm cash amounts and Indian prize eligibility.",
+      "query": "site:cursor.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://cursor.com/hi/community",
+        "https://forum.cursor.com/c/events/europe/26"
+      ]
+    },
+    {
+      "domain": "gitlab.com",
+      "category": "coding",
+      "status": "verified_event",
+      "note": "Life After Code verified using binding official rules; quarterly Community Hackathon awards swag credits and is separate.",
+      "query": "site:gitlab.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://contributors.gitlab.com/transcend-hackathon",
+        "https://gitlab-transcend.devpost.com/rules"
+      ]
+    },
+    {
+      "domain": "geeksforgeeks.org",
+      "category": "coding",
+      "status": "closed_or_noncash",
+      "note": "Current searches mostly surfaced past Hack-4-Viksit Bharat / Technical Scripter and regular swag/coupon contests.",
+      "query": "site:geeksforgeeks.org hackathon competition challenge prizes October November 2026 2027",
+      "urls": [
+        "https://www.geeksforgeeks.org/blogs/contests/",
+        "https://www.geeksforgeeks.org/hack-a-thon/hack4viksitbharat",
+        "https://www.geeksforgeeks.org/blogs/technical-scripter-gfg-connect-edition-2026/"
+      ]
+    },
+    {
+      "domain": "stackoverflow.com",
+      "category": "coding",
+      "status": "listing_checked",
+      "note": "Dedicated contests page contains completed historical contests; no current qualifying contest found.",
+      "query": "site:stackoverflow.com hackathon competition challenge prizes October November 2026 2027",
+      "urls": [
+        "https://contests.stackoverflow.com/"
+      ]
+    },
+    {
+      "domain": "habr.com",
+      "category": "coding",
+      "status": "no_qualifying_lead",
+      "note": "October hackathon roundup found; many entry deadlines passed or geographic/AI eligibility incomplete. Roundup treated only as discovery.",
+      "query": "site:habr.com hackathon competition challenge prizes October November 2026 2027",
+      "urls": [
+        "https://habr.com/ru/news/1094372/"
+      ]
+    },
+    {
+      "domain": "kaggle.com",
+      "category": "coding",
+      "status": "verified_and_review",
+      "note": "ARC-AGI-2 verified. Gemma Developer Agent and NFL 2027 are current leads; complete event-specific rules unavailable. Old Gemma 4 Good excluded as closed.",
+      "query": "site:kaggle.com hackathon competition challenge prizes October November 2026 2027",
+      "urls": [
+        "https://www.kaggle.com/competitions?new=true&type=hackathon",
+        "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2/rules",
+        "https://www.kaggle.com/competitions/gemma-4-developer-agent/overview/prizes",
+        "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027/overview/timeline"
+      ]
+    },
+    {
+      "domain": "stackexchange.com",
+      "category": "coding",
+      "status": "no_qualifying_lead",
+      "note": "Search returned old community contests and question discussions; no current qualifying event.",
+      "query": "site:stackexchange.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://android.meta.stackexchange.com/questions/585/a-contest-a-contest-but-what-prizes"
+      ]
+    },
+    {
+      "domain": "replit.com",
+      "category": "coding",
+      "status": "no_qualifying_lead",
+      "note": "Past MadeWithReplit winners and old contest PDF found; no concrete currently open cash contest confirmed.",
+      "query": "site:replit.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://replit.com/blog/mwr-winners",
+        "https://cms.replit.com/assets/contest_rules.pdf"
+      ]
+    },
+    {
+      "domain": "render.com",
+      "category": "coding",
+      "status": "no_qualifying_lead",
+      "note": "Search returned hosted community/hosting material rather than a current organizer contest.",
+      "query": "site:render.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://spc.app.render.com/"
+      ]
+    },
+    {
+      "domain": "csdn.net",
+      "category": "coding",
+      "status": "concrete_lead",
+      "note": "Organizer CANN post advertises current CNY 190,000 operator challenge; Indian eligibility and coding-assistant policy unclear. Other cash events found were past.",
+      "query": "site:csdn.net hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://hwcomputing.csdn.net/6aca3994536f457592aef515.html",
+        "https://cann-elec.gccorg.com/"
+      ]
+    },
+    {
+      "domain": "python.org",
+      "category": "coding",
+      "status": "closed_only",
+      "note": "SerpApi India Hackathon had cash prizes and India focus, but Oct 5, 2026 submission deadline passed.",
+      "query": "site:python.org hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://mail.python.org/archives/list/bangpypers%40python.org/thread/YRLNRSI77TL54XBEF7V3ON6JOOEX7MBQ/"
+      ]
+    },
+    {
+      "domain": "docker.com",
+      "category": "coding",
+      "status": "closed_only",
+      "note": "Official AI/ML Hackathon result was from 2023; no new qualifying contest found in this quick search.",
+      "query": "site:docker.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://www.docker.com/blog/announcing-the-docker-ai-ml-hackathon-2023-winners/"
+      ]
+    },
+    {
+      "domain": "railway.com",
+      "category": "coding",
+      "status": "closed_only",
+      "note": "Dedicated hackathon page explicitly closed; blog confirms Aug 6–11, 2025 event, with AI allowed then.",
+      "query": "site:railway.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://railway.com/hackathon",
+        "https://blog.railway.com/p/railway-hackathon-2025"
+      ]
+    },
+    {
+      "domain": "freecodecamp.org",
+      "category": "coding",
+      "status": "no_qualifying_lead",
+      "note": "Search returned hackathon guides and September 2026 SeaHack retrospective, not open cash contests.",
+      "query": "site:freecodecamp.org hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/"
+      ]
+    },
+    {
+      "domain": "programiz.com",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "No concrete current prize contest surfaced in this search pass.",
+      "query": "site:programiz.com hackathon competition challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "qiita.com",
+      "category": "coding",
+      "status": "past_or_unqualified",
+      "note": "Search surfaced past Japanese hackathon reports and 2025 participation terms; no current qualifying lead.",
+      "query": "site:qiita.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://qiita.com/oishi_mugicha/items/0338dbeeaf4c9b1fd869"
+      ]
+    },
+    {
+      "domain": "mongodb.com",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "Community challenge categories found, no current cash contest. MongoDB Atlas is a $100 partner category inside the qualifying DEV Week 3 competition, not a separate qualifying pool.",
+      "query": "site:mongodb.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://www.mongodb.com/community/forums/t/about-the-getting-started-category/331381",
+        "https://dev.to/challenges/hacktoberfest-week3-2026-10-19"
+      ]
+    },
+    {
+      "domain": "dev.to",
+      "category": "coding",
+      "status": "verified_and_review_leads",
+      "note": "Direct challenge hub inspected. Week 3 qualifies and closes today; Week 4 announced. Organizer posts led to Clocked, InfiniSynapse and Speed Demon; official details still need checks noted in event records.",
+      "query": "site:dev.to challenges hackathon prizes October November 2026",
+      "urls": [
+        "https://dev.to/challenges",
+        "https://dev.to/challenges/hf26/",
+        "https://dev.to/challenges/hacktoberfest-week3-2026-10-19",
+        "https://dev.to/challenges/hacktoberfest-week4-2026-10-26"
+      ]
+    },
+    {
+      "domain": "jetbrains.com",
+      "category": "coding",
+      "status": "past_or_unqualified",
+      "note": "Build Your Game Challenge closed Oct 23 and prizes are gift cards. Youth Challenge offers certificates/camp opportunities, not a stated cash pool.",
+      "query": "site:jetbrains.com hackathon competition challenge cash prizes 2026 2027",
+      "urls": [
+        "https://blog.jetbrains.com/education/2026/10/12/build-your-game-challenge-join-in-and-compete-for-prizes/",
+        "https://lp.jetbrains.com/academy/youth-challenge/"
+      ]
+    },
+    {
+      "domain": "codeforces.com",
+      "category": "coding",
+      "status": "past_or_unqualified",
+      "note": "AI-friendly Huawei ICPC challenge found, but ended Aug 28. KDOI forbids all AI; Cloudflight Oct 23 contest already ended. No currently qualifying event established.",
+      "query": "site:codeforces.com AI allowed prize 2026 October November contest",
+      "urls": [
+        "https://codeforces.com/blog/entry/155646?locale=en&mobile=true",
+        "https://codeforces.com/blog/entry/157527?mobile=false",
+        "https://sas.codeforces.com/blog/entry/157474"
+      ]
+    },
+    {
+      "domain": "digitalocean.com",
+      "category": "coding",
+      "status": "no_standalone_qualifying_lead",
+      "note": "General and older Hacktoberfest material. DigitalOcean is a $200 partner category within DEV Week 3's $2,850 pool; do not duplicate it as a separate qualifying event.",
+      "query": "site:digitalocean.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://www.digitalocean.com/resources/articles/ai-hackathon-events",
+        "https://dev.to/challenges/hacktoberfest-week3-2026-10-19"
+      ]
+    },
+    {
+      "domain": "cursor.sh",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "No concrete current prize contest surfaced on this domain.",
+      "query": "site:cursor.sh hackathon competition challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "npmjs.com",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "Package documentation and hackathon tooling surfaced; no concrete current official contest rules.",
+      "query": "site:npmjs.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://www.npmjs.com/package/hacklab"
+      ]
+    },
+    {
+      "domain": "codepen.io",
+      "category": "coding",
+      "status": "past_or_unqualified",
+      "note": "Official explanation describes ordinary CodePen Challenges as having no prizes; no current cash competition found.",
+      "query": "site:codepen.io challenge contest prizes 2026 2027",
+      "urls": [
+        "https://blog.codepen.io/2021/11/10/341-challenges/"
+      ]
+    },
+    {
+      "domain": "v0.app",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "User-generated project chats and old event references surfaced, not a current organizer contest.",
+      "query": "site:v0.app hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://v0.app/shubhwithais-projects/chat/sutra-hackathon-guide-C4sczzouGgz"
+      ]
+    },
+    {
+      "domain": "bolt.new",
+      "category": "coding",
+      "status": "closed",
+      "note": "Builders Week official rules found; submission period ended Oct 20. Event-support program also found, but it is not a prize contest.",
+      "query": "site:bolt.new hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://bolt.new/builders-week/terms",
+        "https://buildwith.bolt.new/"
+      ]
+    },
+    {
+      "domain": "roadmap.sh",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "No concrete current prize contest surfaced in this search pass.",
+      "query": "site:roadmap.sh hackathon competition challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "postman.com",
+      "category": "coding",
+      "status": "closed",
+      "note": "Official Community Challenge page lists $250 but explicitly says the June challenge ended; window June24–July1.",
+      "query": "site:postman.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://www.postman.com/devrel/postman-community-challenge/overview"
+      ]
+    },
+    {
+      "domain": "hackerrank.com",
+      "category": "coding",
+      "status": "review_leads",
+      "note": "Direct contests listing inspected. micro1 is a concrete $10,000 AI-allowed lead pending India payout confirmation. Orchestrate ended Oct 25; Salesforce rewards are hardware.",
+      "query": "site:hackerrank.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://www.hackerrank.com/contests",
+        "https://www.hackerrank.com/event/micro1-eval-hackathon",
+        "https://www.hackerrank.com/hackerrank-orchestrate-october26"
+      ]
+    },
+    {
+      "domain": "zenn.dev",
+      "category": "coding",
+      "status": "closed",
+      "note": "Microsoft Agent Hackathon has cash awards but final judging and winners were in June 2026.",
+      "query": "site:zenn.dev hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://zenn.dev/hackathons/microsoft-agent-hackathon-2026"
+      ]
+    },
+    {
+      "domain": "laravel.com",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "Founders Summit found; a networking event, not a stated prize contest.",
+      "query": "site:laravel.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://laravel.com/founders"
+      ]
+    },
+    {
+      "domain": "pypi.org",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "SDKs, old contest package descriptions and search tools surfaced. No current full organizer rules established in this pass.",
+      "query": "site:pypi.org hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://pypi.org/project/chaiverse/1.5.10/",
+        "https://pypi.org/project/daydokuthon/"
+      ]
+    },
+    {
+      "domain": "nextjs.org",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "Community documentation and 2025 conference pre-event listing; no current qualifying contest.",
+      "query": "site:nextjs.org hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://nextjs.org/docs/community",
+        "https://nextjs.org/conf/eyJoYXNTZXNzaW9uIjpmYWxzZX0/schedule/pre-events"
+      ]
+    },
+    {
+      "domain": "shadcn.com",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "Registry documentation surfaced; no concrete current prize competition.",
+      "query": "site:shadcn.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://ui.shadcn.com/docs/registry/health"
+      ]
+    },
+    {
+      "domain": "velog.io",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "Mostly retrospective Korean hackathon posts. A SK Hynix preliminary-round report surfaced, but no open-entry official qualifying rules were established.",
+      "query": "site:velog.io hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://alpha.velog.io/tags/%ED%95%B4%EC%BB%A4%ED%86%A4",
+        "https://velog.io/curated?_rsc=1m40m"
+      ]
+    },
+    {
+      "domain": "cnblogs.com",
+      "category": "coding",
+      "status": "past_or_unqualified",
+      "note": "Shanghai open-source competition required submission by Oct 16; Qualcomm robotics article describes electronic-product prizes, not cash. No current qualifying lead established.",
+      "query": "site:cnblogs.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://www.cnblogs.com/dadongosc/p/23107174",
+        "https://www.cnblogs.com/APLUX-AidLux/articles/19985819"
+      ]
+    },
+    {
+      "domain": "codecademy.com",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "General competitive-programming advice and practice projects; no current cash contest surfaced.",
+      "query": "site:codecademy.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://www.codecademy.com/resources/blog/what-is-competitive-programming"
+      ]
+    },
+    {
+      "domain": "neetcode.io",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "No concrete current prize contest surfaced in this search pass.",
+      "query": "site:neetcode.io hackathon competition challenge prizes 2026 2027",
+      "urls": []
+    },
+    {
+      "domain": "getbootstrap.com",
+      "category": "coding",
+      "status": "no_concrete_lead",
+      "note": "Release announcements and engineering posts; no current prize contest surfaced.",
+      "query": "site:getbootstrap.com hackathon competition challenge prizes 2026 2027",
+      "urls": [
+        "https://blog.getbootstrap.com/archive/"
+      ]
+    }
+  ],
+  "reviewLeads": [
+    {
+      "title": "October Jam — Monster Mash",
+      "category": "game-development",
+      "reason": "Indian geographic and cash-payment eligibility is not established by the current public rules. The organizer says full eligibility details accompany the theme reveal but does not publish the country list or identify supported payout countries. Await official confirmation; do not infer from the availability of RUN tools.",
+      "url": "https://events.run.game/events/octoberjam/",
+      "status": "needs_review",
+      "cash": "$30,000. Advertised overall cash pool is shared across games, stories and videos. AI credits are separate and excluded.",
+      "deadlineLabel": "3 Nov 2026, 01:30 AM IST"
+    },
+    {
+      "title": "CGTrader Halloween 3D Art Challenge 2026",
+      "category": "other",
+      "reason": "Cash threshold and AI permission confirmed, but Indian entry/prize eligibility must be confirmed before qualifying.",
+      "url": "https://www.cgtrader.com/blog/halloween-3d-art-challenge-2026",
+      "status": "needs_review",
+      "cash": "USD 650. $350 + $200 + $100 cash; $150 store credit excluded.",
+      "deadlineLabel": "1 November 2026, 05:29 IST"
+    },
+    {
+      "title": "Official 2026 Unity Game Jam",
+      "category": "game-development",
+      "reason": "Do not qualify until actual cash above $200 and final Indian prize eligibility are documented.",
+      "url": "https://itch.io/jam/official-unity-game-jam-2026",
+      "status": "needs_review",
+      "cash": "Announcement lists licenses, subscriptions, coupons and tools; no cash award confirmed.",
+      "deadlineLabel": "14 November 2026, 17:30 IST"
+    },
+    {
+      "title": "GameDev.tv December Jam 2026",
+      "category": "game-development",
+      "reason": "Concrete upcoming event, but all three qualifying filters still need evidence.",
+      "url": "https://gamedev.tv/p/game-jams",
+      "status": "needs_review",
+      "cash": "No cash prize information published.",
+      "deadlineLabel": "2026-12-14"
+    },
+    {
+      "title": "UseAgent October 2026 Hackathon",
+      "category": "coding",
+      "reason": "AI and prize figures concrete, but India eligibility and currency/payout conditions unconfirmed.",
+      "url": "https://github.com/useagenthq/useagent/issues/109",
+      "status": "needs_review",
+      "cash": "Advertised $325: $150 + $100 + $75. Currency label and payout eligibility require confirmation.",
+      "deadlineLabel": "31 Oct 2026, 23:59 UTC (1 Nov, 05:29 IST)."
+    },
+    {
+      "title": "Clocked Build Challenge",
+      "category": "coding",
+      "reason": "Concrete organizer announcement, but India eligibility and payment rules unavailable.",
+      "url": "https://discuss.huggingface.co/t/clocked-build-challenge-build-a-new-ai-app-oct-21-nov-10-2-000-in-prizes/190840",
+      "status": "needs_review",
+      "cash": "Advertised $2,000 across five awards; payment terms require verification.",
+      "deadlineLabel": "10 Nov 2026, 23:59 Eastern (11 Nov, 10:29 IST)."
+    },
+    {
+      "title": "Google — Gemma 4 Developer Agent Competition",
+      "category": "coding",
+      "reason": "Current detailed AI/prize/timeline evidence, but event-specific geographic/payout rules not verified this pass.",
+      "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
+      "status": "needs_review",
+      "cash": "USD 65,000 main leaderboard plus separate USD 35,000 paper track. Updated prize page adds a USD 10,000 small-model bonus, giving USD 110,000 combined. Avoid double counting.",
+      "deadlineLabel": "Entry: 25 Nov 2026, 23:59 UTC. Main final: 2 Dec, 23:59 UTC (3 Dec, 05:29 IST). Paper: 12 Nov, 23:59 UTC."
+    },
+    {
+      "title": "NFL Big Data Bowl 2027",
+      "category": "coding",
+      "reason": "Cash and timeline concrete; explicit AI usage and full prize eligibility need verification.",
+      "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
+      "status": "needs_review",
+      "cash": "USD 100,000: Open Track 45,000 + University Track 45,000 + finalist grand prize 10,000.",
+      "deadlineLabel": "6 Jan 2027, 23:59 UTC (7 Jan, 05:29 IST)."
+    },
+    {
+      "title": "ClimX — Extreme-aware Climate Model Emulation",
+      "category": "coding",
+      "reason": "Prize and AI task confirmed; country eligibility unresolved.",
+      "url": "https://ipl-uv.github.io/ClimX/",
+      "status": "needs_review",
+      "cash": "EUR 3,300: 1,800 + 1,000 + 500; exact USD conversion not performed.",
+      "deadlineLabel": "15 Dec 2026; exact closing time not verified."
+    },
+    {
+      "title": "Qai × Hugging Face Hackathon",
+      "category": "coding",
+      "reason": "Cannot confirm cash above USD 200 or Indian prize eligibility.",
+      "url": "https://huggingface.co/qai-hackathon",
+      "status": "needs_review",
+      "cash": "Prize details not announced.",
+      "deadlineLabel": "Event: 5–7 Nov 2026, ending 17:00 Doha (19:30 IST). Application deadline not stated."
+    },
+    {
+      "title": "Ascend AI Industry Innovation 2026 — Power Industry Operators",
+      "category": "coding",
+      "reason": "Concrete CANN organizer announcement, but international eligibility and AI assistance rules incomplete.",
+      "url": "https://cann-elec.gccorg.com/",
+      "status": "needs_review",
+      "cash": "Organizer advertises CNY 190,000 tax-inclusive awards; USD conversion not performed.",
+      "deadlineLabel": "Online preliminary: 6 Nov 2026, 12:00 China (09:30 IST). In-person final: 15 Nov, Guangzhou."
+    },
+    {
+      "title": "Hacktoberfest Open-Source AI Challenge: Week 4",
+      "category": "coding",
+      "reason": "Concrete upcoming contest; cash amount and complete edition rules missing.",
+      "url": "https://dev.to/challenges/hacktoberfest-week4-2026-10-26",
+      "status": "needs_review",
+      "cash": "Not announced for this edition at checking; do not reuse Week 3 or Weekend pool.",
+      "deadlineLabel": "October 31, 2026; exact time not yet published on the Week 4 page."
+    },
+    {
+      "title": "micro1 Eval Hackathon",
+      "category": "coding",
+      "reason": "Entry eligibility and cash/AI supported; hold for India payout confirmation under the strict prize-eligibility requirement.",
+      "url": "https://www.hackerrank.com/event/micro1-eval-hackathon",
+      "status": "needs_review",
+      "cash": "USD 10,000: $5,000/$3,000/$2,000; organizer FAQ describes monetary payouts.",
+      "deadlineLabel": "2026-11-09T05:15:00Z / 9 November 2026, 10:45 AM IST"
+    },
+    {
+      "title": "Speed Demon 2026",
+      "category": "coding",
+      "reason": "Concrete event with AI and monetary awards, but geographic prize payout detail remains unclear. Useful example of checking the official page rather than copying a stale search result.",
+      "url": "https://speeddemon.dev/",
+      "status": "needs_review",
+      "cash": "Current official site lists USD 1,800 monetary awards; older organizer DEV announcement says $2,000. Use latest $1,800; payout method not published.",
+      "deadlineLabel": "2026-11-02T18:00:00Z / 2 November 2026, 11:30 PM IST"
+    },
+    {
+      "title": "InfiniSynapse Vibe Coding Hackathon Online 2026",
+      "category": "coding",
+      "reason": "Hold: India eligibility, final submission terms and payout incomplete.",
+      "url": "https://infinisynapse.com/en/hackathon/2026",
+      "status": "needs_review",
+      "cash": "USD 3,000: $900 + 2×$600 + 3×$300 cash awards announced.",
+      "deadlineLabel": "Event window ends 2026-11-01T06:59:00Z / 1 November 2026, 12:29 PM IST; formal submission deadline still marked unpublished on official overview."
+    },
+    {
+      "title": "RRCO AI Hackathon",
+      "category": "coding",
+      "reason": "Prize wording does not establish a cash pool. Pune presentation requirements and final terms also need confirmation.",
+      "url": "https://rrco.co.in/rrco-ai-hackathon/",
+      "status": "needs_review",
+      "cash": "Up to INR 1,50,000 in prizes; cash composition unconfirmed",
+      "deadlineLabel": "Registration closes 31 October 2026; event tentatively 21 to 22 November"
+    },
+    {
+      "title": "AIRA 2035 International Hackathon",
+      "category": "coding",
+      "reason": "Missing AI and geographic confirmation. INR 500 per person; website says teams up to four but the PDF says up to three.",
+      "url": "https://www.airaglobaltech.com/hackathon",
+      "status": "needs_review",
+      "cash": "INR 35,000 cash; jobs and course discounts excluded",
+      "deadlineLabel": "Registration 28 October 2026 at 11:59 PM IST; submissions 31 October at 8:50 AM IST"
+    },
+    {
+      "title": "AKOOL AI Film Challenge",
+      "category": "other",
+      "reason": "Country eligibility and full payout rules not available in retrieved page. Do not publish the USD 500,000 headline as a verified cash pool.",
+      "url": "https://akool.com/aifilmchallenge",
+      "status": "needs_review",
+      "cash": "USD 500,000 creator-reward headline; displayed competition awards total USD 115,000",
+      "deadlineLabel": "20 December 2026; exact time unspecified"
+    },
+    {
+      "title": "AI Art Championship 2026",
+      "category": "other",
+      "reason": "Cash amount unannounced; entry fee exists. Stop until prize terms are published.",
+      "url": "https://www.aiartchampionship.com/",
+      "status": "needs_review",
+      "cash": "Prizes not announced",
+      "deadlineLabel": "30 November 2026; exact time unspecified"
+    },
+    {
+      "title": "ARC Prize 2026 — ARC-AGI-3",
+      "category": "coding",
+      "reason": "Current cash and AI usage are supported, but the specific country and prize-eligibility rules could not be retrieved.",
+      "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
+      "status": "needs_review",
+      "cash": "USD 75,000 final leaderboard prizes remain; advertised USD 850,000 includes USD 75,000 in past milestone prizes and a conditional USD 700,000 bonus for 100% accuracy.",
+      "deadlineLabel": "Entry and team merger: 26 Oct 2026, 23:59 UTC (27 Oct, 05:29 IST). Final submission: 2 Nov 2026, 23:59 UTC (3 Nov, 05:29 IST)."
+    },
+    {
+      "title": "ARC Prize 2026 — Paper Track",
+      "category": "other",
+      "reason": "Concrete cash competition, but Indian prize eligibility, paper AI-assistance rules and the conflicting paper deadline need confirmation.",
+      "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track",
+      "status": "needs_review",
+      "cash": "USD 75,000 guaranteed top-paper awards (50,000 / 20,000 / 5,000), plus USD 375,000 discretionary outstanding-paper pool.",
+      "deadlineLabel": "Conflict requiring confirmation: Kaggle overview lists 9 Nov 2026, 23:59 UTC (10 Nov, 05:29 IST); organizer's 2026 overview lists papers due 8 Nov. A linked ARC-AGI-2 or ARC-AGI-3 code entry must meet its earlier entry and submission deadlines."
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Horrific Render Contest 5",
+      "category": "other",
+      "reason": "Fails the AI-allowed filter despite an open deadline and sufficient cash.",
+      "url": "https://www.renderhub.com/3d-contests/horrific-render-contest-5",
+      "status": "excluded"
+    },
+    {
+      "title": "Cambridge × Arcade AI Game Hackathon 2026",
+      "category": "game-development",
+      "reason": "Past event; advertised total was not verified as cash.",
+      "url": "https://hyper3d.ai/blog/hyper3d-cambridge-arcade-ai-hackathon-2026",
+      "status": "closed"
+    },
+    {
+      "title": "Renderosity 2026 CyberPunk Contest",
+      "category": "other",
+      "reason": "Winners are already displayed; illustrates why a listing marked Enter Now is not sufficient evidence of an open contest.",
+      "url": "https://www.renderosity.com/contests/1662/2026-cyberpunk-contest",
+      "status": "closed"
+    },
+    {
+      "title": "Monthly MLH × DEV Writing Challenge",
+      "category": "other",
+      "reason": "No guaranteed total cash pool strictly above $200; AI/eligibility incomplete.",
+      "url": "https://dev.to/mlh-hackathon",
+      "status": "excluded"
+    },
+    {
+      "title": "HackerRank Orchestrate October 2026",
+      "category": "coding",
+      "reason": "Direct contests listing marks ended 25 October; do not mistake Oct 26–27 evaluation for submission window.",
+      "url": "https://www.hackerrank.com/hackerrank-orchestrate-october26",
+      "status": "closed"
+    },
+    {
+      "title": "Salesforce Design Challenge",
+      "category": "coding",
+      "reason": "Hardware prizes do not meet cash filter.",
+      "url": "https://www.hackerrank.com/event/salesforce-architect-virtual-hiring-event-september-2026",
+      "status": "excluded"
+    },
+    {
+      "title": "JetBrains Build Your Game Challenge",
+      "category": "game-development",
+      "reason": "Closed Oct 23; also fails actual cash requirement.",
+      "url": "https://blog.jetbrains.com/education/2026/10/12/build-your-game-challenge-join-in-and-compete-for-prizes/",
+      "status": "closed"
+    },
+    {
+      "title": "Bolt Builders Week 2026",
+      "category": "coding",
+      "reason": "Entry period closed Oct 20; judging continues October 31.",
+      "url": "https://bolt.new/builders-week/terms",
+      "status": "closed"
+    },
+    {
+      "title": "ICPC Online Challenge powered by Huawei 2026",
+      "category": "coding",
+      "reason": "Concrete Codeforces AI-friendly cash contest, but ended August 28; keep as closed example only.",
+      "url": "https://codeforces.com/blog/entry/155646?locale=en&mobile=true",
+      "status": "closed"
+    },
+    {
+      "title": "AI Filmfest Athens 2026",
+      "category": "other",
+      "reason": "November festival date is not the entry deadline. Exclude from open opportunities.",
+      "url": "https://www.aifilmfestathens.gr/en",
+      "status": "closed"
+    },
+    {
+      "title": "DPIFF 2027 Best AI Short Film Award",
+      "category": "other",
+      "reason": "AI-category cash is below USD 200. Other film categories are not confirmed AI-eligible cash pools and are not added to inflate this figure.",
+      "url": "https://dpiff.in/short-film/best-ai-short-film-award-2027-submit-your-ai-film-to-dpiff/",
+      "status": "excluded"
+    }
+  ]
+}
