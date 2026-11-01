@@ -31,6 +31,7 @@ const page = categories[category];
 let dataset = {events:[], sources:[]};
 let research = null;
 let usable = [];
+let shownReviewIds = '';
 let state = {query:'', mode:'all', deadline:'all', sort:'deadline', saved:false};
 let saved;
 try { const stored = JSON.parse(localStorage.getItem('openfield-saved') || '[]'); saved = new Set(Array.isArray(stored) ? stored.filter(x => typeof x === 'string') : []); } catch { saved = new Set(); }
@@ -38,6 +39,7 @@ const now = () => Date.now();
 const dateTime = value => new Intl.DateTimeFormat('en-IN', {day:'numeric',month:'short',year:'numeric',hour:'numeric',minute:'2-digit',timeZone:'Asia/Kolkata'}).format(new Date(value)) + ' IST';
 const shortDate = value => new Intl.DateTimeFormat('en-IN', {day:'numeric',month:'short',timeZone:'Asia/Kolkata'}).format(new Date(value));
 const deadline = event => event.registrationDeadline || event.deadline;
+const pendingReview = () => (dataset.underReview||[]).filter(event=>!event.entryClosesAt||Date.parse(event.entryClosesAt)>now());
 const dateOnly = event => event.deadlinePrecision === 'date';
 const deadlineDisplay = event => dateOnly(event) ? event.deadlineLabel || `${shortDate(event.deadlineDate)}; exact time not published` : dateTime(event.deadline);
 const canPublish = event => {
@@ -65,6 +67,7 @@ document.getElementById('app').innerHTML = `
       <button class="how-button" data-open="method">How we verify ${icon('arrow')}</button>
     </aside></section>
     <section class="field-status" aria-label="Feed status"><div><span class="status-dot"></span><strong id="feed-count">Checking the field</strong><span class="status-divider"></span><span>All deadlines in IST</span></div><button id="refresh-status" data-open="sources">${icon('refresh')}<span id="checked-at">Loading source checks…</span>${icon('arrow')}</button></section>
+    <div class="availability-note"><p id="availability-copy">Counts show events that are open now. Closed entries leave the board automatically.</p><button class="text-link" data-open="availability">Closed & unconfirmed events ${icon('arrow')}</button></div>
     <section id="opportunities" class="opportunities" aria-labelledby="list-title"><div class="section-heading"><div><span class="eyebrow section-eyebrow">THE OPPORTUNITY BOARD</span><h2 id="list-title">${page.full}<span id="list-count">–</span></h2></div><span class="strict-label">${icon('shield')} Strict filters, always on</span></div>
       <div class="toolbar"><label class="search-field">${icon('search')}<input id="search" type="search" placeholder="Search events, skills, organisers…" aria-label="Search events, skills, organisers" autocomplete="off"><kbd>/</kbd></label>
         <label class="select-field"><span>Location</span><select id="mode" aria-label="Filter by event location"><option value="all">Any location</option><option value="online">Online</option><option value="hybrid">Hybrid</option><option value="in-person">In person</option></select></label>
@@ -84,10 +87,12 @@ document.getElementById('app').innerHTML = `
 
 function render() {
   usable = dataset.events.filter(canPublish);
+  shownReviewIds = pendingReview().map(event=>event.id).join(',');
   Object.keys(categories).forEach(key => { document.querySelector(`[data-count="${key}"]`).textContent = usable.filter(e=>e.category===key).length; });
   const current = usable.filter(e => e.category===category);
   document.getElementById('list-count').textContent = current.length;
   document.getElementById('feed-count').textContent = `${usable.length} verified opportunities across 3 fields`;
+  document.getElementById('availability-copy').textContent = `Open now: ${liveCounts()}. Counts fall when entry closes or an evidence review expires.`;
   const latest = dataset.researchUpdatedAt || dataset.refresh?.lastAttemptAt || dataset.updatedAt;
   document.getElementById('checked-at').textContent = latest ? `${dataset.researchUpdatedAt?'Latest review':dataset.refresh?.sourceFailures?'Last scan attempt':'Last checked'} ${dateTime(latest)}` : 'Sources awaiting first check';
   const query = state.query.trim().toLowerCase();
@@ -100,7 +105,7 @@ function render() {
   grid.innerHTML = events.length ? events.map(card).join('') : `<div class="empty-state">${icon(state.saved?'bookmark':'search')}<h3>${state.saved?'Your shortlist starts here.':'Nothing in this field just yet.'}</h3><p>${state.saved?'Save an event using its bookmark. Your shortlist stays in this browser.':'Try a wider search or check another category. We keep unverified and expired events off the board.'}</p><button class="button" id="reset-empty">Reset filters ${icon('refresh')}</button></div>`;
   document.getElementById('saved-count').textContent = saved.size;
   document.getElementById('saved-toggle').setAttribute('aria-pressed',String(state.saved));
-  const pending=(dataset.underReview||[]).filter(e=>e.category===category).length;
+  const pending=pendingReview().filter(e=>e.category===category).length;
   document.getElementById('coverage-copy').innerHTML=`<strong>Evidence reviewed before publication.</strong> ${current.length} verified ${current.length===1?'event':'events'} in this field${pending?`, ${pending} under review`:''}. Discovery is ongoing; this is not a complete list of every event online. View coverage to see what’s being checked.`;
   renderResearch();
 }
@@ -109,9 +114,9 @@ function renderResearch() {
   const panel = document.getElementById('research-snapshot');
   if (!research) { panel.hidden = true; return; }
   panel.hidden = false;
-  const pending = (dataset.underReview || []).filter(event => event.category === category).length;
+  const pending = pendingReview().filter(event => event.category === category).length;
   const update = research.latestUpdate;
-  const updateNote = update ? `<div class="dialog-note"><strong>Latest update · ${shortDate(update.checkedAt)}</strong><p>${escapeHTML(update.summary)}</p><button class="text-link" data-open="updates">What changed ${icon('arrow')}</button></div>` : '';
+  const updateNote = update ? `<div class="dialog-note"><strong>Latest research · ${shortDate(update.checkedAt)}</strong><p><strong>Open now:</strong> ${escapeHTML(liveCounts())}.</p><p>The review recorded ${escapeHTML(update.qualifiedCount)} qualifying events at that time. Live counts exclude closed entries and expired evidence checks.</p><button class="text-link" data-open="updates">What changed ${icon('arrow')}</button></div>` : '';
   panel.innerHTML = `${updateNote}<div class="research-heading"><div><span class="eyebrow">RESEARCH SNAPSHOT / ${shortDate(research.checkedAt).toUpperCase()}</span><h3 id="research-title">A wider search. The same checks.</h3><p>Searches covered ${escapeHTML(research.domainCount)} requested domains, event directories, and official contest pages. Only qualifying, still-open events appear above.</p></div><span class="research-number">${escapeHTML(research.domainCount)}<small>domains searched</small></span></div><div class="research-actions"><button data-open="research">How we searched ${icon('arrow')}</button><button data-open="sources">${pending} ${pending===1?'lead':'leads'} under review in this field ${icon('arrow')}</button>${research.documentUrl?`<a href="${safeLocalPath(research.documentUrl)}" download>Original research · 26 Oct ${icon('download')}</a>`:''}</div>`;
 }
 
@@ -159,7 +164,7 @@ function sourcesDialog() {
   const statuses = refresh.sourceStatuses || [];
   const sources = dataset.sources || [];
   const failure = refresh.sourceFailures || 0;
-  const pending=(dataset.underReview||[]).filter(event=>event.category===category);
+  const pending=pendingReview().filter(event=>event.category===category);
   const discovery=refresh.discovery||{};
   return `<span class="eyebrow">TRANSPARENT BY DEFAULT</span><h2 id="dialog-title">What’s on our radar.</h2><p class="dialog-intro">Official rules first. A source link behind every published opportunity.</p><div class="source-summary"><strong>${usable.length}</strong><span>verified open events<br>across three categories</span></div><p>${dataset.researchUpdatedAt?`Latest research review: ${dateTime(dataset.researchUpdatedAt)}. Each event shows its own evidence date.`:refresh.lastAttemptAt?`Last source scan: ${dateTime(refresh.lastAttemptAt)}.`:`Initial research checked ${dateTime(dataset.updatedAt)}.`} ${failure?`${failure} source checks could not be completed; previous verification dates are preserved.`:''}</p>
     ${research?'<button class="research-dialog-link" data-open="research">Explore the 100-domain research snapshot '+icon('arrow')+'</button>':''}
@@ -171,7 +176,29 @@ function sourcesDialog() {
 function updatesDialog() {
   const update = research?.latestUpdate;
   if (!update) return sourcesDialog();
-  return `<span class="eyebrow">LATEST RESEARCH / ${shortDate(update.checkedAt).toUpperCase()}</span><h2 id="dialog-title">What changed.</h2><p class="dialog-intro">${escapeHTML(update.summary)}</p><p>Reviewed ${dateTime(update.checkedAt)}. The original 100-domain research and document remain dated 26 October.</p><ul class="research-record-list">${(update.changes||[]).map(item=>`<li><a href="${safeURL(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(item.title)} ${icon('arrow')}</a><span class="domain-status">${escapeHTML(item.outcome)}</span><p>${escapeHTML(item.reason)}</p></li>`).join('')}</ul><p class="dialog-note">Only events with confirmed Indian eligibility, explicit AI permission, cash above US$200 and open entry dates appear on the board.</p>`;
+  return `<span class="eyebrow">LATEST RESEARCH / ${shortDate(update.checkedAt).toUpperCase()}</span><h2 id="dialog-title">What changed.</h2><p class="dialog-intro">Open now: ${escapeHTML(liveCounts())}.</p><p><strong>At the time of this review:</strong> ${escapeHTML(update.summary)}</p><p>Reviewed ${dateTime(update.checkedAt)}. The original 100-domain research and document remain dated 26 October.</p><ul class="research-record-list">${(update.changes||[]).map(item=>`<li><a href="${safeURL(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(item.title)} ${icon('arrow')}</a><span class="domain-status">${escapeHTML(item.outcome)}</span><p>${escapeHTML(item.reason)}</p></li>`).join('')}</ul><p class="dialog-note">Only events with confirmed Indian eligibility, explicit AI permission, cash above US$200 and open entry dates appear on the board.</p>`;
+}
+
+function liveCounts() {
+  return `${usable.filter(e=>e.category==='coding').length} coding, ${usable.filter(e=>e.category==='game-development').length} game development, ${usable.filter(e=>e.category==='other').length} other`;
+}
+
+function availabilityDialog() {
+  const records = new Map((dataset.unlistedEvents||[]).map(item=>[item.id,item]));
+  const publishedIds = new Set(dataset.events.filter(canPublish).map(item=>item.id));
+  for (const item of research?.latestUpdate?.changes||[]) {
+    if (!publishedIds.has(item.id)) records.set(item.id,{...records.get(item.id),...item});
+  }
+  for (const event of dataset.events.filter(event=>!canPublish(event))) {
+    const closed = Date.parse(deadline(event)) <= now();
+    const uncertain = closed && event.deadlineIsConservativeCutoff;
+    records.set(event.id,{id:event.id,title:event.title,url:event.url,deadline:deadline(event),deadlineIsConservativeCutoff:event.deadlineIsConservativeCutoff,deadlineLabel:event.deadlineLabel,outcome:uncertain?'Exact closing time unconfirmed':closed?'Entry closed':'Needs a fresh check',reason:uncertain?'The conservative date-only cutoff passed. Check the official page; this does not prove entry has closed.':closed?'The entry deadline has passed.':'The last complete evidence review is over seven days old; the event may still be open.'});
+  }
+  const items=[...records.values()];
+  const closed=items.filter(item=>!item.deadlineIsConservativeCutoff&&((Number.isFinite(Date.parse(item.deadline))&&Date.parse(item.deadline)<=now())||/closed/i.test(item.outcome)));
+  const other=items.filter(item=>!closed.includes(item));
+  const row=item=>`<li><a href="${safeURL(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(item.title)} ${icon('arrow')}</a><span class="domain-status">${escapeHTML(item.outcome)}</span><p>${escapeHTML(item.reason)}</p>${Number.isFinite(Date.parse(item.deadline))?`<p>Entry cutoff: ${escapeHTML(item.deadlineIsConservativeCutoff?item.deadlineLabel||'Date-only deadline; exact time unconfirmed':dateTime(item.deadline))}</p>`:''}</li>`;
+  return `<span class="eyebrow">COUNTS & COVERAGE</span><h2 id="dialog-title">Why a listing is missing.</h2><p class="dialog-intro">Open now: ${escapeHTML(liveCounts())}.</p><p>Counts describe entry availability now, not the number found in an older research snapshot. Closed entries are removed automatically. An expired evidence check needs a fresh review; it does not mean the organizer closed the event.</p><section class="research-coverage"><details open><summary>Closed entries <span>${closed.length}</span></summary><ul class="research-record-list">${closed.sort((a,b)=>Date.parse(b.deadline||0)-Date.parse(a.deadline||0)).map(row).join('')||'<li>No closed entries recorded.</li>'}</ul></details><details open><summary>Unconfirmed or excluded <span>${other.length}</span></summary><p>These are research leads, not qualifying recommendations. Official sources and the reason for exclusion are shown below.</p><ul class="research-record-list">${other.map(row).join('')||'<li>No other exclusions recorded.</li>'}</ul></details></section>`;
 }
 
 function researchDialog() {
@@ -207,7 +234,7 @@ document.addEventListener('click',event=>{
   const button=event.target.closest('button');if(!button)return;
   if(button.classList.contains('dialog-close'))return closeDialog();
   if(button.id==='reset-empty')return reset();
-  if(button.dataset.open)return openDialog(button.dataset.open==='method'?methodDialog():button.dataset.open==='research'?researchDialog():button.dataset.open==='updates'?updatesDialog():sourcesDialog(),button);
+  if(button.dataset.open)return openDialog(button.dataset.open==='method'?methodDialog():button.dataset.open==='research'?researchDialog():button.dataset.open==='updates'?updatesDialog():button.dataset.open==='availability'?availabilityDialog():sourcesDialog(),button);
   if(button.dataset.event){const e=usable.find(e=>e.id===button.dataset.event);if(e)openDialog(eventDialog(e),button);}
   if(button.dataset.save){const id=button.dataset.save;saved.has(id)?saved.delete(id):saved.add(id);try{localStorage.setItem('openfield-saved',JSON.stringify([...saved]));}catch{toast('Browser storage is unavailable; saved for this visit.');}const focusId=id;render();document.querySelector(`[data-save="${CSS.escape(focusId)}"]`)?.focus();toast(saved.has(id)?'Added to your shortlist':'Removed from your shortlist');}
   if(button.dataset.calendar){const e=usable.find(e=>e.id===button.dataset.calendar);if(e)downloadCalendar(e);}
@@ -230,4 +257,4 @@ async function load() {
 load();
 fetch('research-coverage.json',{cache:'no-cache'}).then(response=>{if(!response.ok)throw Error('Research snapshot unavailable');return response.json();}).then(json=>{if(!Array.isArray(json.coverage)||!Number.isFinite(Date.parse(json.checkedAt)))throw Error('Invalid research snapshot');research=json;renderResearch();}).catch(()=>{});
 // Remove closed or stale entries even when a visitor leaves the page open.
-setInterval(()=>{if(!dataset.events.length||dialog.open)return;const before=usable.map(e=>e.id).join(',');const after=dataset.events.filter(canPublish).map(e=>e.id).join(',');if(before!==after){const active=document.activeElement;const id=active?.closest('[data-save],[data-event]')?.dataset;render();if(id?.save)document.querySelector(`[data-save="${CSS.escape(id.save)}"]`)?.focus();else if(id?.event)document.querySelector(`[data-event="${CSS.escape(id.event)}"]`)?.focus();}},60000);
+setInterval(()=>{if(dialog.open)return;const before=usable.map(e=>e.id).join(',');const after=dataset.events.filter(canPublish).map(e=>e.id).join(',');if(before!==after||shownReviewIds!==pendingReview().map(e=>e.id).join(',')){const active=document.activeElement;const id=active?.closest('[data-save],[data-event]')?.dataset;render();if(id?.save)document.querySelector(`[data-save="${CSS.escape(id.save)}"]`)?.focus();else if(id?.event)document.querySelector(`[data-event="${CSS.escape(id.event)}"]`)?.focus();}},60000);
