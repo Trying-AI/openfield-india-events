@@ -1395,112 +1395,657 @@
     }
   ],
   "latestUpdate": {
-    "checkedAt": "2026-11-01T12:24:07.222846+00:00",
-    "summary": "21 qualifying events: 6 coding, 7 game development and 8 other competitions. 5 newly listed; 5 previous listings no longer on the board. Search expanded to individual organizers, including RUN.world and Meta. Counts change as deadlines pass.",
-    "qualifiedCount": 21,
-    "newlyListedCount": 5,
-    "closedPreviousCount": 5,
+    "checkedAt": "2026-11-05T19:28:07.075159+00:00",
+    "reviewDate": "2026-11-06",
+    "summary": "29 qualifying events: 12 coding, 5 game development and 12 other competitions. 12 newly listed; 4 previous listings no longer on the board. 60 source entries checked across platforms, independent organizers and specialist communities. Counts change as deadlines pass.",
+    "qualifiedCount": 29,
+    "newlyListedCount": 12,
+    "closedPreviousCount": 4,
     "categoryCounts": {
-      "other": 8,
-      "game-development": 7,
-      "coding": 6
+      "coding": 12,
+      "game-development": 5,
+      "other": 12
     },
     "method": "Targeted event searches followed by direct organizer pages and official rules, including independent platforms. India eligibility, AI permission, actual cash and entry dates checked separately. Unclear leads remain outside the qualifying board.",
+    "sourceCoverage": [
+      {
+        "name": "WeMakeDevs / Switch",
+        "url": "https://www.wemakedevs.org/hackathons/switch",
+        "notes": "Rechecked existing event, schedule, AI FAQ and conflicting contributor counts."
+      },
+      {
+        "name": "Devpost",
+        "url": "https://devpost.com/c/artificial-intelligence",
+        "notes": "Discovery directory and individual rules: PayPal, Kiroween, Snap, LaunchPad and EthnoHack."
+      },
+      {
+        "name": "Apart Research",
+        "url": "https://apartresearch.com/sprints/agent-attribution-2026",
+        "notes": "New global AI-safety sprint; checked event guidelines and Indian prize banking terms."
+      },
+      {
+        "name": "Vultr / lablab",
+        "url": "https://lablab.build/ai-hackathons/vultr-hackathon",
+        "notes": "New vendor event; separated fiat prizes from credits and raffle hardware."
+      },
+      {
+        "name": "DEV / MLH",
+        "url": "https://dev.to/challenges",
+        "notes": "Checked current announcements, Presage FAQ and contest-specific/general rules; hub itself lagged launch."
+      },
+      {
+        "name": "Unstop / Acadable",
+        "url": "https://api.unstop.com/hackathons/one-who-codes-2026-a-portfolio-challenge-acadable-1784554",
+        "notes": "New portfolio competition; also rejected Catalyst and VibeX for threshold/noncash issues."
+      },
+      {
+        "name": "SpectoV",
+        "url": "https://snh.hiringspectov.com/",
+        "notes": "Independent organizer, full AI rules and open registration form checked; cash-total discrepancy disclosed."
+      },
+      {
+        "name": "Builder.io",
+        "url": "https://www.builder.io/hackathon/rules",
+        "notes": "Cash, geography and entry timing confirmed; AI-assistance rule unresolved."
+      },
+      {
+        "name": "AMD AI League",
+        "url": "https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge",
+        "notes": "Current league identified; not published without full eligibility/policy evidence."
+      },
+      {
+        "name": "HackerEarth",
+        "url": "https://booking.hackerearth.com/hackcellence.html",
+        "notes": "Concrete Booking lead closed to new registrations; November finale is not an open entry window."
+      },
+      {
+        "name": "Devfolio",
+        "url": "https://synapse-hr-hackathon.devfolio.co/",
+        "notes": "Targeted searches found historical or closed leads; no new verified coding event in this pass."
+      },
+      {
+        "name": "Hack2skill",
+        "url": "https://hack2skill.com/",
+        "notes": "Targeted November cash-event search did not return a concrete qualifying source during the bounded pass."
+      },
+      {
+        "name": "Code for India",
+        "url": "https://codeforindia.org/hackathon",
+        "notes": "Rechecked live page and linked official submission repository; prize-total conflict remains."
+      },
+      {
+        "name": "Global Virtual Hackathon",
+        "url": "https://gvhackathon.com/",
+        "notes": "Renewed worldwide school eligibility, AI, guardian requirements, prize and entry deadlines."
+      },
+      {
+        "name": "ZIVOX",
+        "url": "https://pilot-event.zivox.co.in/details/",
+        "notes": "Detected reschedule, reduced cash and new fee; removed old qualifying status."
+      },
+      {
+        "name": "DevGrants Daily",
+        "url": "https://devgrantsdaily.com/type/hackathon/",
+        "notes": "Discovery only; primary pages used for qualification."
+      },
+      {
+        "name": "RUN.world",
+        "url": "https://events.run.world/",
+        "notes": "Direct event directory checked: October Jam judging; Glow has no stated cash; Editors Choice gives USD100 marketing; no upcoming cash event."
+      },
+      {
+        "name": "thatgamecompany",
+        "url": "https://itch.io/jam/thatgamejam02",
+        "notes": "Jam page and host FAQ reread; global eligibility, AI disclosure, USD10000 and entry cutoff remain valid."
+      },
+      {
+        "name": "GDevelop",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-10",
+        "notes": "Jam page and host AI-assets reply checked. EUR1000 monetary awards; worldwide. AI permission is scoped to assets with rights."
+      },
+      {
+        "name": "Meta VR Start",
+        "url": "https://start-developer-competition-26.devpost.com/",
+        "notes": "Rules, official AI development guide, membership terms and FAQ checked. Start approval required; USD1M counted once."
+      },
+      {
+        "name": "Chroma Awards",
+        "url": "https://chromaawards.com/prizes/game-arcade-party",
+        "notes": "Game prize and current Season2 rules checked; Arcade & Party USD3500. India subject to age/sanctions/government-affiliation exclusions."
+      },
+      {
+        "name": "Epic Games",
+        "url": "https://itch.io/jam/2026-epic-ai-megajam",
+        "notes": "Main page reread; current Box PDF unavailable through web and terminal download not approved. Preserve1Nov verification timestamp."
+      },
+      {
+        "name": "Global Game Jam / Zoud",
+        "url": "https://zoudgamelab.org/faq/",
+        "notes": "New direct organizer investigated; explicit worldwide/AI confirmed, cash vs grant split unresolved."
+      },
+      {
+        "name": "Bezi",
+        "url": "https://itch.io/jam/bezi-jam-15",
+        "notes": "Direct rules checked; games/devlog USD350. Fan-art USD50 forbidsAI; missing country statement and conflicting times prevent verified publication."
+      },
+      {
+        "name": "Rosebud AI",
+        "url": "https://rosebud.ai/",
+        "notes": "Targeted organizer search produced closed sponsoredSlapjam and Chroma opportunities; no separate new fully qualified current jam."
+      },
+      {
+        "name": "Defold / Minit",
+        "url": "https://forum.defold.com/t/defold-minit-game-jam-1/83382",
+        "notes": "Official active cash-jam lead retained for policy verification."
+      },
+      {
+        "name": "Pixel Forge",
+        "url": "https://pixelforgejam.org/",
+        "notes": "Direct organizer checked; generative AI prohibited."
+      },
+      {
+        "name": "itch.io discovery",
+        "url": "https://itch.io/jams",
+        "notes": "Targeted November cash/AI searches expanded discovery; no policy inferred from itch platform alone."
+      },
+      {
+        "name": "BuildJams discovery",
+        "url": "https://jams.shippedby.app/ai-game-jams/",
+        "notes": "Search index used as lead source only, never final eligibility proof."
+      },
+      {
+        "name": "JamRadar discovery",
+        "url": "https://jamradar.pages.dev/",
+        "notes": "Search index used to broaden AI game-jam leads; not official-rule proof."
+      },
+      {
+        "name": "Allied Holding Company Enjoyers Pty Ltd / Post-Meaning",
+        "url": "https://www.postmeaning.art/",
+        "notes": "Official current entry and rule review; qualifies with conditions shown."
+      },
+      {
+        "name": "Chroma Awards",
+        "url": "https://chromaawards.com/prizes/film-tv-action-adventure",
+        "notes": "Official current entry and rule review; qualifies with conditions shown."
+      },
+      {
+        "name": "NEXT SOUND",
+        "url": "https://nextsoundawards.com/",
+        "notes": "Official current entry and rule review; qualifies with conditions shown."
+      },
+      {
+        "name": "HB Publications, LLC",
+        "url": "https://promptyawards.com/",
+        "notes": "Official current entry and rule review; qualifies with conditions shown."
+      },
+      {
+        "name": "New Media Academy LLC / 1 Billion Followers Summit",
+        "url": "https://www.1billionsummit.com/ai-award-2027",
+        "notes": "Official current entry and rule review; qualifies with conditions shown."
+      },
+      {
+        "name": "Artefact × mk2",
+        "url": "https://artefact-ai-film-festival.com/",
+        "notes": "Official current entry and rule review; qualifies with conditions shown."
+      },
+      {
+        "name": "M.AI",
+        "url": "https://filmfreeway.com/MAIINTERNATIONALAISHORTFILMFESTIVAL",
+        "notes": "Official current entry and rule review; qualifies with conditions shown."
+      },
+      {
+        "name": "SouArt Alliance / Atlanta International Art Academy",
+        "url": "https://www.atlantaaiadfest.com/en",
+        "notes": "Official current entry and rule review; qualifies with conditions shown."
+      },
+      {
+        "name": "AI ZONE / FutureMachines Ltd",
+        "url": "https://filmfreeway.com/AIZONEInternationalAIFilmFestival2026",
+        "notes": "Official current entry and rule review; qualifies with conditions shown."
+      },
+      {
+        "name": "360° Creativity Events APS / PARMA 360",
+        "url": "https://parma360festival.it/call-for-artists/",
+        "notes": "Official current entry and rule review; qualifies with conditions shown."
+      },
+      {
+        "name": "Higgsfield contest index and rules",
+        "url": "https://higgsfield.ai/community/contests",
+        "notes": "Reviewed current index and festival/Discord rules: ended contests or credit prizes."
+      },
+      {
+        "name": "Runway AI Festival",
+        "url": "https://aif.runwayml.com/terms",
+        "notes": "Direct 2026 rules: entry period closed."
+      },
+      {
+        "name": "Tripo challenges",
+        "url": "https://www.tripo3d.ai/event/s3-3d-rendering-challenge",
+        "notes": "Direct challenge and October-updated blog checked; actual event closed in July."
+      },
+      {
+        "name": "Meshy events",
+        "url": "https://www.meshy.ai/pl/events/midnight-mischief",
+        "notes": "Official current Halloween result: closed and noncash rewards."
+      },
+      {
+        "name": "ElevenLabs creative competitions",
+        "url": "https://elevenlabs.io/blog/the-search-100000-for-the-worlds-catchiest-ad",
+        "notes": "The Search closed 1 November PST; Chroma remains open separately."
+      },
+      {
+        "name": "PixVerse partner program",
+        "url": "https://pixverse.ai/en/blog/pixverse-global-creative-partner-program-2-0",
+        "notes": "Cash reward program found; selective partner access and current round not verified."
+      },
+      {
+        "name": "Kling AI",
+        "url": "https://klingai.com/",
+        "notes": "Targeted discovery attempted; official source blocked, so no qualification claimed."
+      },
+      {
+        "name": "AICINEO",
+        "url": "https://aicineo.com/festival",
+        "notes": "Open contest found, but cash-only pool not separated from contracts."
+      },
+      {
+        "name": "LibTV / Hainan AI Film Season",
+        "url": "https://www.liblib.tv/hiiff-aifilmseason",
+        "notes": "Global invitation, AI media and cash found; full submission/payment terms pending."
+      },
+      {
+        "name": "NEXMUSE",
+        "url": "https://nexmuse.kr/about",
+        "notes": "New music-video lead: official schedule and award pages checked; detailed international terms pending."
+      },
+      {
+        "name": "Cue Film Fest",
+        "url": "https://cuefilmfest.com/",
+        "notes": "Open Christmas-film call discovered; cash amount needs confirmation."
+      },
+      {
+        "name": "DPIFF AI short-film category",
+        "url": "https://dpiff.in/short-film/best-ai-short-film-award-2027-submit-your-ai-film-to-dpiff/",
+        "notes": "Official category amount found below the cash threshold."
+      },
+      {
+        "name": "AI LIVE event directory",
+        "url": "https://theailiveshow.com/events",
+        "notes": "Discovery only; Atlanta/Hainan/Tencent leads followed to organizer sources."
+      },
+      {
+        "name": "AI Film Contests",
+        "url": "https://aifilmcontests.com/prize/cash-prizes",
+        "notes": "Discovery only; AI ZONE, Cue and NEXMUSE checked against official sources."
+      },
+      {
+        "name": "PROMPT Magazine art calls",
+        "url": "https://www.promptmagazine.ai/parma360-ai-horizons-open-call",
+        "notes": "Parma lead followed to full organizer rules."
+      },
+      {
+        "name": "European Central Bank",
+        "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+        "notes": "5 November 2026 EUR/USD reference 1.1224 used for EUR award comparisons."
+      },
+      {
+        "name": "IIM Bangalore / Unstop innovation challenges",
+        "url": "https://unstop.com/competitions/follow-the-money-innovation-challenge-iim-bangalore-1773522/amp",
+        "notes": "Expanded beyond programming to student business and policy innovation; official listing verified."
+      },
+      {
+        "name": "Aldevere writing competitions",
+        "url": "https://aldevere.com/scholarships/essay-prize/",
+        "notes": "Academic writing prize qualifies only for its explicitly permitted proofreading use of AI."
+      },
+      {
+        "name": "XSci research competitions",
+        "url": "https://xsci.com/xorc-2026/introduction",
+        "notes": "Research cash-award lead reviewed; unresolved entrant AI policy keeps it off the qualifying board."
+      },
+      {
+        "name": "ALTA student challenges",
+        "url": "https://www.altaschool.tech/ai-genesis-challenge",
+        "notes": "AI challenge discovered; noncash awards excluded."
+      }
+    ],
     "changes": [
       {
-        "id": "meta-vr-start-developer-competition-2026",
-        "title": "Meta VR Start Developer Competition 2026",
-        "url": "https://start-developer-competition-26.devpost.com/",
-        "outcome": "New on the board",
-        "reason": "Previously missed in discovery. USD 1M shared cash pool; AI coding encouraged; Indian entrants who meet Start membership and other rules can participate. Submit by 19 November at 1:30 AM IST. Membership approval required.",
+        "id": "flip-the-switch-2026",
+        "title": "Flip the Switch Hackathon",
+        "url": "https://www.wemakedevs.org/hackathons/switch",
+        "outcome": "Qualified refreshed",
+        "reason": "Entry remains open; deadline, AI permission, eligibility and cash reconfirmed. Existing conservative prize value retained where official totals conflict.",
         "sources": [
-          "https://start-developer-competition-26.devpost.com/rules",
-          "https://developers.meta.com/blog/meta-connect-2026-vr-start-developer-competition/",
-          "https://developers.meta.com/vr/start/terms/"
+          "https://www.wemakedevs.org/hackathons/switch",
+          "https://www.wemakedevs.org/hackathons/switch/rules",
+          "https://www.wemakedevs.org/hackathons/switch/schedule"
         ],
-        "category": "game-development"
+        "category": "coding"
       },
       {
-        "id": "meta-global-ai-hackathon-2026",
-        "title": "Meta Global AI Developer Hackathon",
-        "url": "https://dev.meta.ai/events/global-hackathon",
-        "outcome": "Registration closed",
-        "reason": "The event is still running, but new applications closed 25 October at 11:59 PM Eastern (26 October at 9:29 AM IST). The 4 November project deadline applies to accepted participants. This is a different event from Meta VR Start.",
+        "id": "code-for-a-billion-bharat-agentic-ai-2026",
+        "title": "Code for a Billion Bharat Agentic AI Hackathon 2026",
+        "url": "https://codeforindia.org/hackathon",
+        "outcome": "Qualified refreshed",
+        "reason": "Entry remains open; deadline, AI permission, eligibility and cash reconfirmed. Existing conservative prize value retained where official totals conflict.",
         "sources": [
-          "https://dev.meta.ai/events/global-hackathon"
-        ]
+          "https://codeforindia.org/hackathon",
+          "https://github.com/karlmehta/code-for-a-billion"
+        ],
+        "category": "coding"
       },
       {
-        "id": "meta-horizon-game-prototype-2026",
-        "title": "Meta Horizon Creator Competition: Game Prototype",
-        "url": "https://mhcp-game-prototype.devpost.com/",
-        "outcome": "Closed",
-        "reason": "Official page says this competition ended; entry window was 17 August–8 September 2026. Its separate Creator Program conditions are not the Start program's conditions.",
+        "id": "paypal-ai-hackathon-2026",
+        "title": "PayPal AI Hackathon",
+        "url": "https://paypalaihackathon.devpost.com/",
+        "outcome": "Qualified refreshed",
+        "reason": "Entry remains open; deadline, AI permission, eligibility and cash reconfirmed. ",
         "sources": [
-          "https://mhcp-game-prototype.devpost.com/",
-          "https://mhcp-game-prototype.devpost.com/rules"
-        ]
+          "https://paypalaihackathon.devpost.com/",
+          "https://paypalaihackathon.devpost.com/rules"
+        ],
+        "category": "coding"
       },
       {
-        "id": "wispr-no-hands-2026",
-        "title": "No Hands: The Wispr Challenge",
-        "url": "https://www.wemakedevs.org/wispr",
-        "category": "coding",
-        "deadline": "2026-10-31T18:29:00Z",
-        "outcome": "Entry closed",
-        "reason": "The entry deadline passed after the previous website update."
-      },
-      {
-        "id": "hacktoberfest-open-source-ai-challenge-week-4",
-        "title": "Hacktoberfest Open-Source AI Challenge: Week 4 — Ghost in the Machine",
-        "url": "https://dev.to/challenges/hacktoberfest-week4-2026-10-26",
-        "category": "coding",
-        "deadline": "2026-11-01T06:59:00Z",
-        "outcome": "Entry closed",
-        "reason": "The entry deadline passed after the previous website update."
-      },
-      {
-        "id": "ugreen-ai-nas-hackathon-2026",
-        "title": "UGREEN Hackathon 2026 on AI NAS",
-        "url": "https://ugreenhackathon.devpost.com/",
-        "outcome": "India excluded",
-        "reason": "Official rules explicitly list India among excluded countries, despite an open November deadline and USD 46,000 in cash. Excluded under the user's India filter.",
+        "id": "kiroween-2026",
+        "title": "Kiroween 2026",
+        "url": "https://kiroween.devpost.com/",
+        "outcome": "Qualified refreshed",
+        "reason": "Entry remains open; deadline, AI permission, eligibility and cash reconfirmed. Corrected actual cash to USD 94,000, excluding subscriptions.",
         "sources": [
-          "https://ugreenhackathon.devpost.com/rules"
-        ]
+          "https://kiroween.devpost.com/",
+          "https://kiroween.devpost.com/rules"
+        ],
+        "category": "coding"
       },
       {
-        "id": "builder-agent-native-2026",
+        "id": "global-virtual-hackathon-2026",
+        "title": "Global Virtual Hackathon 2026",
+        "url": "https://gvhackathon.com/",
+        "outcome": "Qualified refreshed",
+        "reason": "Entry remains open; deadline, AI permission, eligibility and cash reconfirmed. ",
+        "sources": [
+          "https://gvhackathon.com/"
+        ],
+        "category": "coding"
+      },
+      {
+        "id": "zivox-ai-innovation-challenge-2026",
+        "title": "ZIVOX AI Innovation Challenge 2027 (rescheduled)",
+        "url": "https://pilot-event.zivox.co.in/",
+        "outcome": "Excluded",
+        "reason": "Rescheduled: registration opens 20 February 2027; new ₹16,000 cash total is below USD 200. Old November dates, free entry and ₹27,000 amount are obsolete.",
+        "sources": [
+          "https://pilot-event.zivox.co.in/details/",
+          "https://pilot-event.zivox.co.in/rules"
+        ],
+        "category": "coding"
+      },
+      {
+        "id": "apart-agent-attribution-2026",
+        "title": "Agent Attribution Hackathon",
+        "url": "https://apartresearch.com/sprints/agent-attribution-2026",
+        "outcome": "New on the board",
+        "reason": "Official AI permission, Indian eligibility, cash above USD 200 and an open entry window confirmed.",
+        "sources": [
+          "https://apartresearch.com/sprints/agent-attribution-2026",
+          "https://apartresearch.com/sprints/agent-attribution-2026",
+          "https://apartresearch.com/sprints/agent-attribution-2026",
+          "https://apartresearch.com/sprints/agent-attribution-2026"
+        ],
+        "category": "coding"
+      },
+      {
+        "id": "launchpad-hacks-2026",
+        "title": "LaunchPad Hacks",
+        "url": "https://launchpad-hacks.devpost.com/",
+        "outcome": "New on the board",
+        "reason": "Official AI permission, Indian eligibility, cash above USD 200 and an open entry window confirmed.",
+        "sources": [
+          "https://launchpad-hacks.devpost.com/",
+          "https://launchpad-hacks.devpost.com/rules",
+          "https://launchpad-hacks.devpost.com/",
+          "https://launchpad-hacks.devpost.com/"
+        ],
+        "category": "coding"
+      },
+      {
+        "id": "learn-ar-with-specs-2026",
+        "title": "Learn AR with SPECS",
+        "url": "https://learn-specs.devpost.com/",
+        "outcome": "New on the board",
+        "reason": "Official AI permission, Indian eligibility, cash above USD 200 and an open entry window confirmed.",
+        "sources": [
+          "https://learn-specs.devpost.com/",
+          "https://learn-specs.devpost.com/rules",
+          "https://learn-specs.devpost.com/rules",
+          "https://learn-specs.devpost.com/"
+        ],
+        "category": "coding"
+      },
+      {
+        "id": "vultr-agent-rush-2026",
+        "title": "Vultr: Agent Rush Hackathon",
+        "url": "https://lablab.build/ai-hackathons/vultr-hackathon",
+        "outcome": "New on the board",
+        "reason": "Official AI permission, Indian eligibility, cash above USD 200 and an open entry window confirmed.",
+        "sources": [
+          "https://lablab.build/ai-hackathons/vultr-hackathon",
+          "https://lablab.build/code-of-conduct",
+          "https://lablab.ai/",
+          "https://community.vultr.com/e/vultr-agent-rush-hackathon"
+        ],
+        "category": "coding"
+      },
+      {
+        "id": "spectov-national-hackathon-2026",
+        "title": "SpectoV National Hackathon 2026",
+        "url": "https://snh.hiringspectov.com/",
+        "outcome": "New on the board",
+        "reason": "Official AI permission, Indian eligibility, cash above USD 200 and an open entry window confirmed.",
+        "sources": [
+          "https://snh.hiringspectov.com/",
+          "https://snh.hiringspectov.com/rules/",
+          "https://snh.hiringspectov.com/",
+          "https://snh.hiringspectov.com/rules/"
+        ],
+        "category": "coding"
+      },
+      {
+        "id": "presage-smartspectra-sdk-2026",
+        "title": "Presage SmartSpectra SDK Challenge",
+        "url": "https://dev.to/challenges/presage-2026-11-04",
+        "outcome": "New on the board",
+        "reason": "Official AI permission, Indian eligibility, cash above USD 200 and an open entry window confirmed.",
+        "sources": [
+          "https://dev.to/challenges/presage-2026-11-04",
+          "https://dev.to/challenges/presage-2026-11-04",
+          "https://dev.to/page/official-hackathon-rules",
+          "https://dev.to/page/presage-2026-11-04-contest-rules"
+        ],
+        "category": "coding"
+      },
+      {
+        "id": "one-who-codes-2026",
+        "title": "One Who Codes 2026 — Portfolio Challenge",
+        "url": "https://unstop.com/hackathons/one-who-codes-2026-a-portfolio-challenge-acadable-1784554",
+        "outcome": "New on the board",
+        "reason": "Official AI permission, Indian eligibility, cash above USD 200 and an open entry window confirmed.",
+        "sources": [
+          "https://unstop.com/hackathons/one-who-codes-2026-a-portfolio-challenge-acadable-1784554",
+          "https://api.unstop.com/hackathons/one-who-codes-2026-a-portfolio-challenge-acadable-1784554",
+          "https://api.unstop.com/hackathons/one-who-codes-2026-a-portfolio-challenge-acadable-1784554",
+          "https://api.unstop.com/hackathons/one-who-codes-2026-a-portfolio-challenge-acadable-1784554"
+        ],
+        "category": "coding"
+      },
+      {
+        "id": "builder-agent-native-hackathon-2026",
         "title": "Builder.io Agent-Native Hackathon",
         "url": "https://www.builder.io/hackathon",
-        "outcome": "Under review",
-        "reason": "Independent organizer site confirms USD 10,000 cash, worldwide entry and 10 November 07:59 UTC cutoff. AI agents are required in the app, but explicit permission for AI coding assistance was not located; the distinction remains unresolved.",
+        "outcome": "Pending",
+        "reason": "USD 10,000, worldwide majority-age eligibility and 9 November entry deadline confirmed. Required AI-agent framework is explicit, but blanket AI-assisted coding permission was not located in the rules reviewed.",
         "sources": [
-          "https://www.builder.io/hackathon",
           "https://www.builder.io/hackathon/rules"
         ]
       },
       {
-        "id": "agentware-ai-agent-hackathon-2026",
-        "title": "Agentware AI Agent Hackathon",
-        "url": "https://agentwarehack.com/",
-        "outcome": "Under review",
-        "reason": "Independent event page explicitly expects AI coding tools and advertises USD 1,800 for 27–30 November. Contest-specific geographic eligibility and cash payment terms were not established; the organizer's past participation in 85+ countries is insufficient.",
+        "id": "amd-ai-league-2026",
+        "title": "AMD AI League",
+        "url": "https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge",
+        "outcome": "Pending",
+        "reason": "Current solo league and USD 5,000 podium confirmed; complete geography/prize eligibility and applicable AI-assistance rules were not obtained. Match prizes are separate; do not count closed matches.",
         "sources": [
-          "https://agentwarehack.com/",
-          "https://www.raptors.dev/"
+          "https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge"
         ]
       },
       {
-        "id": "run-october-jam-2026",
-        "title": "October Jam — Monster Mash (RUN)",
-        "url": "https://events.run.world/events/octoberjam/",
-        "outcome": "New on the board",
-        "reason": "The previous missing payout evidence is resolved: official rules name Tipalti and its current coverage explicitly supports India. $26,000 game-only cash; $30,000 overall shared across formats.",
+        "id": "ethnohack-2026",
+        "title": "EthnoHack 2026",
+        "url": "https://ethnohack2026.devpost.com/",
+        "outcome": "Registration closed",
+        "reason": "Official rules close prize-eligible registration on 31 October, even though project submissions continue to 8 November.",
         "sources": [
-          "https://policy.run.world/octoberjam-rules.html",
-          "https://events.run.world/events/octoberjam/",
-          "https://help.tipalti.com/hc/en-us/articles/31314361313815-Payment-methods-coverage-US-ROW"
+          "https://ethnohack2026.devpost.com/rules"
+        ]
+      },
+      {
+        "id": "catalyst-solo-ai-2026",
+        "title": "Catalyst Solo AI Hackathon",
+        "url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798/amp",
+        "outcome": "Excluded",
+        "reason": "₹15,000 announced prize pool is below USD 200; registration still open.",
+        "sources": [
+          "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798/amp"
+        ]
+      },
+      {
+        "id": "vibex-codes-26",
+        "title": "VibeX Codes 26",
+        "url": "https://api.unstop.com/hackathons/vibex-codes-26-globalyogacourse-1766232",
+        "outcome": "Excluded",
+        "reason": "The prize descriptions identify credits and certificates; no qualifying fiat-cash pool.",
+        "sources": [
+          "https://api.unstop.com/hackathons/vibex-codes-26-globalyogacourse-1766232"
+        ]
+      },
+      {
+        "id": "catalyst-hack-2026",
+        "title": "Catalyst Hack 2026",
+        "url": "https://api.unstop.com/hackathons/catalyst-hack-2026-catalyst-crew-dev-community-1760000",
+        "outcome": "Registration closed",
+        "reason": "Registration ended 26 October; final event was 1 November.",
+        "sources": [
+          "https://api.unstop.com/hackathons/catalyst-hack-2026-catalyst-crew-dev-community-1760000"
+        ]
+      },
+      {
+        "id": "skillathon-2026",
+        "title": "Skillathon 2026",
+        "url": "https://bengaluruskillsummit.com/skillathon-2026/",
+        "outcome": "Registration closed",
+        "reason": "Submission cutoff was 20 October, despite a 4 November final.",
+        "sources": [
+          "https://bengaluruskillsummit.com/skillathon-2026/"
+        ]
+      },
+      {
+        "id": "booking-hackcellence-2026",
+        "title": "HackCellence × Embark",
+        "url": "https://booking.hackerearth.com/hackcellence.html",
+        "outcome": "Registration closed",
+        "reason": "8 October registration cutoff; November final is restricted to earlier qualifiers.",
+        "sources": [
+          "https://booking.hackerearth.com/hackcellence.html"
+        ]
+      },
+      {
+        "id": "sinceai-2026",
+        "title": "SinceAI 2026",
+        "url": "https://sinceai.ai/hackathon",
+        "outcome": "Pending",
+        "reason": "In-person Finland event on 6–8 November with advertised cash; current acceptance cutoff and explicit AI-assisted coding permission not fully confirmed.",
+        "sources": [
+          "https://sinceai.ai/hackathon"
+        ]
+      },
+      {
+        "id": "synapse-2025-24hr",
+        "title": "SYNAPSE 2025 24Hr Hackathon",
+        "url": "https://synapse-hr-hackathon.devfolio.co/",
+        "outcome": "Excluded",
+        "reason": "Historical edition with conflicting older dates; not a confirmed open November 2026 competition.",
+        "sources": [
+          "https://synapse-hr-hackathon.devfolio.co/"
+        ]
+      },
+      {
+        "id": "mlh-dev-writing-nov2026",
+        "title": "MLH × DEV monthly writing challenge",
+        "url": "https://dev.to/challenges",
+        "outcome": "Pending",
+        "reason": "Current hub says USD 100 per selected project; aggregate pool above USD 200 and applicable AI policy not confirmed.",
+        "sources": [
+          "https://dev.to/challenges"
+        ]
+      },
+      {
+        "id": "global-ai-builders-challenge-2026",
+        "title": "Global AI Builders Challenge",
+        "url": "https://global-ai-builders-challenge.devpost.com/",
+        "outcome": "Excluded",
+        "reason": "Official listing advertises non-cash awards; does not meet cash filter.",
+        "sources": [
+          "https://global-ai-builders-challenge.devpost.com/"
+        ]
+      },
+      {
+        "id": "thatgamejam-02-2026",
+        "title": "thatgamejam #02",
+        "url": "https://itch.io/jam/thatgamejam02",
+        "outcome": "Reverified",
+        "reason": "Entry still open or upcoming with registration available; official cash, AI permission and Indian geographic eligibility rechecked. Individual age, asset-rights, program and payment conditions still apply.",
+        "sources": [
+          "https://itch.io/jam/thatgamejam02",
+          "https://itch.io/jam/thatgamejam02/topic/7110933/thatgamejam02-faq"
+        ],
+        "category": "game-development"
+      },
+      {
+        "id": "gdevelop-big-game-jam-10-2026",
+        "title": "GDevelop BIG Game Jam #10",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-10",
+        "outcome": "Reverified",
+        "reason": "Entry still open or upcoming with registration available; official cash, AI permission and Indian geographic eligibility rechecked. Individual age, asset-rights, program and payment conditions still apply.",
+        "sources": [
+          "https://itch.io/jam/gdevelop-big-game-jam-10",
+          "https://itch.io/jam/gdevelop-big-game-jam-10/topic/7083671/a-doubt"
+        ],
+        "category": "game-development"
+      },
+      {
+        "id": "chroma-arcade-party-season-2",
+        "title": "Chroma Awards — Arcade & Party",
+        "url": "https://chromaawards.com/prizes/game-arcade-party",
+        "outcome": "Reverified",
+        "reason": "Entry still open or upcoming with registration available; official cash, AI permission and Indian geographic eligibility rechecked. Individual age, asset-rights, program and payment conditions still apply.",
+        "sources": [
+          "https://chromaawards.com/prizes/game-arcade-party",
+          "https://chromaawards.com/terms"
+        ],
+        "category": "game-development"
+      },
+      {
+        "id": "meta-vr-start-developer-competition-2026",
+        "title": "Meta VR Start Developer Competition 2026",
+        "url": "https://start-developer-competition-26.devpost.com/",
+        "outcome": "Reverified",
+        "reason": "Entry still open or upcoming with registration available; official cash, AI permission and Indian geographic eligibility rechecked. Individual age, asset-rights, program and payment conditions still apply.",
+        "sources": [
+          "https://start-developer-competition-26.devpost.com/",
+          "https://start-developer-competition-26.devpost.com/rules",
+          "https://developers.meta.com/blog/meta-connect-2026-vr-start-developer-competition/"
         ],
         "category": "game-development"
       },
@@ -1508,11 +2053,34 @@
         "id": "epic-ai-megajam-2026",
         "title": "2026 Epic AI MegaJam",
         "url": "https://itch.io/jam/2026-epic-ai-megajam",
-        "outcome": "Reverified",
-        "reason": "Current official PDF was downloaded and checked, renewing the prior 25 October review. Updated country wording and other conditions reflect the 30 October revision.",
+        "outcome": "Partially rechecked",
+        "reason": "Official jam listing reconfirms dates, USD65,000 cash and AI. Box rule PDF fetch failed; network permission download was aborted, so 1 November full verifiedAt is preserved. No fresh eligibility claim.",
         "sources": [
           "https://itch.io/jam/2026-epic-ai-megajam",
-          "https://epicgames.ent.box.com/index.php?rm=box_download_shared_file&shared_name=a7xcgl07fqoieeb99sjtd3juhj4agc4z&file_id=f_2543555439894"
+          "https://epicgames.box.com/s/a7xcgl07fqoieeb99sjtd3juhj4agc4z"
+        ],
+        "category": "game-development"
+      },
+      {
+        "id": "run-october-jam-2026",
+        "title": "October Jam — Monster Mash (RUN)",
+        "url": "https://events.run.world/events/octoberjam/",
+        "outcome": "Closed",
+        "reason": "RUN directory now marks October Jam as judging. Submissions closed 2 November; voting/judging must not be presented as entry open.",
+        "sources": [
+          "https://events.run.world/",
+          "https://events.run.world/events/octoberjam/"
+        ],
+        "category": "game-development"
+      },
+      {
+        "id": "game-gauntlet-sim-jam-2026",
+        "title": "Game Gauntlet SIM Jam",
+        "url": "https://itch.io/jam/game-gauntlet-sim-jam",
+        "outcome": "Closed",
+        "reason": "Previously verified submission cutoff 4 November 19:00 UTC has passed; no verification renewal.",
+        "sources": [
+          "https://itch.io/jam/game-gauntlet-sim-jam"
         ],
         "category": "game-development"
       },
@@ -1520,40 +2088,25 @@
         "id": "slapjam-2-2026",
         "title": "Slapjam #2",
         "url": "https://itch.io/jam/slapjam-ai-2",
-        "category": "game-development",
-        "deadline": "2026-10-31T15:00:00Z",
-        "outcome": "Entry closed",
-        "reason": "The entry deadline passed after the previous website update."
+        "outcome": "Closed",
+        "reason": "Submission cutoff 31 October has passed. November judging does not reopen entry. No new qualified Slapjam announced in searched results.",
+        "sources": [
+          "https://itch.io/jam/slapjam-ai-2",
+          "https://slapjam.ai/"
+        ],
+        "category": "game-development"
       },
       {
-        "id": "run-weekly-liminal-2026",
-        "title": "RUN — Liminal weekly theme",
-        "url": "https://events.run.world/events/liminal/",
-        "outcome": "Excluded",
-        "reason": "Live weekly creation theme closes 4 November, but no cash award above $200 is stated.",
+        "id": "zoud-gamelab-2026",
+        "title": "Zoud GameLab — Financial Literacy Game Jam",
+        "url": "https://itch.io/jam/zoud-gamelab",
+        "outcome": "Under review",
+        "reason": "Official FAQ permits disclosed AI and worldwide entrants age18+. Submissions end 16 November 11:59:59 UTC. Headline up to USD140,000 combines cash and milestone development funding; separate unconditional cash amount remains unverified. Linked award terms require further retrieval. Do not publish USD140,000 as cash.",
         "sources": [
-          "https://events.run.world/",
-          "https://events.run.world/events/liminal/"
-        ]
-      },
-      {
-        "id": "run-editors-choice",
-        "title": "RUN — Editor’s Choice",
-        "url": "https://events.run.world/events/editors-choice/",
-        "outcome": "Excluded",
-        "reason": "Weekly selection gives a feature and $100 marketing support, not a qualifying cash prize pool.",
-        "sources": [
-          "https://events.run.world/events/editors-choice/"
-        ]
-      },
-      {
-        "id": "run-november-jam-2026",
-        "title": "RUN — next creator jam",
-        "url": "https://events.run.world/",
-        "outcome": "No concrete event",
-        "reason": "The direct RUN event directory currently lists zero scheduled upcoming events; no November cash jam is announced there.",
-        "sources": [
-          "https://events.run.world/"
+          "https://zoudgamelab.org/faq/",
+          "https://itch.io/jam/zoud-gamelab",
+          "https://zoudgamelab.org/policy-terms-conditions/",
+          "https://docs.google.com/document/d/14Mj1JaWn-WluNL8uSFx1s1MQNMxzsKZ2FIwckyX3fk4/edit?usp=sharing"
         ]
       },
       {
@@ -1561,31 +2114,120 @@
         "title": "Bezi Jam 15 — UNREAL",
         "url": "https://itch.io/jam/bezi-jam-15",
         "outcome": "Under review",
-        "reason": "AI assistant use is explicitly optional and permitted for games, and the game awards total $300. Fan-art track prohibits AI. Country/prize eligibility remains unconfirmed; timeline text also differs by one hour from the itch timer.",
+        "reason": "AI assistant explicitly optional for games. USD350 for game/devlog; separate USD50 fan-art track prohibits AI. India/worldwide eligibility not explicit, and UTC portal time conflicts by one hour with written PST schedule. Keep out of verified list until resolved.",
         "sources": [
           "https://itch.io/jam/bezi-jam-15"
         ]
       },
       {
-        "id": "lablab-ai-game-jam",
-        "title": "lablab.ai — AI Game Jam",
-        "url": "https://lablab.ai/ai-hackathons/ai-game-jam",
-        "outcome": "Under review",
-        "reason": "The current official page says date to be announced; search listings with November dates are insufficient. No verified cash amount above $200 established.",
+        "id": "run-glow-weekly-2026",
+        "title": "RUN weekly theme — Glow",
+        "url": "https://events.run.world/",
+        "outcome": "Excluded",
+        "reason": "Current theme ends11 November but no cash award stated. Editors Choice offers USD100 marketing, below threshold and not cash; no upcoming cash jam listed.",
         "sources": [
-          "https://lablab.ai/ai-hackathons/ai-game-jam"
+          "https://events.run.world/"
         ]
       },
       {
-        "id": "elevenlabs-the-search-2026",
-        "title": "The Search — World's Catchiest AI Ad",
-        "url": "https://elevenlabs.io/creative/thesearch",
-        "outcome": "New on the board",
-        "reason": "Previously missed in discovery; official rules now confirm Indian eligibility, explicit AI permission, actual cash above USD 200 and open entry.",
+        "id": "game-jam-2026-ad",
+        "title": "Game Jam2026 AD",
+        "url": "https://itch.io/jam/game-jam-2026-ad",
+        "outcome": "Excluded",
+        "reason": "India IIT Gandhinagar jam permits disclosed AI but cash pool is INR5000, below USD200; deadline7 November23:59IST.",
         "sources": [
-          "https://elevenlabs.io/creative/thesearch",
-          "https://elevenlabs.io/creative/thesearch/terms",
-          "https://elevenlabs.io/creative/thesearch/terms"
+          "https://itch.io/jam/game-jam-2026-ad"
+        ]
+      },
+      {
+        "id": "pixel-forge-mega-jam-2026",
+        "title": "Pixel Forge MEGA Jam",
+        "url": "https://pixelforgejam.org/",
+        "outcome": "Excluded",
+        "reason": "Official organizer site explicitly prohibits generative AI despite advertising cash and sponsor prizes.",
+        "sources": [
+          "https://pixelforgejam.org/"
+        ]
+      },
+      {
+        "id": "defold-minit-game-jam-1",
+        "title": "Defold + Minit Game Jam #1",
+        "url": "https://forum.defold.com/t/defold-minit-game-jam-1/83382",
+        "outcome": "Under review",
+        "reason": "Official Defold forum confirms current cash-prize jam, but no complete AI/India eligibility evidence established in bounded search.",
+        "sources": [
+          "https://forum.defold.com/t/defold-minit-game-jam-1/83382"
+        ]
+      },
+      {
+        "id": "gmt-jam-1",
+        "title": "GMT Jam #1",
+        "url": "https://itch.io/jam/gmt-jam-1",
+        "outcome": "Under review",
+        "reason": "USD300 multi-track advertised by discovery results; official cash breakdown, AI and country terms not fully checked. Not qualified.",
+        "sources": [
+          "https://itch.io/jam/gmt-jam-1"
+        ]
+      },
+      {
+        "id": "post-meaning-prize-2026",
+        "title": "The Post-Meaning Prize 2026",
+        "url": "https://www.postmeaning.art/",
+        "outcome": "Reverified",
+        "reason": "Still accepting entries; organizer evidence supports AI use, Indian geographic eligibility and cash above USD 200. ",
+        "sources": [
+          "https://www.postmeaning.art/",
+          "https://www.postmeaning.art/rules",
+          "https://www.postmeaning.art/timeline"
+        ],
+        "category": "other"
+      },
+      {
+        "id": "chroma-action-adventure-season-2",
+        "title": "Chroma Awards — Action & Adventure",
+        "url": "https://chromaawards.com/prizes/film-tv-action-adventure",
+        "outcome": "Reverified",
+        "reason": "Still accepting entries; organizer evidence supports AI use, Indian geographic eligibility and cash above USD 200. ",
+        "sources": [
+          "https://chromaawards.com/prizes/film-tv-action-adventure",
+          "https://chromaawards.com/terms"
+        ],
+        "category": "other"
+      },
+      {
+        "id": "next-sound-awards-2026",
+        "title": "NEXT SOUND Awards 2026",
+        "url": "https://nextsoundawards.com/",
+        "outcome": "Reverified",
+        "reason": "Still accepting entries; organizer evidence supports AI use, Indian geographic eligibility and cash above USD 200. ",
+        "sources": [
+          "https://nextsoundawards.com/",
+          "https://nextsoundawards.com/competition-rules"
+        ],
+        "category": "other"
+      },
+      {
+        "id": "prompty-awards-2026",
+        "title": "Prompty Awards 2026",
+        "url": "https://promptyawards.com/",
+        "outcome": "Reverified",
+        "reason": "Still accepting entries; organizer evidence supports AI use, Indian geographic eligibility and cash above USD 200. Regular fee is now USD 40.",
+        "sources": [
+          "https://promptyawards.com/",
+          "https://promptyawards.com/rules/",
+          "https://promptyawards.com/news/the-first-annual-prompty-awards-to-celebrate-the-best-of-ai-assisted-fiction/"
+        ],
+        "category": "other"
+      },
+      {
+        "id": "one-billion-ai-film-award-2027",
+        "title": "1 Billion AI Film Award 2027",
+        "url": "https://www.1billionsummit.com/ai-award-2027",
+        "outcome": "Reverified",
+        "reason": "Still accepting entries; organizer evidence supports AI use, Indian geographic eligibility and cash above USD 200. ",
+        "sources": [
+          "https://www.1billionsummit.com/ai-award-2027",
+          "https://www.1billionsummit.com/ai-award-2027/terms-and-conditions"
         ],
         "category": "other"
       },
@@ -1593,11 +2235,11 @@
         "id": "artefact-ai-film-festival-2026",
         "title": "Artefact AI Film Festival — Third Edition",
         "url": "https://artefact-ai-film-festival.com/",
-        "outcome": "New on the board",
-        "reason": "Previously missed in discovery; official rules now confirm Indian eligibility, explicit AI permission, actual cash above USD 200 and open entry.",
+        "outcome": "Reverified",
+        "reason": "Still accepting entries; organizer evidence supports AI use, Indian geographic eligibility and cash above USD 200. ",
         "sources": [
           "https://artefact-ai-film-festival.com/",
-          "https://artefact-ai-film-festival.com/RG-CONCOURS%20AI%20FILM%20FESTIVAL%203.pdf",
+          "https://artefact-ai-film-festival.com/rules",
           "https://artefact-ai-film-festival.com/RG-CONCOURS%20AI%20FILM%20FESTIVAL%203.pdf"
         ],
         "category": "other"
@@ -1606,89 +2248,220 @@
         "id": "mai-international-ai-short-film-festival-2026",
         "title": "M.AI International AI Short Film Festival",
         "url": "https://filmfreeway.com/MAIINTERNATIONALAISHORTFILMFESTIVAL",
-        "outcome": "New on the board",
-        "reason": "Previously missed in discovery; official rules now confirm Indian eligibility, explicit AI permission, actual cash above USD 200 and open entry.",
+        "outcome": "Reverified",
+        "reason": "Still accepting entries; organizer evidence supports AI use, Indian geographic eligibility and cash above USD 200. ",
         "sources": [
-          "https://filmfreeway.com/MAIINTERNATIONALAISHORTFILMFESTIVAL",
-          "https://filmfreeway.com/MAIINTERNATIONALAISHORTFILMFESTIVAL",
           "https://filmfreeway.com/MAIINTERNATIONALAISHORTFILMFESTIVAL"
         ],
         "category": "other"
       },
       {
-        "id": "pixlight-2026",
-        "title": "PixLight 2026",
-        "url": "https://app.pixverse.ai/challenge/pixlight/guidelines",
-        "category": "other",
-        "deadline": "2026-10-31T23:59:00Z",
+        "id": "atlanta-ai-ad-fest-2026",
+        "title": "Atlanta AI Ad Fest 2026",
+        "url": "https://www.atlantaaiadfest.com/en",
+        "outcome": "New on the board",
+        "reason": "New: global AI advertising contest, USD 2,500 cash, USD 10 entry, 15 November deadline. Rights inconsistency in FAQ is flagged.",
+        "sources": [
+          "https://www.atlantaaiadfest.com/en/legal/rules",
+          "https://www.atlantaaiadfest.com/en/challenge/brief"
+        ],
+        "category": "other"
+      },
+      {
+        "id": "ai-zone-film-festival-2026-second",
+        "title": "AI ZONE International AI Film Festival — 2nd Edition",
+        "url": "https://filmfreeway.com/AIZONEInternationalAIFilmFestival2026",
+        "outcome": "New on the board",
+        "reason": "New: USD 500 cash, global online AI-film festival, free entry through 30 November; cash requires nonexclusive platform publication.",
+        "sources": [
+          "https://filmfreeway.com/AIZONEInternationalAIFilmFestival2026",
+          "https://ai-zone.net/festival/"
+        ],
+        "category": "other"
+      },
+      {
+        "id": "parma360-ai-horizons-2027",
+        "title": "PARMA 360 — AI Horizons 2027",
+        "url": "https://parma360festival.it/call-for-artists/",
+        "outcome": "New on the board",
+        "reason": "New: international under-35 AI/digital art call, EUR 6,000 cash, 15 November. Awards involve artwork acquisition, clearly flagged.",
+        "sources": [
+          "https://parma360festival.it/call-for-artists/",
+          "https://parma360festival.it/wp-content/uploads/2026/10/Call-AI-HORIZONS.-Call-for-Artists-eng.pdf"
+        ],
+        "category": "other"
+      },
+      {
+        "id": "elevenlabs-the-search-2026",
+        "title": "ElevenLabs — The Search",
+        "url": "https://elevenlabs.io/creative/thesearch",
         "outcome": "Entry closed",
-        "reason": "The entry deadline passed after the previous website update."
+        "reason": "Official updated announcement still ends entries 1 November at 23:59 PST; winner announcement on 10 November is not an entry extension.",
+        "sources": [
+          "https://elevenlabs.io/blog/the-search-100000-for-the-worlds-catchiest-ad"
+        ],
+        "category": "other"
       },
       {
-        "id": "inkshift-writing-contest-2026",
-        "title": "Inkshift Writing Contest",
-        "url": "https://inkshift.io/contest",
-        "category": "other",
-        "deadline": "2026-11-01T06:59:00Z",
+        "id": "higgsfield-global-film-festival-2026",
+        "title": "Higgsfield Global Film Festival",
+        "url": "https://higgsfield.ai/contests/higgsfield-global-film-festival?tab=rules",
         "outcome": "Entry closed",
-        "reason": "The entry deadline passed after the previous website update."
-      },
-      {
-        "id": "gossip-goblin-showrunner-2026",
-        "title": "Gossip Goblin × Showrunner Competition",
-        "url": "https://www.showrunnerstudio.com/gossip-goblin",
-        "outcome": "Pending",
-        "reason": "Official platform advertises USD 20,000 and AI creation, but current detailed contest page did not expose readable eligibility rules. India eligibility remains unconfirmed.",
+        "reason": "USD 1 million cash festival closed 16 September. Current contest index labels it ended.",
         "sources": [
-          "https://www.showrunnerstudio.com/about",
-          "https://www.showrunnerstudio.com/gossip-goblin"
+          "https://higgsfield.ai/community/contests"
         ]
       },
       {
-        "id": "famous-art-gallery-2026",
-        "title": "Famous Artist Award / Art Carnival 2026",
-        "url": "https://famousartgallery.org/",
-        "outcome": "Pending",
-        "reason": "Indian eligibility and dedicated AI category are explicit. Paid entry; cash totals differ between headline and age-group breakdown, and the AI-category cash allocation was not established in this bounded review.",
+        "id": "higgsfield-discord-200k-2026",
+        "title": "Higgsfield Discord 200K Contest",
+        "url": "https://higgsfield.ai/blog/higgsfield-discord-200k-contest",
+        "outcome": "Excluded",
+        "reason": "Closed 14 October and prizes were platform credits, not cash.",
         "sources": [
-          "https://famousartgallery.org/",
-          "https://famousartgallery.org/rules.html",
-          "https://famousartgallery.org/terms.html"
+          "https://higgsfield.ai/blog/higgsfield-discord-200k-contest"
         ]
       },
       {
-        "id": "curious-refuge-horror-2026",
-        "title": "Curious Refuge AI Horror Film Competition 2026",
-        "url": "https://curiousrefuge.com/ai-contests",
-        "outcome": "Closed",
-        "reason": "Official current contest list points to the horror competition with an October 9 deadline. A purported 2026 holiday competition from an aggregator was not confirmed on the organizer's current page.",
+        "id": "runway-ai-festival-2026",
+        "title": "Runway AI Festival 2026",
+        "url": "https://aif.runwayml.com/terms",
+        "outcome": "Entry closed",
+        "reason": "Official 2026 entry period ended 27 April. No current November round verified.",
         "sources": [
-          "https://curiousrefuge.com/ai-contests"
+          "https://aif.runwayml.com/terms"
         ]
       },
       {
-        "id": "fe-builders-challenge-2026",
-        "title": "Fe Builders Challenge",
-        "category": "coding",
-        "url": "https://fe-lang.org/contest/",
-        "outcome": "Excluded: cryptocurrency payout",
-        "reason": "Worldwide entry and AI assistance are explicit, but all USD 5,000 of prizes are paid in USDC on Ethereum. This does not meet this board’s strict cash-only prize filter."
+        "id": "tripo-out-there-s3-2026",
+        "title": "Tripo Out There Rendering Challenge",
+        "url": "https://www.tripo3d.ai/event/s3-3d-rendering-challenge",
+        "outcome": "Entry closed",
+        "reason": "Official page labels the event closed; entry dates were 1 June–15 July, despite an October-updated blog.",
+        "sources": [
+          "https://www.tripo3d.ai/event/s3-3d-rendering-challenge"
+        ]
       },
       {
-        "id": "muse-gadget-challenge-2026",
-        "title": "Muse Gadget Challenge",
-        "category": "coding",
-        "url": "https://codecraft.seeed.cc/hub/contest/muse-gadget-challenge",
-        "outcome": "Under review",
-        "reason": "USD 76,000 cash is advertised for 15 winners. Sign-ups start 3 November; participation depends on Muse availability by region. Indian service eligibility and explicit AI development-assistance permission are not yet established."
+        "id": "meshy-midnight-mischief-2026",
+        "title": "Meshy Midnight Mischief",
+        "url": "https://www.meshy.ai/pl/events/midnight-mischief",
+        "outcome": "Excluded",
+        "reason": "Ended 1 November; published prizes are printers, physical items, plans and credits rather than fiat cash.",
+        "sources": [
+          "https://www.meshy.ai/pl/events/midnight-mischief"
+        ]
       },
       {
-        "id": "meshy-contributor-program",
-        "title": "Meshy Contributor Program",
-        "category": "other",
-        "url": "https://help.meshy.ai/en/articles/15322401-how-does-meshy-contributor-program-work",
-        "outcome": "Excluded: no qualifying cash",
-        "reason": "Individual creators may apply and use Meshy AI, but the official rewards are subscriptions, credits and merchandise; no cash pool above USD 200 is stated."
+        "id": "pixverse-creative-partner-program",
+        "title": "PixVerse Creative Partner Program 2.0",
+        "url": "https://pixverse.ai/en/blog/pixverse-global-creative-partner-program-2-0",
+        "outcome": "Needs review",
+        "reason": "Weekly USD 2,500 pool advertised, but joining requires partner selection and no current round deadline was verified. Not counted as an open contest.",
+        "sources": [
+          "https://pixverse.ai/en/blog/pixverse-global-creative-partner-program-2-0"
+        ]
+      },
+      {
+        "id": "kling-seeing-the-glimmer-2026",
+        "title": "Kling Seeing the Glimmer",
+        "url": "https://klingai.com/",
+        "outcome": "Needs review",
+        "reason": "Official domain is blocked by robots for this research tool; secondary discovery points to a 1 November close. No current official open-entry evidence verified.",
+        "sources": [
+          "https://klingai.com/"
+        ]
+      },
+      {
+        "id": "aicineo-film-festival-2027",
+        "title": "AICINEO AI Film Festival",
+        "url": "https://aicineo.com/festival",
+        "outcome": "Needs review",
+        "reason": "Open through 31 July 2027, but USD 25,000 combines cash, production and creator contracts without a cash-only breakdown. Not promoted.",
+        "sources": [
+          "https://aicineo.com/festival"
+        ]
+      },
+      {
+        "id": "hainan-ai-film-season-2026",
+        "title": "Hainan Island International Film Festival — AI Film Season",
+        "url": "https://www.liblib.tv/hiiff-aifilmseason",
+        "outcome": "Needs review",
+        "reason": "Official page invites global creators, states CNY 100,000 cash and 15 November closing. Detailed submission, account and payment eligibility not exposed in the retrieved page; keep outside qualifying board pending full rules.",
+        "sources": [
+          "https://www.liblib.tv/hiiff-aifilmseason"
+        ]
+      },
+      {
+        "id": "tencent-fizzdragon-hackathon-2026",
+        "title": "Tencent Video FizzDragon AIGC Hackathon",
+        "url": "https://doc.weixin.qq.com/forms/AJEAIQdfAAoAKQAsAbdAFwCN6lj2j2caf",
+        "outcome": "Needs review",
+        "reason": "Discovered 17 November registration and Hangzhou in-person build. Official application could not be fetched; Indian eligibility and full cash conditions unverified.",
+        "sources": [
+          "https://doc.weixin.qq.com/forms/AJEAIQdfAAoAKQAsAbdAFwCN6lj2j2caf"
+        ]
+      },
+      {
+        "id": "nexmuse-ai-music-video-2027",
+        "title": "NEXMUSE AI Music Video Contest 2027",
+        "url": "https://nexmuse.kr/about",
+        "outcome": "Needs review",
+        "reason": "Official site states global open contest, KRW 21 million and 28 December 23:59 KST. Rules retrieved only from matching Vercel deployment; exact international payment and entry terms need confirmation before promotion.",
+        "sources": [
+          "https://nexmuse.kr/awards",
+          "https://nexmuse.vercel.app/rules"
+        ]
+      },
+      {
+        "id": "cue-xmas-2026",
+        "title": "Cue Xmas 2026",
+        "url": "https://cuefilmfest.com/",
+        "outcome": "Needs review",
+        "reason": "AI Christmas films/music videos accepted through 20 November. Cash awards are labeled but a concrete cash amount was not verified in the bounded check.",
+        "sources": [
+          "https://cuefilmfest.com/"
+        ]
+      },
+      {
+        "id": "dpiff-ai-film-2027",
+        "title": "DPIFF Best AI Short Film Award 2027",
+        "url": "https://dpiff.in/short-film/best-ai-short-film-award-2027-submit-your-ai-film-to-dpiff/",
+        "outcome": "Excluded",
+        "reason": "Official AI-category cash is INR 10,000, below USD 200; not promoted based on other category or noncash prize values.",
+        "sources": [
+          "https://dpiff.in/short-film/best-ai-short-film-award-2027-submit-your-ai-film-to-dpiff/"
+        ]
+      },
+      {
+        "id": "follow-the-money-iimb-2026",
+        "title": "Follow The Money: Innovation Challenge",
+        "url": "https://unstop.com/competitions/follow-the-money-innovation-challenge-iim-bangalore-1773522/amp",
+        "outcome": "New on the board",
+        "reason": "Indian college students; explicit AI assistance; ₹70,000 cash. Submission cutoff precedes the listed registration cutoff; Bengaluru finale requires self-funded travel.",
+        "category": "other"
+      },
+      {
+        "id": "aldevere-research-question-november-2026",
+        "title": "Aldevere Research Question Prize",
+        "url": "https://aldevere.com/scholarships/essay-prize/",
+        "outcome": "New on the board",
+        "reason": "Worldwide ages 14–18; $1,000 cash. AI permission is limited to declared spelling and grammar assistance, prominently labelled.",
+        "category": "other"
+      },
+      {
+        "id": "xsci-open-review-2026",
+        "title": "XSci Open Review Competition",
+        "url": "https://xsci.com/xorc-2026/full-rules",
+        "outcome": "Unconfirmed",
+        "reason": "Worldwide research competition offers $500 per certified paper. AI reviewers are allowed, but entrant AI-writing permission is not confirmed; cash can also become service credit when payment is unavailable. Held outside the board."
+      },
+      {
+        "id": "alta-ai-genesis-2026",
+        "title": "ALTA AI Genesis Challenge",
+        "url": "https://www.altaschool.tech/ai-genesis-challenge",
+        "outcome": "Noncash prizes",
+        "reason": "Indian AI-building competition found, but listed hardware, subscriptions and scholarships do not establish a qualifying cash pool."
       }
     ]
   },
@@ -2247,6 +3020,304 @@
             "https://snh.hiringspectov.com/",
             "https://snh.hiringspectov.com/rules/"
           ]
+        }
+      ]
+    },
+    {
+      "checkedAt": "2026-11-01T12:24:07.222846+00:00",
+      "summary": "21 qualifying events: 6 coding, 7 game development and 8 other competitions. 5 newly listed; 5 previous listings no longer on the board. Search expanded to individual organizers, including RUN.world and Meta. Counts change as deadlines pass.",
+      "qualifiedCount": 21,
+      "newlyListedCount": 5,
+      "closedPreviousCount": 5,
+      "categoryCounts": {
+        "other": 8,
+        "game-development": 7,
+        "coding": 6
+      },
+      "method": "Targeted event searches followed by direct organizer pages and official rules, including independent platforms. India eligibility, AI permission, actual cash and entry dates checked separately. Unclear leads remain outside the qualifying board.",
+      "changes": [
+        {
+          "id": "meta-vr-start-developer-competition-2026",
+          "title": "Meta VR Start Developer Competition 2026",
+          "url": "https://start-developer-competition-26.devpost.com/",
+          "outcome": "New on the board",
+          "reason": "Previously missed in discovery. USD 1M shared cash pool; AI coding encouraged; Indian entrants who meet Start membership and other rules can participate. Submit by 19 November at 1:30 AM IST. Membership approval required.",
+          "sources": [
+            "https://start-developer-competition-26.devpost.com/rules",
+            "https://developers.meta.com/blog/meta-connect-2026-vr-start-developer-competition/",
+            "https://developers.meta.com/vr/start/terms/"
+          ],
+          "category": "game-development"
+        },
+        {
+          "id": "meta-global-ai-hackathon-2026",
+          "title": "Meta Global AI Developer Hackathon",
+          "url": "https://dev.meta.ai/events/global-hackathon",
+          "outcome": "Registration closed",
+          "reason": "The event is still running, but new applications closed 25 October at 11:59 PM Eastern (26 October at 9:29 AM IST). The 4 November project deadline applies to accepted participants. This is a different event from Meta VR Start.",
+          "sources": [
+            "https://dev.meta.ai/events/global-hackathon"
+          ]
+        },
+        {
+          "id": "meta-horizon-game-prototype-2026",
+          "title": "Meta Horizon Creator Competition: Game Prototype",
+          "url": "https://mhcp-game-prototype.devpost.com/",
+          "outcome": "Closed",
+          "reason": "Official page says this competition ended; entry window was 17 August–8 September 2026. Its separate Creator Program conditions are not the Start program's conditions.",
+          "sources": [
+            "https://mhcp-game-prototype.devpost.com/",
+            "https://mhcp-game-prototype.devpost.com/rules"
+          ]
+        },
+        {
+          "id": "wispr-no-hands-2026",
+          "title": "No Hands: The Wispr Challenge",
+          "url": "https://www.wemakedevs.org/wispr",
+          "category": "coding",
+          "deadline": "2026-10-31T18:29:00Z",
+          "outcome": "Entry closed",
+          "reason": "The entry deadline passed after the previous website update."
+        },
+        {
+          "id": "hacktoberfest-open-source-ai-challenge-week-4",
+          "title": "Hacktoberfest Open-Source AI Challenge: Week 4 — Ghost in the Machine",
+          "url": "https://dev.to/challenges/hacktoberfest-week4-2026-10-26",
+          "category": "coding",
+          "deadline": "2026-11-01T06:59:00Z",
+          "outcome": "Entry closed",
+          "reason": "The entry deadline passed after the previous website update."
+        },
+        {
+          "id": "ugreen-ai-nas-hackathon-2026",
+          "title": "UGREEN Hackathon 2026 on AI NAS",
+          "url": "https://ugreenhackathon.devpost.com/",
+          "outcome": "India excluded",
+          "reason": "Official rules explicitly list India among excluded countries, despite an open November deadline and USD 46,000 in cash. Excluded under the user's India filter.",
+          "sources": [
+            "https://ugreenhackathon.devpost.com/rules"
+          ]
+        },
+        {
+          "id": "builder-agent-native-2026",
+          "title": "Builder.io Agent-Native Hackathon",
+          "url": "https://www.builder.io/hackathon",
+          "outcome": "Under review",
+          "reason": "Independent organizer site confirms USD 10,000 cash, worldwide entry and 10 November 07:59 UTC cutoff. AI agents are required in the app, but explicit permission for AI coding assistance was not located; the distinction remains unresolved.",
+          "sources": [
+            "https://www.builder.io/hackathon",
+            "https://www.builder.io/hackathon/rules"
+          ]
+        },
+        {
+          "id": "agentware-ai-agent-hackathon-2026",
+          "title": "Agentware AI Agent Hackathon",
+          "url": "https://agentwarehack.com/",
+          "outcome": "Under review",
+          "reason": "Independent event page explicitly expects AI coding tools and advertises USD 1,800 for 27–30 November. Contest-specific geographic eligibility and cash payment terms were not established; the organizer's past participation in 85+ countries is insufficient.",
+          "sources": [
+            "https://agentwarehack.com/",
+            "https://www.raptors.dev/"
+          ]
+        },
+        {
+          "id": "run-october-jam-2026",
+          "title": "October Jam — Monster Mash (RUN)",
+          "url": "https://events.run.world/events/octoberjam/",
+          "outcome": "New on the board",
+          "reason": "The previous missing payout evidence is resolved: official rules name Tipalti and its current coverage explicitly supports India. $26,000 game-only cash; $30,000 overall shared across formats.",
+          "sources": [
+            "https://policy.run.world/octoberjam-rules.html",
+            "https://events.run.world/events/octoberjam/",
+            "https://help.tipalti.com/hc/en-us/articles/31314361313815-Payment-methods-coverage-US-ROW"
+          ],
+          "category": "game-development"
+        },
+        {
+          "id": "epic-ai-megajam-2026",
+          "title": "2026 Epic AI MegaJam",
+          "url": "https://itch.io/jam/2026-epic-ai-megajam",
+          "outcome": "Reverified",
+          "reason": "Current official PDF was downloaded and checked, renewing the prior 25 October review. Updated country wording and other conditions reflect the 30 October revision.",
+          "sources": [
+            "https://itch.io/jam/2026-epic-ai-megajam",
+            "https://epicgames.ent.box.com/index.php?rm=box_download_shared_file&shared_name=a7xcgl07fqoieeb99sjtd3juhj4agc4z&file_id=f_2543555439894"
+          ],
+          "category": "game-development"
+        },
+        {
+          "id": "slapjam-2-2026",
+          "title": "Slapjam #2",
+          "url": "https://itch.io/jam/slapjam-ai-2",
+          "category": "game-development",
+          "deadline": "2026-10-31T15:00:00Z",
+          "outcome": "Entry closed",
+          "reason": "The entry deadline passed after the previous website update."
+        },
+        {
+          "id": "run-weekly-liminal-2026",
+          "title": "RUN — Liminal weekly theme",
+          "url": "https://events.run.world/events/liminal/",
+          "outcome": "Excluded",
+          "reason": "Live weekly creation theme closes 4 November, but no cash award above $200 is stated.",
+          "sources": [
+            "https://events.run.world/",
+            "https://events.run.world/events/liminal/"
+          ]
+        },
+        {
+          "id": "run-editors-choice",
+          "title": "RUN — Editor’s Choice",
+          "url": "https://events.run.world/events/editors-choice/",
+          "outcome": "Excluded",
+          "reason": "Weekly selection gives a feature and $100 marketing support, not a qualifying cash prize pool.",
+          "sources": [
+            "https://events.run.world/events/editors-choice/"
+          ]
+        },
+        {
+          "id": "run-november-jam-2026",
+          "title": "RUN — next creator jam",
+          "url": "https://events.run.world/",
+          "outcome": "No concrete event",
+          "reason": "The direct RUN event directory currently lists zero scheduled upcoming events; no November cash jam is announced there.",
+          "sources": [
+            "https://events.run.world/"
+          ]
+        },
+        {
+          "id": "bezi-jam-15-2026",
+          "title": "Bezi Jam 15 — UNREAL",
+          "url": "https://itch.io/jam/bezi-jam-15",
+          "outcome": "Under review",
+          "reason": "AI assistant use is explicitly optional and permitted for games, and the game awards total $300. Fan-art track prohibits AI. Country/prize eligibility remains unconfirmed; timeline text also differs by one hour from the itch timer.",
+          "sources": [
+            "https://itch.io/jam/bezi-jam-15"
+          ]
+        },
+        {
+          "id": "lablab-ai-game-jam",
+          "title": "lablab.ai — AI Game Jam",
+          "url": "https://lablab.ai/ai-hackathons/ai-game-jam",
+          "outcome": "Under review",
+          "reason": "The current official page says date to be announced; search listings with November dates are insufficient. No verified cash amount above $200 established.",
+          "sources": [
+            "https://lablab.ai/ai-hackathons/ai-game-jam"
+          ]
+        },
+        {
+          "id": "elevenlabs-the-search-2026",
+          "title": "The Search — World's Catchiest AI Ad",
+          "url": "https://elevenlabs.io/creative/thesearch",
+          "outcome": "New on the board",
+          "reason": "Previously missed in discovery; official rules now confirm Indian eligibility, explicit AI permission, actual cash above USD 200 and open entry.",
+          "sources": [
+            "https://elevenlabs.io/creative/thesearch",
+            "https://elevenlabs.io/creative/thesearch/terms",
+            "https://elevenlabs.io/creative/thesearch/terms"
+          ],
+          "category": "other"
+        },
+        {
+          "id": "artefact-ai-film-festival-2026",
+          "title": "Artefact AI Film Festival — Third Edition",
+          "url": "https://artefact-ai-film-festival.com/",
+          "outcome": "New on the board",
+          "reason": "Previously missed in discovery; official rules now confirm Indian eligibility, explicit AI permission, actual cash above USD 200 and open entry.",
+          "sources": [
+            "https://artefact-ai-film-festival.com/",
+            "https://artefact-ai-film-festival.com/RG-CONCOURS%20AI%20FILM%20FESTIVAL%203.pdf",
+            "https://artefact-ai-film-festival.com/RG-CONCOURS%20AI%20FILM%20FESTIVAL%203.pdf"
+          ],
+          "category": "other"
+        },
+        {
+          "id": "mai-international-ai-short-film-festival-2026",
+          "title": "M.AI International AI Short Film Festival",
+          "url": "https://filmfreeway.com/MAIINTERNATIONALAISHORTFILMFESTIVAL",
+          "outcome": "New on the board",
+          "reason": "Previously missed in discovery; official rules now confirm Indian eligibility, explicit AI permission, actual cash above USD 200 and open entry.",
+          "sources": [
+            "https://filmfreeway.com/MAIINTERNATIONALAISHORTFILMFESTIVAL",
+            "https://filmfreeway.com/MAIINTERNATIONALAISHORTFILMFESTIVAL",
+            "https://filmfreeway.com/MAIINTERNATIONALAISHORTFILMFESTIVAL"
+          ],
+          "category": "other"
+        },
+        {
+          "id": "pixlight-2026",
+          "title": "PixLight 2026",
+          "url": "https://app.pixverse.ai/challenge/pixlight/guidelines",
+          "category": "other",
+          "deadline": "2026-10-31T23:59:00Z",
+          "outcome": "Entry closed",
+          "reason": "The entry deadline passed after the previous website update."
+        },
+        {
+          "id": "inkshift-writing-contest-2026",
+          "title": "Inkshift Writing Contest",
+          "url": "https://inkshift.io/contest",
+          "category": "other",
+          "deadline": "2026-11-01T06:59:00Z",
+          "outcome": "Entry closed",
+          "reason": "The entry deadline passed after the previous website update."
+        },
+        {
+          "id": "gossip-goblin-showrunner-2026",
+          "title": "Gossip Goblin × Showrunner Competition",
+          "url": "https://www.showrunnerstudio.com/gossip-goblin",
+          "outcome": "Pending",
+          "reason": "Official platform advertises USD 20,000 and AI creation, but current detailed contest page did not expose readable eligibility rules. India eligibility remains unconfirmed.",
+          "sources": [
+            "https://www.showrunnerstudio.com/about",
+            "https://www.showrunnerstudio.com/gossip-goblin"
+          ]
+        },
+        {
+          "id": "famous-art-gallery-2026",
+          "title": "Famous Artist Award / Art Carnival 2026",
+          "url": "https://famousartgallery.org/",
+          "outcome": "Pending",
+          "reason": "Indian eligibility and dedicated AI category are explicit. Paid entry; cash totals differ between headline and age-group breakdown, and the AI-category cash allocation was not established in this bounded review.",
+          "sources": [
+            "https://famousartgallery.org/",
+            "https://famousartgallery.org/rules.html",
+            "https://famousartgallery.org/terms.html"
+          ]
+        },
+        {
+          "id": "curious-refuge-horror-2026",
+          "title": "Curious Refuge AI Horror Film Competition 2026",
+          "url": "https://curiousrefuge.com/ai-contests",
+          "outcome": "Closed",
+          "reason": "Official current contest list points to the horror competition with an October 9 deadline. A purported 2026 holiday competition from an aggregator was not confirmed on the organizer's current page.",
+          "sources": [
+            "https://curiousrefuge.com/ai-contests"
+          ]
+        },
+        {
+          "id": "fe-builders-challenge-2026",
+          "title": "Fe Builders Challenge",
+          "category": "coding",
+          "url": "https://fe-lang.org/contest/",
+          "outcome": "Excluded: cryptocurrency payout",
+          "reason": "Worldwide entry and AI assistance are explicit, but all USD 5,000 of prizes are paid in USDC on Ethereum. This does not meet this board’s strict cash-only prize filter."
+        },
+        {
+          "id": "muse-gadget-challenge-2026",
+          "title": "Muse Gadget Challenge",
+          "category": "coding",
+          "url": "https://codecraft.seeed.cc/hub/contest/muse-gadget-challenge",
+          "outcome": "Under review",
+          "reason": "USD 76,000 cash is advertised for 15 winners. Sign-ups start 3 November; participation depends on Muse availability by region. Indian service eligibility and explicit AI development-assistance permission are not yet established."
+        },
+        {
+          "id": "meshy-contributor-program",
+          "title": "Meshy Contributor Program",
+          "category": "other",
+          "url": "https://help.meshy.ai/en/articles/15322401-how-does-meshy-contributor-program-work",
+          "outcome": "Excluded: no qualifying cash",
+          "reason": "Individual creators may apply and use Meshy AI, but the official rewards are subscriptions, credits and merchandise; no cash pool above USD 200 is stated."
         }
       ]
     }
