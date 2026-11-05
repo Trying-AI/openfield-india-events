@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T21:56:41.427761+00:00",
+  "updatedAt": "2026-11-05T22:36:34.165622+00:00",
   "events": [
     {
       "id": "vultr-agent-rush-2026",
@@ -1563,78 +1563,6 @@
       }
     },
     {
-      "id": "micro-jam-069-halloween-2026",
-      "title": "Micro Jam 069 — Halloween",
-      "category": "game-development",
-      "organizer": "Micro Jam · tobias / SeeOne",
-      "url": "https://itch.io/jam/micro-jam-069",
-      "summary": "AI is allowed. Cash tracks require Ziva, Xorin or Easel; India eligibility unconfirmed.",
-      "startsAt": "2026-11-14T01:00:00Z",
-      "deadline": "2026-11-16T01:00:00Z",
-      "registrationDeadline": "2026-11-16T01:00:00Z",
-      "deadlineLabel": "16 November 2026, 6:30 AM IST",
-      "format": "Online",
-      "mode": "online",
-      "location": "Online · India eligibility unconfirmed",
-      "teamSize": "Solo or team; limit not stated",
-      "entryFee": "Not stated",
-      "tags": [
-        "AI allowed",
-        "Ziva",
-        "Xorin",
-        "Easel",
-        "Discord required"
-      ],
-      "verificationStatus": "pending",
-      "listingStatus": "eligibility-unconfirmed",
-      "verifiedAt": "2026-11-05T21:51:57.700377Z",
-      "researchLead": false,
-      "aiPolicy": {
-        "status": "allowed",
-        "label": "AI allowed",
-        "detail": "The event FAQ explicitly permits AI; normal asset licensing rules apply.",
-        "evidence": {
-          "url": "https://itch.io/jam/micro-jam-069",
-          "kind": "summary",
-          "quote": "The FAQ permits AI use."
-        }
-      },
-      "eligibility": {
-        "indiaEligible": null,
-        "label": "India eligibility unconfirmed",
-        "detail": "Country eligibility and Indian PayPal prize receipt are unconfirmed."
-      },
-      "cashPrize": {
-        "amount": 230,
-        "currency": "USD",
-        "usdAmount": 230,
-        "display": "At least $230 cash",
-        "note": "Itemized PayPal awards: Ziva $100 + Xorin $100 + Easel $30. The $300 cash headline exceeds that breakdown; unallocated money and noncash rewards are excluded."
-      },
-      "prizeEvidence": {
-        "url": "https://itch.io/jam/micro-jam-069",
-        "kind": "summary",
-        "quote": "The published cash tracks itemize USD 230, paid through PayPal."
-      },
-      "conditions": [
-        "Cash awards require the corresponding Ziva/Xorin/Easel tool and submission tag. General Judge’s Choice rewards are noncash.",
-        "Discord membership is required for prizes; official voting occurs on the Micro Jam website.",
-        "Create a new game during the 48-hour window and use English. A separate six-hour Discord late-entry grace period is advertised."
-      ],
-      "research": {
-        "checkedAt": "2026-11-05T21:51:57.700377Z",
-        "snapshotAt": "2026-11-05T21:51:57.700377Z",
-        "status": "eligibility_unconfirmed",
-        "origin": "6 November 2026 IST intensive itch.io expansion",
-        "sourceNotes": [
-          {
-            "url": "https://itch.io/jam/micro-jam-069"
-          }
-        ],
-        "cashText": "USD230 confirmed minimum; headline USD300 has an unreconciled remainder."
-      }
-    },
-    {
       "id": "epic-ai-megajam-2026",
       "title": "2026 Epic AI MegaJam",
       "organizer": "Epic Games",
@@ -1720,110 +1648,6 @@
         "refreshAttemptAt": "2026-11-05T19:27:33.078758Z",
         "refreshNote": "Main jam page confirms unchanged dates, USD65,000 cash and explicit AI permission on 6 November IST. Current Box PDF could not be downloaded; prior 1 November verification retained, not renewed."
       }
-    },
-    {
-      "id": "gff-award-2027-ai-game-art",
-      "title": "GFF AWARD 2027 — AI Game Graphics & Art",
-      "organizer": "Fukuoka Game Industry Promotion Organization (GFF, Kyushu University and Fukuoka City)",
-      "category": "game-development",
-      "url": "https://www.gff.jp/gffcast/news/2026/09/-tbody-tr-tdinfo-table-tbody-t.html",
-      "summary": "Create AI artwork for a fictional game world; this category does not require a playable game.",
-      "startsAt": null,
-      "deadline": "2026-11-16T09:59:00Z",
-      "registrationDeadline": null,
-      "deadlineDate": "2026-11-16",
-      "deadlinePrecision": "date",
-      "deadlineIsConservativeCutoff": true,
-      "deadlineLabel": "16 November 2026, 23:59; timezone unstated (conservative UTC cutoff stored)",
-      "format": "Online submission",
-      "mode": "online",
-      "location": "Online · India eligibility unconfirmed",
-      "teamSize": "Students and amateur individuals or teams",
-      "entryFee": "Not stated on the accessible call; check full rules before entering",
-      "tags": [
-        "Game-world art",
-        "AI art",
-        "Students and amateurs",
-        "India eligibility unconfirmed"
-      ],
-      "listingStatus": "eligibility-unconfirmed",
-      "verificationStatus": "pending",
-      "verifiedAt": "2026-11-05T21:55:59.184150Z",
-      "aiPolicy": {
-        "status": "allowed",
-        "label": "AI game art required",
-        "detail": "AI tools are required in this art division.",
-        "evidence": {
-          "url": "https://www.gff.jp/gffcast/news/2026/09/-tbody-tr-tdinfo-table-tbody-t.html",
-          "quote": "Dedicated division for AI-designed game-world artwork.",
-          "kind": "summary"
-        }
-      },
-      "eligibility": {
-        "indiaEligible": null,
-        "detail": "Students and amateurs; Indian eligibility unspecified. Confirm overseas participation before entering.",
-        "evidence": {
-          "url": "https://www.gff.jp/gffcast/news/2026/09/-tbody-tr-tdinfo-table-tbody-t.html",
-          "quote": "The call lists students and amateurs; geography is unstated.",
-          "kind": "summary"
-        }
-      },
-      "cashPrize": {
-        "amount": 50000,
-        "currency": "JPY",
-        "usdAmount": 315.55,
-        "display": "≥¥50,000 (≈$315)",
-        "note": "Minimum one Excellence award; total award count unspecified. Other divisions excluded. ECB: EUR 1 = USD 1.1224 = JPY 177.85.",
-        "conversionDate": "2026-11-05T00:00:00Z",
-        "conversionSource": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
-      },
-      "prizeEvidence": {
-        "url": "https://www.gff.jp/gffcast/news/2026/09/-tbody-tr-tdinfo-table-tbody-t.html",
-        "quote": "Excellence awards in the non-software divisions carry JPY 50,000 each.",
-        "kind": "summary"
-      },
-      "conditions": [
-        "One A3 artwork depicting people living daily life; one entry per division.",
-        "Upload artwork and consent form through GigaFile, retain 30 days without a password, and submit the link.",
-        "Full rules PDF unavailable: fees, rights, payouts and overseas eligibility remain unconfirmed. Review them before submitting.",
-        "Closing time is 23:59; timezone unstated. Confirm it with the organizer; stored cutoff is conservative.",
-        "Game-art division only. Software and concept categories require separate policy checks."
-      ],
-      "research": {
-        "snapshotAt": "2026-11-05T21:55:59.184150Z",
-        "status": "eligibility-unconfirmed",
-        "origin": "6 November game awards and engine contest sweep",
-        "deadlineText": "16 November 2026 23:59; timezone unstated",
-        "cashText": "JPY 50,000 per Excellence award.",
-        "sourceNotes": [
-          {
-            "url": "https://www.gff.jp/gffcast/news/2026/09/-tbody-tr-tdinfo-table-tbody-t.html",
-            "summary": "Current organizer call reviewed."
-          },
-          {
-            "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
-            "summary": "5 November 2026 USD and JPY reference rates used for the conservative threshold calculation."
-          },
-          {
-            "url": "https://fukuoka-game.com/wptest/wp-content/themes/game/lib/pdf/contest/20/contest20_youkou.pdf",
-            "summary": "Official full-rules PDF linked by organizer; unavailable (502) during review."
-          }
-        ]
-      },
-      "extraSources": [
-        {
-          "label": "Entry form",
-          "url": "https://docs.google.com/forms/d/e/1FAIpQLSdSzUWK1u1cADZPW4QscMbZRn8-fxBIBVuzCDkUPkT0TTXMJQ/viewform"
-        },
-        {
-          "label": "Full rules (availability uncertain)",
-          "url": "https://fukuoka-game.com/wptest/wp-content/themes/game/lib/pdf/contest/20/contest20_youkou.pdf"
-        },
-        {
-          "label": "ECB exchange rates",
-          "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
-        }
-      ]
     },
     {
       "id": "aldevere-research-question-november-2026",
@@ -2255,6 +2079,107 @@
       }
     },
     {
+      "id": "manycore-aholo-global-3d-ai-hackathon-2026",
+      "title": "Manycore Aholo Global 3D AI Hackathon — Games Eligible",
+      "organizer": "Manycore Tech / Aholo",
+      "category": "game-development",
+      "url": "https://www.aholo.ai/hackathon",
+      "rulesUrl": "https://www.aholo.ai/hackathon",
+      "format": "Online",
+      "mode": "online",
+      "location": "Online · Worldwide",
+      "verificationStatus": "verified",
+      "verifiedAt": "2026-11-05T22:16:00Z",
+      "researchLead": false,
+      "eligibility": {
+        "indiaEligible": true,
+        "detail": "Official FAQ says worldwide participation; individuals, developers, designers, creators, students and researchers. No India exclusion stated.",
+        "evidence": {
+          "url": "https://www.aholo.ai/hackathon",
+          "kind": "summary",
+          "quote": "FAQ explicitly opens participation worldwide."
+        }
+      },
+      "extraSources": [
+        {
+          "label": "Official Chinese award breakdown",
+          "url": "https://www.aholo3d.cn/hackathon/my"
+        },
+        {
+          "label": "CNY/USD approximation checked 5 November 2026",
+          "url": "https://fxpeek.com/en/cny-to-usd"
+        }
+      ],
+      "conditions": [
+        "Games compete within a broader 3D applications event, counted once. The games-specific award is CNY5,000; general awards are shared.",
+        "Use Aholo Lux3D; submit a PDF/PPT project report and a working demo link or video of the actual running project.",
+        "Teams contain 1–3 people; one team per account. Team roster locks at the submission deadline.",
+        "Project promotion on X contributes 5% of evaluation. Source code is a bonus, not a required item.",
+        "Registration requires acceptance of final event/licensing terms. An awards ceremony is planned, but participation format is online.",
+        "Global headline CNY320,000 exceeds the CNY300,000 listed in English; the difference is four domestic popularity awards."
+      ],
+      "research": {
+        "snapshotAt": "2026-11-05T22:16:00Z",
+        "status": "qualified",
+        "origin": "Additional independent game competitions, minimum US$1,000 fiat cash; direct platform and regional-language discovery",
+        "sourceNotes": [
+          {
+            "url": "https://www.aholo.ai/hackathon",
+            "summary": "Full official indexed English page and FAQ; direct fetch was JavaScript-blank. Worldwide, Lux3D, Nov19 06:00EST, game applications and monetary award table."
+          },
+          {
+            "url": "https://www.aholo3d.cn/hackathon/my",
+            "summary": "Full official Chinese indexed page confirms Nov19 19:00Beijing and six popularity awards: four domestic, two overseas."
+          }
+        ],
+        "fetchMethod": "Official-domain indexed full text. Direct open did not expose page content. Parent independently reviewing primary page."
+      },
+      "tags": [
+        "3D AI",
+        "Shared games/apps pool",
+        "Lux3D required",
+        "Worldwide"
+      ],
+      "summary": "Build a 3D game or other application using Aholo Lux3D. CNY300,000 in listed international monetary awards; the global headline is CNY320,000 including domestic popularity awards.",
+      "startsAt": null,
+      "deadline": "2026-11-19T11:00:00Z",
+      "registrationDeadline": null,
+      "deadlineLabel": "19 November 2026, 4:30 PM IST (6:00 AM EST / 7:00 PM Beijing)",
+      "deadlineEvidence": "https://www.aholo.ai/hackathon",
+      "entryFee": "No contest fee stated; creation credits provided",
+      "teamSize": "1–3 members; solo entrants must create a team",
+      "reviewReason": "Official English and Chinese pages indexed in full confirm worldwide entry, required AI tooling, monetary awards and matching deadline. English award arithmetic totals CNY300,000; Chinese CNY320,000 includes four domestic popularity prizes.",
+      "aiPolicy": {
+        "status": "conditional",
+        "label": "Aholo Lux3D required; other tools allowed",
+        "detail": "Use Lux3D for core 3D content or a key creative workflow. Aholo API, LuxReal and third-party development tools are optional.",
+        "evidence": {
+          "url": "https://www.aholo.ai/hackathon",
+          "kind": "summary",
+          "quote": "FAQ requires Lux3D and permits optional third-party creation tools; games are expressly encouraged."
+        }
+      },
+      "cashPrize": {
+        "amount": 300000,
+        "currency": "CNY",
+        "usdAmount": 44988.38,
+        "display": "CNY 300,000 (≈$44,988)",
+        "confirmedFiat": true,
+        "note": "Conservative English-page sum: 100k+50k+2×30k+3×10k+5×5k+5×5k+2×5k. Global Chinese page adds four domestic popularity awards: CNY320,000 total. Shared all-application pool; only CNY5,000 is specifically reserved for Gaming Application Award.",
+        "conversionDate": "2026-11-05T00:00:00Z",
+        "conversionSource": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+        "noteShort": "International awards · shared games/apps pool"
+      },
+      "prizeEvidence": {
+        "url": "https://www.aholo.ai/hackathon",
+        "kind": "summary",
+        "quote": "Official award table specifies yuan-denominated monetary prizes separately from creation credits."
+      },
+      "shortlistRecommended": true,
+      "shortlistNote": "China-headquartered established technology sponsor; worldwide online contest and sizable pool. Keep clearly labeled as a shared 3D/apps competition.",
+      "startsOn": "2026-10-19"
+    },
+    {
       "id": "fairground-animation-imagination-2026",
       "title": "Fairground Animation Imagination 2026",
       "organizer": "Fairground Entertainment / CapCut",
@@ -2422,6 +2347,292 @@
             "url": "https://launchpad-hacks.devpost.com/rules"
           }
         ]
+      }
+    },
+    {
+      "id": "astrocade-100k-creator-competition-2026",
+      "title": "Astrocade $100K Creator Competition",
+      "organizer": "Astrocade",
+      "category": "game-development",
+      "url": "https://www.astrocade.com/contests/100k-creator-contest-2026",
+      "rulesUrl": "https://www.astrocade.com/contests/100k-creator-contest-2026/rules",
+      "format": "Online",
+      "mode": "online",
+      "location": "Online · Worldwide",
+      "verificationStatus": "verified",
+      "verifiedAt": "2026-11-05T22:16:00Z",
+      "researchLead": false,
+      "eligibility": {
+        "indiaEligible": true,
+        "detail": "18 or local age of majority; worldwide individual applicants except enumerated restricted territories. India is not excluded. Legal payment and tax documentation required.",
+        "evidence": {
+          "url": "https://www.astrocade.com/contests/100k-creator-contest-2026/rules",
+          "kind": "summary",
+          "quote": "Section 5 states international eligibility with a restricted-territory list that does not include India."
+        }
+      },
+      "extraSources": [
+        {
+          "label": "Official AI creation announcement",
+          "url": "https://www.astrocade.com/blog/100k-creator-competition"
+        }
+      ],
+      "conditions": [
+        "Apply by the displayed cutoff; selection is competitive and participation is not guaranteed.",
+        "Competition runs 30 November–20 December 2026. Each selected creator must publish at least seven playables and seven promotional videos each week.",
+        "Scoring considers game plays and video views; winner takes the full cash award.",
+        "Rules include broad content and promotional licenses; review §18 before applying.",
+        "Individual entry only; 18+/local majority, lawful payout eligibility and tax paperwork required."
+      ],
+      "research": {
+        "snapshotAt": "2026-11-05T22:16:00Z",
+        "status": "qualified",
+        "origin": "Additional independent game competitions, minimum US$1,000 fiat cash; direct platform and regional-language discovery",
+        "sourceNotes": [
+          {
+            "url": "https://www.astrocade.com/contests/100k-creator-contest-2026/rules",
+            "summary": "Parent CUA inspection confirmed §§4,5,15 and18: application cutoff, international eligibility, USD cash and creator obligations."
+          },
+          {
+            "url": "https://www.astrocade.com/blog/100k-creator-competition",
+            "summary": "New announcement dated 5 November 2026; AI-powered Astrocade creation and promotional competition."
+          }
+        ],
+        "deadlineText": "Applications close 20 November 2026 at 23:59 Pacific; competition 30 November–20 December."
+      },
+      "tags": [
+        "AI game builder",
+        "Application selection",
+        "Promotion required",
+        "Winner takes all"
+      ],
+      "summary": "Apply for a three-week AI game-creation and promotion competition. Approximately 25 creators are selected; one wins $100,000 cash.",
+      "startsAt": null,
+      "deadline": "2026-11-21T07:59:00Z",
+      "registrationDeadline": "2026-11-21T07:59:00Z",
+      "deadlineLabel": "21 November 2026, 1:29 PM IST — application cutoff (20 November, 11:59 PM Pacific)",
+      "deadlineEvidence": "https://www.astrocade.com/contests/100k-creator-contest-2026/rules",
+      "entryFee": "Free; Astrocade account required",
+      "teamSize": "Individual only; approximately 25 selected creators",
+      "reviewReason": "Official blog reviewed; parent inspected full official rules in Chrome, including cash payment, countries, application deadline and obligations.",
+      "aiPolicy": {
+        "status": "conditional",
+        "label": "Create with Astrocade AI",
+        "detail": "Use Astrocade's AI platform to create original playable content and promote it during the competition.",
+        "evidence": {
+          "url": "https://www.astrocade.com/blog/100k-creator-competition",
+          "kind": "summary",
+          "quote": "The official announcement invites AI-powered game creation on Astrocade."
+        }
+      },
+      "cashPrize": {
+        "amount": 100000,
+        "currency": "USD",
+        "usdAmount": 100000,
+        "display": "$100,000 cash",
+        "confirmedFiat": true,
+        "note": "One winner receives US$100,000 cash under rules §15.1; §15.4 specifies USD payment. No runner-up cash pool."
+      },
+      "prizeEvidence": {
+        "url": "https://www.astrocade.com/contests/100k-creator-contest-2026/rules",
+        "kind": "summary",
+        "quote": "Rules §15 provide one US$100,000 cash prize paid in USD."
+      },
+      "shortlistRecommended": true,
+      "startsOn": "2026-11-05"
+    },
+    {
+      "id": "hana-onepick-cup-ai-game-2026",
+      "title": "Hana Onepick CUP — Youth AI Game Creation",
+      "organizer": "Hana Bank; operated by Fitfuns",
+      "category": "game-development",
+      "url": "https://hana.oasisw.ai/",
+      "summary": "An individual AI game contest for Hana Bank customers aged 14–18; a bank-issued invitation code is required.",
+      "startsAt": "2026-09-22T00:00:00Z",
+      "deadline": "2026-11-22T09:59:59Z",
+      "registrationDeadline": "2026-11-22T09:59:59Z",
+      "deadlineDate": "2026-11-22",
+      "deadlinePrecision": "date",
+      "deadlineIsConservativeCutoff": true,
+      "deadlineLabel": "Proposal deadline 22 November 2026; time/timezone unstated, conservative cutoff stored.",
+      "format": "Online submission",
+      "mode": "hybrid",
+      "location": "Online rounds; Korea offline final",
+      "teamSize": "Individual, ages 14–18",
+      "entryFee": "Free",
+      "tags": [
+        "AI game creation",
+        "India eligibility unconfirmed",
+        "Ages 14–18",
+        "Hana Bank customers",
+        "Korea final"
+      ],
+      "verificationStatus": "pending",
+      "verifiedAt": "2026-11-05T22:17:02.095796Z",
+      "aiPolicy": {
+        "status": "allowed",
+        "label": "AI allowed",
+        "detail": "AI output may be used unchanged or edited under article 6.",
+        "evidence": {
+          "url": "https://hana.oasisw.ai/terms",
+          "quote": "AI output may be used unchanged or edited under article 6.",
+          "kind": "summary"
+        }
+      },
+      "eligibility": {
+        "indiaEligible": null,
+        "detail": "Ages 14–18, individual entry, and a Hana Bank app invitation code are mandatory. Nationality/residency and Indian access are unconfirmed.",
+        "evidence": {
+          "url": "https://hana.oasisw.ai/terms",
+          "quote": "Ages 14–18, individual entry, and a Hana Bank app invitation code are mandatory. Nationality/residency and Indian access are unconfirmed.",
+          "kind": "summary"
+        }
+      },
+      "cashPrize": {
+        "amount": 10000000,
+        "currency": "KRW",
+        "usdAmount": 7436.66,
+        "display": "KRW 10,000,000 (≈$7,437)",
+        "note": "KRW 10m total: 2m + 1.5m + 2×1m + 6×0.5m + 10×0.15m. Winners bear applicable taxes.",
+        "conversionDate": "2026-11-05T00:00:00Z",
+        "conversionSource": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+      },
+      "prizeEvidence": {
+        "url": "https://hana.oasisw.ai/",
+        "quote": "KRW 10m total: 2m + 1.5m + 2×1m + 6×0.5m + 10×0.15m. Winners bear applicable taxes.",
+        "kind": "summary"
+      },
+      "conditions": [
+        "Hana Bank customer/app access and an organizer-issued invitation code are prerequisites; this is not unrestricted global registration.",
+        "Proposal screening selects 200; create games with OasisW Studio December 1–13. Twenty finalists attend an offline Korean final December 19.",
+        "Creators retain copyright and grant a free, worldwide, unlimited-duration license for contest operations, judging and promotion.",
+        "No entry fee. Travel support, overseas payout methods and precise closing hour were not established."
+      ],
+      "research": {
+        "snapshotAt": "2026-11-05T22:17:02.095796Z",
+        "status": "eligibility-unconfirmed",
+        "origin": "6 November regional gaming contests >=USD1000 cash sweep",
+        "deadlineText": "Proposal deadline 22 November 2026; time/timezone unstated, conservative cutoff stored.",
+        "cashText": "KRW 10m total: 2m + 1.5m + 2×1m + 6×0.5m + 10×0.15m. Winners bear applicable taxes.",
+        "sourceNotes": [
+          {
+            "url": "https://hana.oasisw.ai/",
+            "summary": "Official homepage read through native Chrome; cash breakdown, AI workflow, age range and all stages verified."
+          },
+          {
+            "url": "https://hana.oasisw.ai/terms",
+            "summary": "Official terms read in Chrome: invitation-only eligibility, AI permission and retained copyright with promotional license."
+          },
+          {
+            "url": "https://linkareer.com/activity/360524",
+            "summary": "Organizer-named listing confirms Hana Bank customers, no fee, and tax responsibility."
+          }
+        ]
+      },
+      "extraSources": [
+        {
+          "label": "ECB conversion rates",
+          "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+        },
+        {
+          "label": "Official participant terms",
+          "url": "https://hana.oasisw.ai/terms"
+        },
+        {
+          "label": "Organizer-named listing",
+          "url": "https://linkareer.com/activity/360524"
+        }
+      ],
+      "listingStatus": "eligibility-unconfirmed"
+    },
+    {
+      "id": "taleworlds-war-sails-modding-competition-2026",
+      "title": "TaleWorlds War Sails Modding Competition",
+      "organizer": "TaleWorlds Entertainment",
+      "category": "game-development",
+      "url": "https://competition.taleworlds.com/",
+      "rulesUrl": "https://competition.taleworlds.com/",
+      "format": "Online",
+      "mode": "online",
+      "location": "Online · India eligibility unconfirmed",
+      "teamSize": "Individuals or teams",
+      "entryFee": "No entry fee",
+      "verificationStatus": "pending",
+      "listingStatus": "eligibility-unconfirmed",
+      "verifiedAt": "2026-11-05T22:32:06Z",
+      "researchLead": false,
+      "eligibility": {
+        "indiaEligible": null,
+        "detail": "18+ at the 14 August start; under local majority additionally needs guardian permission. No explicit India rule; organizer may restrict regions or withhold awards where lawful prize delivery is impossible.",
+        "evidence": {
+          "url": "https://competition.taleworlds.com/",
+          "kind": "summary",
+          "quote": "A.1 states age conditions; A.2.6 reserves regional legal-delivery restrictions without an eligible-country list."
+        }
+      },
+      "conditions": [
+        "India eligibility is unconfirmed; check lawful prize delivery with the organizer.",
+        "18+ as of 14 August 2026. Entry itself is free; access to Bannerlord/War Sails and relevant mod tools is needed for implementation.",
+        "Choose Conversion Mod, 3D Art or Scene Design. Up to three submissions per contest; only the highest-rated entry counts.",
+        "Conversion entries require a public YouTube showcase; playable mods should be available on Steam Workshop, Nexus Mods or ModDB.",
+        "Art and scene entries must be original, implemented in-game, and shared under the stated open-source license.",
+        "Prizes may be withheld for insufficient acceptable entries. Winners must provide bank/contact details within two weeks."
+      ],
+      "extraSources": [
+        {
+          "label": "ECB EUR/USD reference rate, 5 November 2026 (1.1224)",
+          "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.eu.html"
+        }
+      ],
+      "research": {
+        "snapshotAt": "2026-11-05T22:32:06Z",
+        "status": "eligibility-unconfirmed",
+        "origin": "Second non-Chinese platform sweep expanded into publisher-led game-mod competitions",
+        "sourceNotes": [
+          {
+            "url": "https://competition.taleworlds.com/",
+            "summary": "Organizer page includes complete contest-specific and general rules, euro awards, AI disclosure, bank details and entry deadline."
+          }
+        ],
+        "deadlineText": "22 November 2026 23:59 UTC"
+      },
+      "tags": [
+        "Game modding",
+        "AI disclosure required",
+        "India eligibility unconfirmed",
+        "Bannerlord / War Sails"
+      ],
+      "summary": "Create Bannerlord: War Sails conversion mods, ship models or playable raid scenes. The three contests collectively award €30,000 in monetary prizes; disclosed AI code/assets are permitted.",
+      "startsAt": "2026-08-14T23:59:00Z",
+      "deadline": "2026-11-22T23:59:00Z",
+      "registrationDeadline": null,
+      "deadlineLabel": "23 November 2026, 5:29 AM IST (22 November, 23:59 UTC)",
+      "deadlineEvidence": "https://competition.taleworlds.com/",
+      "reviewReason": "Complete organizer rules confirm monetary award table, required bank details, AI disclosure and open submission period. No published country list expressly confirms India; legal delivery conditions apply.",
+      "aiPolicy": {
+        "status": "conditional",
+        "label": "AI code/assets allowed with disclosure",
+        "detail": "General rule A.2.8 requires disclosure of whether and how extensively AI generated code or assets. Entrants must satisfy authorship, rights and category-specific rules.",
+        "evidence": {
+          "url": "https://competition.taleworlds.com/",
+          "kind": "summary",
+          "quote": "A.2.8 expressly accommodates disclosed AI-generated code or assets."
+        }
+      },
+      "cashPrize": {
+        "amount": 30000,
+        "currency": "EUR",
+        "usdAmount": 33672.0,
+        "display": "€30,000 cash (about $33,672)",
+        "confirmedFiat": true,
+        "note": "Conversion €21,000 + Art €3,500 + Scenes €3,500 + community awards €2,000. Excludes Steam gift cards. Three categories counted once as one competition.",
+        "conversionDate": "2026-11-05T00:00:00Z",
+        "conversionSource": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+      },
+      "prizeEvidence": {
+        "url": "https://competition.taleworlds.com/",
+        "kind": "summary",
+        "quote": "Monetary prizes total €30,000; A.6.5 requires winners' bank details within two weeks."
       }
     },
     {
@@ -3229,6 +3440,103 @@
       }
     },
     {
+      "id": "modelscope-ai-infinity-3-game-2026",
+      "title": "ModelScope AI+∞ #3 — AI Make Games",
+      "organizer": "ModelScope, Qoder and Shengqu Games",
+      "category": "game-development",
+      "url": "https://www.modelscope.cn/events/394/%E6%AF%94%E8%B5%9B%E4%BB%8B%E7%BB%8D",
+      "summary": "Create an original playable AI-assisted game and publish it on ModelScope Studio.",
+      "startsAt": "2026-11-02T00:00:00Z",
+      "deadline": "2026-11-30T22:00:00Z",
+      "registrationDeadline": "2026-11-30T22:00:00Z",
+      "deadlineDate": "2026-12-01",
+      "deadlinePrecision": "date",
+      "deadlineIsConservativeCutoff": true,
+      "deadlineLabel": "Register by 1 December 12:00; submit by 18:00. Timezone unstated; conservative registration cutoff stored.",
+      "format": "Online submission",
+      "mode": "online",
+      "location": "Online",
+      "teamSize": "See official rules",
+      "entryFee": "Not stated; confirm before entering",
+      "tags": [
+        "AI game creation",
+        "India eligibility unconfirmed"
+      ],
+      "verificationStatus": "pending",
+      "verifiedAt": "2026-11-05T22:17:02.095796Z",
+      "aiPolicy": {
+        "status": "allowed",
+        "label": "AI allowed",
+        "detail": "Original games created with AI are the competition theme.",
+        "evidence": {
+          "url": "https://www.modelscope.cn/events/394/%E6%AF%94%E8%B5%9B%E4%BB%8B%E7%BB%8D",
+          "quote": "Original games created with AI are the competition theme.",
+          "kind": "summary"
+        }
+      },
+      "eligibility": {
+        "indiaEligible": null,
+        "detail": "Geographic eligibility is unspecified; overseas access, payout and Indian eligibility need organizer confirmation.",
+        "evidence": {
+          "url": "https://www.modelscope.cn/events/394/%E6%AF%94%E8%B5%9B%E4%BB%8B%E7%BB%8D",
+          "quote": "Geographic eligibility is unspecified; overseas access, payout and Indian eligibility need organizer confirmation.",
+          "kind": "summary"
+        }
+      },
+      "cashPrize": {
+        "amount": 40000,
+        "currency": "CNY",
+        "usdAmount": 5998.45,
+        "display": "CNY 40,000 (≈$5,998)",
+        "note": "Cash awards: 15,000 + 8,000 + 5,000 + 4,000 + 4,000 + 2,000 + 2,000 CNY. Hardware and credits excluded.",
+        "conversionDate": "2026-11-05T00:00:00Z",
+        "conversionSource": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+      },
+      "prizeEvidence": {
+        "url": "https://www.modelscope.cn/events/394/%E6%AF%94%E8%B5%9B%E4%BB%8B%E7%BB%8D",
+        "quote": "Cash awards: 15,000 + 8,000 + 5,000 + 4,000 + 4,000 + 2,000 + 2,000 CNY. Hardware and credits excluded.",
+        "kind": "summary"
+      },
+      "conditions": [
+        "Post the required game concept publicly on a listed social platform and submit its link before registration closes.",
+        "Publish a playable game on ModelScope Studio and a creation log with demo video on its developer-practice channel.",
+        "Registration is six hours before final submission. Organizer index shows the submission deadline; follow the earlier poster registration time.",
+        "Team limits, age, fees, licensing and international cash-payout arrangements were not stated in the accessible call."
+      ],
+      "research": {
+        "snapshotAt": "2026-11-05T22:17:02.095796Z",
+        "status": "eligibility-unconfirmed",
+        "origin": "6 November regional gaming contests >=USD1000 cash sweep",
+        "deadlineText": "Register by 1 December 12:00; submit by 18:00. Timezone unstated; conservative registration cutoff stored.",
+        "cashText": "Cash awards: 15,000 + 8,000 + 5,000 + 4,000 + 4,000 + 2,000 + 2,000 CNY. Hardware and credits excluded.",
+        "sourceNotes": [
+          {
+            "url": "https://www.modelscope.cn/events/394/%E6%AF%94%E8%B5%9B%E4%BB%8B%E7%BB%8D",
+            "summary": "Official interactive page and full poster read in native Chrome: seven cash awards and separate registration/submission times."
+          },
+          {
+            "url": "https://www.modelscope.cn/events",
+            "summary": "Official index labels this competition ongoing and requires an original AI-created playable game."
+          }
+        ]
+      },
+      "extraSources": [
+        {
+          "label": "ECB conversion rates",
+          "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+        },
+        {
+          "label": "Official active event index",
+          "url": "https://www.modelscope.cn/events"
+        },
+        {
+          "label": "Creation-log template",
+          "url": "https://modelscope.cn/learn/437860"
+        }
+      ],
+      "listingStatus": "eligibility-unconfirmed"
+    },
+    {
       "id": "forgeclan-november-hackathon-2026",
       "title": "ForgeClan November Hackathon — Games & Apps",
       "organizer": "ForgeClan",
@@ -3327,101 +3635,6 @@
         "Engagement awards",
         "India eligibility unconfirmed"
       ]
-    },
-    {
-      "id": "bezi-jam-15-2026",
-      "title": "Bezi Jam #15",
-      "organizer": "Bezi",
-      "category": "game-development",
-      "url": "https://itch.io/jam/bezi-jam-15",
-      "rulesUrl": "https://itch.io/jam/bezi-jam-15",
-      "summary": "Build a new game with any engine; optional Bezi AI assistance is explicitly allowed. The game and devlog tracks award $350 cash. Indian eligibility is unconfirmed.",
-      "startsAt": "2026-11-27T07:00:00Z",
-      "deadline": "2026-12-01T06:59:59Z",
-      "registrationDeadline": null,
-      "deadlineLabel": "1 December 2026, 12:29:59 PM IST — earlier portal cutoff; written schedule differs by one hour",
-      "deadlineEvidence": "https://itch.io/jam/bezi-jam-15",
-      "format": "Online",
-      "mode": "online",
-      "location": "Online · India eligibility unconfirmed",
-      "teamSize": "Solo or up to 3",
-      "entryFee": "No entry fee stated; platform requirements apply",
-      "tags": [
-        "Game jam",
-        "India eligibility unconfirmed"
-      ],
-      "verificationStatus": "pending",
-      "verifiedAt": "2026-11-05T21:40:58.947220Z",
-      "researchLead": false,
-      "reviewReason": "Eligible for the main board under the revised policy: explicit AI development assistance, $350 game/devlog cash and open registration. India eligibility remains unconfirmed; earlier portal deadline is used because the written Pacific schedule differs by one hour.",
-      "aiPolicy": {
-        "status": "conditional",
-        "label": "Bezi AI assistance allowed",
-        "detail": "The game track expressly permits optional Bezi AI assistance and any engine/tools. Disclose tools used. The separate fan-art competition bans AI imagery and is excluded from this listing and cash pool.",
-        "evidence": {
-          "url": "https://itch.io/jam/bezi-jam-15",
-          "kind": "summary",
-          "quote": "Optional use of Bezi AI development assistance is explicitly permitted for the game. The separate fan-art award prohibits AI and is excluded from this game cash total."
-        }
-      },
-      "eligibility": {
-        "indiaEligible": null,
-        "detail": "No explicit worldwide or India-specific contest eligibility statement was found. Platform service availability is not sufficient proof of Indian competition prize eligibility.",
-        "evidence": {
-          "url": "https://itch.io/jam/bezi-jam-15",
-          "kind": "summary",
-          "quote": "No explicit worldwide or India-specific contest eligibility statement was found. Platform service availability is not sufficient proof of Indian competition prize eligibility."
-        }
-      },
-      "cashPrize": {
-        "amount": 350,
-        "currency": "USD",
-        "usdAmount": 350,
-        "display": "$350",
-        "note": "Official page explicitly says winners receive cash. Game awards $150 + $100 + $50 and devlog $50 total $350. The separate $50 fan-art award prohibits AI and is excluded.",
-        "confirmedFiat": true
-      },
-      "prizeEvidence": {
-        "url": "https://itch.io/jam/bezi-jam-15",
-        "kind": "summary",
-        "quote": "Official page explicitly says winners receive cash. Game awards $150 + $100 + $50 and devlog $50 total $350. The separate $50 fan-art award prohibits AI and is excluded."
-      },
-      "conditions": [
-        "Indian participation and prize eligibility have not been confirmed by the organizer. Check before committing time or paying platform costs.",
-        "Use any engine; teams of up to three. Create the game during the jam and use properly licensed assets.",
-        "Game prizes are $150/$100/$50, plus a $50 devlog prize. Exclude the separate $50 fan-art award because AI art is prohibited.",
-        "Devlog must be posted to Discord during voting; disclose tools and follow English submission requirements.",
-        "The portal ends 1 December 06:59:59 UTC; written 30 November 11:59 PM Pacific implies 1 December 07:59 UTC. The earlier portal cutoff is stored conservatively."
-      ],
-      "extraSources": [
-        {
-          "label": "Platform terms, not contest-specific eligibility",
-          "url": "https://www.bezi.com/terms-of-service"
-        },
-        {
-          "label": "Jam community questions",
-          "url": "https://itch.io/jam/bezi-jam-15/community"
-        }
-      ],
-      "research": {
-        "snapshotAt": "2026-11-05T21:40:58.947220Z",
-        "status": "eligibility-unconfirmed",
-        "origin": "6 November 2026 IST revised inclusion policy: unknown India eligibility is disclosed on the main board",
-        "deadlineText": "1 December 2026, 12:29:59 PM IST — earlier portal cutoff; written schedule differs by one hour",
-        "cashText": "Official page explicitly says winners receive cash. Game awards $150 + $100 + $50 and devlog $50 total $350. The separate $50 fan-art award prohibits AI and is excluded.",
-        "sourceNotes": [
-          {
-            "url": "https://www.bezi.com/terms-of-service",
-            "summary": "Platform terms, not contest-specific eligibility"
-          },
-          {
-            "url": "https://itch.io/jam/bezi-jam-15/community",
-            "summary": "Jam community questions"
-          }
-        ]
-      },
-      "deadlineIsConservativeCutoff": true,
-      "listingStatus": "eligibility-unconfirmed"
     },
     {
       "id": "artefact-ai-film-festival-2026",
@@ -4776,6 +4989,259 @@
       "eventGroup": "iaplay-international-2027"
     },
     {
+      "id": "skyrim-modathon-2026",
+      "title": "Skyrim Modathon 2026 — AI Assistance Only",
+      "organizer": "Nexus Mods / Black Tree Gaming Ltd",
+      "category": "game-development",
+      "url": "https://www.nexusmods.com/featured/skyrim-modathon",
+      "rulesUrl": "https://help.nexusmods.com/article/178-skyrim-modathon-2026-terms-and-conditions",
+      "summary": "Publish a new Skyrim Special Edition mod for £10,000 in cash or cash-choice awards. AI-powered assistance is allowed, but generated content and assets cannot appear in the entry.",
+      "startsAt": "2026-10-01T00:01:00Z",
+      "deadline": "2026-12-31T23:59:00Z",
+      "registrationDeadline": null,
+      "deadlineLabel": "1 January 2027, 5:29 AM IST (31 December 2026, 23:59 UTC)",
+      "deadlineEvidence": "https://help.nexusmods.com/article/178-skyrim-modathon-2026-terms-and-conditions",
+      "format": "Online",
+      "mode": "online",
+      "location": "Online · International",
+      "teamSize": "Individual or collaboration; all contributors 18+",
+      "entryFee": "No contest fee stated; Nexus account and Skyrim Special Edition access needed",
+      "verificationStatus": "verified",
+      "verifiedAt": "2026-11-05T22:33:39Z",
+      "researchLead": false,
+      "reviewReason": "Full event-specific terms checked: international participation §7.6, cash-choice and ten cash awards §4, exact deadline §3.1, and limited AI assistance §3.6. This is not permission to include AI-generated code/content/assets.",
+      "aiPolicy": {
+        "status": "conditional",
+        "label": "AI assistance only; generated entry content banned",
+        "detail": "Event rule §3.6 permits AI-powered assistance but prohibits generative-AI content/assets in the submitted mod, including images, textures, models, audio, voices, music and writing. Do not interpret the platform's broader AI policy as event permission.",
+        "evidence": {
+          "url": "https://help.nexusmods.com/article/178-skyrim-modathon-2026-terms-and-conditions",
+          "kind": "summary",
+          "quote": "Section3.6 permits assistance tools while prohibiting generated content or assets in the entry."
+        }
+      },
+      "eligibility": {
+        "indiaEligible": true,
+        "detail": "International Nexus users aged18+, with lawful participation and prize receipt. All collaborators must be18+ and identified. No India exclusion stated.",
+        "evidence": {
+          "url": "https://help.nexusmods.com/article/178-skyrim-modathon-2026-terms-and-conditions",
+          "kind": "summary",
+          "quote": "Section7.6 opens the contest internationally, subject to law and sanctions; §2 requires18+."
+        }
+      },
+      "cashPrize": {
+        "amount": 10000,
+        "currency": "GBP",
+        "usdAmount": 13459.16,
+        "display": "£10,000 cash / cash-choice pool (about $13,459)",
+        "confirmedFiat": true,
+        "note": "Champion may freely choose £5,000 cash instead of travel; ten additional awards each pay £500 cash. No mandatory travel.",
+        "conversionDate": "2026-11-05T00:00:00Z",
+        "conversionSource": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+      },
+      "prizeEvidence": {
+        "url": "https://help.nexusmods.com/article/178-skyrim-modathon-2026-terms-and-conditions",
+        "kind": "summary",
+        "quote": "Sections4.2 and4.6 guarantee a freely chosen £5,000 cash option plus ten £500 cash awards."
+      },
+      "conditions": [
+        "AI assistance only. Do not include generative-AI content/assets in the mod or entry media; this is not an unrestricted AI-build competition.",
+        "First publish a new Skyrim Special Edition mod during1October–31December and tag it Skyrim Modathon2026. Earlier development is allowed; updates to pre-event published mods are not.",
+        "All collaborators18+, identified on the mod page. Entries must be SFW and publicly available.",
+        "Multiple entries and awards are possible. Five suggested themes are optional.",
+        "Community shortlisting runs4–10January2027, then expert judging. Winners must reply within30days; cash normally paid within30days of providing necessary information.",
+        "The champion can choose cash without having to prove inability to travel. Team members arrange splitting cash."
+      ],
+      "extraSources": [
+        {
+          "label": "Official announcement and entry-media AI restriction",
+          "url": "https://www.nexusmods.com/repo/news/15624"
+        },
+        {
+          "label": "ECB EUR reference rates,5November2026; GBP/USD cross-rate",
+          "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.eu.html"
+        }
+      ],
+      "research": {
+        "snapshotAt": "2026-11-05T22:33:39Z",
+        "status": "qualified",
+        "origin": "Additional publisher/platform game-modding sweep",
+        "deadlineText": "31December2026 23:59UTC",
+        "sourceNotes": [
+          {
+            "url": "https://help.nexusmods.com/article/178-skyrim-modathon-2026-terms-and-conditions",
+            "summary": "Complete primary terms inspected: AI assistance restriction, cash alternative, international participation, new-publication window,30-day claim/payment."
+          }
+        ]
+      },
+      "tags": [
+        "Game modding",
+        "AI assistance only",
+        "Generated assets prohibited",
+        "International"
+      ]
+    },
+    {
+      "id": "cyberpunk-modathon-2026",
+      "title": "Cyberpunk Modathon 2026 — AI Assistance Only",
+      "organizer": "Nexus Mods / Black Tree Gaming Ltd",
+      "category": "game-development",
+      "url": "https://help.nexusmods.com/article/179-cyberpunk-modathon-2026-terms-and-conditions",
+      "rulesUrl": "https://help.nexusmods.com/article/179-cyberpunk-modathon-2026-terms-and-conditions",
+      "summary": "Create a new Cyberpunk 2077 mod. AI assistance is permitted; generated content cannot be included.",
+      "startsAt": "2026-10-20T00:01:00Z",
+      "deadline": "2026-12-31T23:59:00Z",
+      "registrationDeadline": null,
+      "deadlineLabel": "1 January 2027, 5:29 AM IST (31 December, 23:59 GMT)",
+      "mode": "online",
+      "format": "Online",
+      "location": "Online · International",
+      "teamSize": "Solo or teams; all 18+",
+      "entryFee": "Free; game/software access needed",
+      "verificationStatus": "verified",
+      "verifiedAt": "2026-11-05T22:36:27.009119+00:00",
+      "aiPolicy": {
+        "status": "conditional",
+        "label": "AI assistance only; generated entry content banned",
+        "detail": "Assistance allowed; no generative-AI content or assets in the mod. This does not establish permission to submit generated code.",
+        "evidence": {
+          "url": "https://help.nexusmods.com/article/179-cyberpunk-modathon-2026-terms-and-conditions",
+          "kind": "summary",
+          "quote": "Section 3.6 permits assistance while excluding generated entry content."
+        }
+      },
+      "eligibility": {
+        "indiaEligible": true,
+        "detail": "International participation, subject to lawful entry/payment and sanctions; 18+ Nexus users. India inclusion is inferred from this rule.",
+        "evidence": {
+          "url": "https://help.nexusmods.com/article/179-cyberpunk-modathon-2026-terms-and-conditions",
+          "kind": "summary",
+          "quote": "Sections 2 and 8.6 establish age and international eligibility."
+        }
+      },
+      "cashPrize": {
+        "amount": 9800,
+        "currency": "GBP",
+        "usdAmount": 13189.98,
+        "display": "£9,800 mod cash pool",
+        "note": "£10,000 overall minus £200 separate screenshot prize.",
+        "conversionDate": "2026-11-05T00:00:00Z",
+        "conversionSource": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+      },
+      "prizeEvidence": {
+        "url": "https://help.nexusmods.com/article/179-cyberpunk-modathon-2026-terms-and-conditions",
+        "kind": "summary",
+        "quote": "Section 4 itemizes sterling cash awards."
+      },
+      "conditions": [
+        "First publish and tag the mod during the entry window; older published mods are ineligible.",
+        "SFW, rights-cleared entries; winning mods stay public for 90 days.",
+        "Claim within 30 days; lawful payment and tax checks apply."
+      ],
+      "tags": [
+        "Game modding",
+        "AI assistance only",
+        "Generated content prohibited"
+      ]
+    },
+    {
+      "id": "gff-award-2027-ai-game-art",
+      "title": "GFF AWARD 2027 — Game Software & AI Game Art",
+      "organizer": "Fukuoka Game Industry Promotion Organization",
+      "category": "game-development",
+      "url": "https://www.gff.jp/gffcast/news/2026/09/-tbody-tr-tdinfo-table-tbody-t.html",
+      "summary": "Original playable-game division of the existing GFF contest; students and amateurs may use disclosed AI tools.",
+      "startsAt": "2026-09-01T00:00:00Z",
+      "deadline": "2027-01-06T09:59:00Z",
+      "registrationDeadline": null,
+      "deadlineDate": "2027-01-06",
+      "deadlinePrecision": "date",
+      "deadlineIsConservativeCutoff": true,
+      "deadlineLabel": "6 January 2027, 23:59; timezone unstated, conservative cutoff stored.",
+      "format": "Online submission",
+      "mode": "hybrid",
+      "location": "Online submission; Fukuoka final",
+      "teamSize": "Students/amateur individuals or teams",
+      "entryFee": "Not stated; confirm before entering",
+      "tags": [
+        "AI game creation"
+      ],
+      "verificationStatus": "verified",
+      "verifiedAt": "2026-11-05T22:17:02.095796Z",
+      "aiPolicy": {
+        "status": "conditional",
+        "label": "AI materials/ideas allowed with disclosure",
+        "detail": "Software rules allow AI in materials or ideas with tool/use disclosure.",
+        "evidence": {
+          "url": "https://www01.do-johodai.ac.jp/asc/cms/wp-content/uploads/2026/09/20260901_%E7%AC%AC20%E5%9B%9E%E7%A6%8F%E5%B2%A1%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-GFF-AWARD-2027.pdf",
+          "quote": "Software rules allow AI in materials or ideas with tool/use disclosure.",
+          "kind": "summary"
+        }
+      },
+      "eligibility": {
+        "indiaEligible": true,
+        "detail": "Foreign nationals explicitly accepted. Students/amateurs only; software finalists need conversational Japanese or their own interpreter.",
+        "evidence": {
+          "url": "https://www01.do-johodai.ac.jp/asc/cms/wp-content/uploads/2026/09/20260901_%E7%AC%AC20%E5%9B%9E%E7%A6%8F%E5%B2%A1%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-GFF-AWARD-2027.pdf",
+          "quote": "Foreign nationals explicitly accepted. Students/amateurs only; software finalists need conversational Japanese or their own interpreter.",
+          "kind": "summary"
+        }
+      },
+      "cashPrize": {
+        "amount": 300000,
+        "currency": "JPY",
+        "usdAmount": 1893.28,
+        "display": "JPY 300,000 (≈$1,893)",
+        "note": "JPY 300,000 software grand prize is the conservative minimum. Additional JPY 50,000 excellence awards have unspecified count.",
+        "conversionDate": "2026-11-05T00:00:00Z",
+        "conversionSource": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+      },
+      "prizeEvidence": {
+        "url": "https://www.city.fukuoka.lg.jp/shisei/kouhou-hodo/hodo-happyo/2026/documents/dai20kaifukuokagamecontestgffaward2027sakuhinbosyuukaishi-r.pdf",
+        "quote": "JPY 300,000 software grand prize is the conservative minimum. Additional JPY 50,000 excellence awards have unspecified count.",
+        "kind": "summary"
+      },
+      "conditions": [
+        "Software and AI-art are divisions of the same contest. Displayed cash is the software minimum only; art cash is not added.",
+        "Software deadline January 6 is separate from the AI-art November 16 deadline. One entry per division; under-18s need guardian consent.",
+        "Finalists present/demo in person March 20, 2027; travel/accommodation support capped at JPY 50,000 per team.",
+        "Disclose AI tools and use; prompts targeting named people, characters, products or creators are restricted. Rights-cleared original content required.",
+        "Organizer may reproduce/display entry material for promotion free and without time limit. Review parallel-entry and prior-award restrictions.",
+        "Entry fee and cash payout timing not established. Certain simplified creation tools and Flash are excluded; review full software rules."
+      ],
+      "research": {
+        "snapshotAt": "2026-11-05T22:17:02.095796Z",
+        "status": "verified",
+        "origin": "6 November regional gaming contests >=USD1000 cash sweep",
+        "deadlineText": "6 January 2027, 23:59; timezone unstated, conservative cutoff stored.",
+        "cashText": "JPY 300,000 software grand prize is the conservative minimum. Additional JPY 50,000 excellence awards have unspecified count.",
+        "sourceNotes": [
+          {
+            "url": "https://www01.do-johodai.ac.jp/asc/cms/wp-content/uploads/2026/09/20260901_%E7%AC%AC20%E5%9B%9E%E7%A6%8F%E5%B2%A1%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-GFF-AWARD-2027.pdf",
+            "summary": "Current 2027 eight-page organizer rules mirrored by Hokkaido Information University, visually read in Chrome: software AI permission page3; rights page4; foreign-national eligibility/AI conditions page5; final logistics page6."
+          },
+          {
+            "url": "https://www.city.fukuoka.lg.jp/shisei/kouhou-hodo/hodo-happyo/2026/documents/dai20kaifukuokagamecontestgffaward2027sakuhinbosyuukaishi-r.pdf",
+            "summary": "Fukuoka City co-organizer announcement confirms software deadline and JPY300,000 grand prize."
+          }
+        ]
+      },
+      "extraSources": [
+        {
+          "label": "ECB conversion rates",
+          "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+        },
+        {
+          "label": "2027 full rules (university mirror)",
+          "url": "https://www01.do-johodai.ac.jp/asc/cms/wp-content/uploads/2026/09/20260901_%E7%AC%AC20%E5%9B%9E%E7%A6%8F%E5%B2%A1%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-GFF-AWARD-2027.pdf"
+        },
+        {
+          "label": "Fukuoka City official call",
+          "url": "https://www.city.fukuoka.lg.jp/shisei/kouhou-hodo/hodo-happyo/2026/documents/dai20kaifukuokagamecontestgffaward2027sakuhinbosyuukaishi-r.pdf"
+        }
+      ]
+    },
+    {
       "id": "nfl-big-data-bowl-2027",
       "title": "NFL Big Data Bowl 2027",
       "organizer": "National Football League / Kaggle",
@@ -5209,6 +5675,123 @@
       ]
     },
     {
+      "id": "farming-simulator-25-modding-contest-2026",
+      "title": "Farming Simulator 25 Modding Contest 2026–27",
+      "organizer": "GIANTS Software; Volvo, AMD, MOZA Racing and Thrustmaster",
+      "category": "game-development",
+      "url": "https://www.farming-simulator.com/newsArticle.php?news_id=697",
+      "rulesUrl": "https://farming-simulator.com/newsArticle.php?news_id=694",
+      "format": "Online",
+      "mode": "online",
+      "location": "Online · India eligibility unconfirmed",
+      "teamSize": "Individuals or teams",
+      "entryFee": "No entry fee",
+      "verificationStatus": "pending",
+      "listingStatus": "eligibility-unconfirmed",
+      "verifiedAt": "2026-11-05T22:32:06Z",
+      "researchLead": false,
+      "eligibility": {
+        "indiaEligible": null,
+        "detail": "Individuals and teams of any size and age accepted; minors need guardian contact/consent. Country rules do not expressly confirm India. Some vouchers are region-restricted, separate from the cash pool.",
+        "evidence": {
+          "url": "https://farming-simulator.com/newsArticle.php?news_id=694",
+          "kind": "summary",
+          "quote": "Section 2 accepts all-age individuals/teams; no eligible-country list published."
+        }
+      },
+      "conditions": [
+        "Announced upcoming: planning is possible now; actual submissions open 16 November 2026.",
+        "AI assistance is limited: ideation and assisted scripting/debugging permitted; generated final artwork/textures and unmodified generated gameplay systems prohibited.",
+        "India eligibility and international cash delivery are unconfirmed. Thrustmaster vouchers are limited to US, Canada and EU shops and excluded from the cash total.",
+        "Build a new standalone FS25 mod/map specifically for this contest; no prior public announcement or release.",
+        "Upload a ZIP up to 1.5GB to ModHub and email the required entry information. Do not publicly reveal it before community voting begins.",
+        "One entry per category; all contributors identified. Winners announced April 2027; awards distributed within eight weeks.",
+        "Game/software access is required; no separate contest fee stated. Volvo trip is optional prize for adult winners, not mandatory attendance."
+      ],
+      "extraSources": [
+        {
+          "label": "ECB EUR/USD reference rate, 5 November 2026 (1.1224)",
+          "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.eu.html"
+        },
+        {
+          "label": "Official Best Mod prize graphic",
+          "url": "https://www.farming-simulator.com/cms/uploads/news_6a699b84386c0.jpg"
+        },
+        {
+          "label": "Official Best Map prize graphic",
+          "url": "https://www.farming-simulator.com/cms/uploads/news_6a699b8435299.jpg"
+        },
+        {
+          "label": "Official Best Crossplay prize graphic",
+          "url": "https://www.farming-simulator.com/cms/uploads/news_6a699b8433029.jpg"
+        },
+        {
+          "label": "Official Volvo prize graphic",
+          "url": "https://www.farming-simulator.com/cms/uploads/news_6a699b8430e35.jpg"
+        },
+        {
+          "label": "Independent transcription of prize graphics",
+          "url": "https://www.univers-simu.com/news/farming-simulator-25-le-modding-contest-fait-son-grand-retour-avec-plus-de-30-000-e-de-recompenses-125285/"
+        }
+      ],
+      "research": {
+        "snapshotAt": "2026-11-05T22:32:06Z",
+        "status": "eligibility-unconfirmed",
+        "origin": "Second non-Chinese platform sweep expanded into publisher-led game-mod competitions",
+        "sourceNotes": [
+          {
+            "url": "https://farming-simulator.com/newsArticle.php?news_id=694",
+            "summary": "Read complete primary rules: scoped AI assistance, age/team requirements, Jan15 23:59CET, new standalone mods, email+upload, embargo and payout timing."
+          },
+          {
+            "url": "https://www.farming-simulator.com/newsArticle.php?news_id=697",
+            "summary": "All four official prize graphics visually verified in Chrome: three categories each €3,750 and Volvo €10,000; merchandise and vouchers excluded."
+          }
+        ],
+        "deadlineText": "Submissions 16 November 2026–15 January 2027 23:59 CET"
+      },
+      "tags": [
+        "Game modding",
+        "Scoped AI permission",
+        "Upcoming entry",
+        "India eligibility unconfirmed"
+      ],
+      "summary": "Build original Farming Simulator 25 mods, maps or future Volvo machines. €21,250 cash across four categories; AI may assist ideas and scripting, but final assets and implementation require human authorship.",
+      "startsAt": null,
+      "startsOn": "2026-11-16",
+      "deadline": "2027-01-15T22:59:00Z",
+      "registrationDeadline": null,
+      "deadlineLabel": "16 January 2027, 4:29 AM IST (15 January, 23:59 CET). Submissions open 16 November.",
+      "deadlineEvidence": "https://farming-simulator.com/newsArticle.php?news_id=694",
+      "reviewReason": "Official rules and all four original prize graphics reviewed. Cash totals €21,250; AI scripting assistance is limited; India eligibility unconfirmed.",
+      "aiPolicy": {
+        "status": "conditional",
+        "label": "AI scripting assistance only; no generated final artwork",
+        "detail": "Rules §6 permit ideation, reference and scripting/debugging assistance. Human authors must create final implementation; AI-generated images, textures and artwork and unmodified AI gameplay systems are prohibited.",
+        "evidence": {
+          "url": "https://farming-simulator.com/newsArticle.php?news_id=694",
+          "kind": "summary",
+          "quote": "Section 6 explicitly permits assisted development while prohibiting generated final art and unmodified AI implementations."
+        }
+      },
+      "cashPrize": {
+        "amount": 21250,
+        "currency": "EUR",
+        "usdAmount": 23851.0,
+        "display": "€21,250 cash (about $23,851)",
+        "confirmedFiat": true,
+        "note": "Best Mod, Map and Crossplay each €2,000+€1,250+€500; Volvo €5,000+€3,000+€2,000. Excludes hardware, vouchers, LEGO and travel from the €30,000+ mixed-value headline.",
+        "conversionDate": "2026-11-05T00:00:00Z",
+        "conversionSource": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+      },
+      "prizeEvidence": {
+        "url": "https://www.farming-simulator.com/newsArticle.php?news_id=697",
+        "kind": "summary",
+        "quote": "Official prize graphics list cash separately from equipment and vouchers; arithmetic is 3×€3,750 plus €10,000."
+      },
+      "entryOpensOn": "2026-11-16"
+    },
+    {
       "id": "cannes-film-awards-2027",
       "title": "Cannes Film Awards 2027 — AI-eligible films",
       "organizer": "Cannes Film Awards",
@@ -5290,6 +5873,91 @@
           "url": "https://filmfreeway.com/CannesFilmAwards"
         }
       ]
+    },
+    {
+      "id": "rokid-spatial-joy-2026-ar-game",
+      "title": "Rokid Spatial Joy 2026 — AR Game Track",
+      "category": "game-development",
+      "url": "https://spatialjoy.rokid.com/2026",
+      "verifiedAt": "2026-11-05T22:15:29Z",
+      "researchLead": false,
+      "cashPrize": {
+        "amount": 800000,
+        "currency": "CNY",
+        "usdAmount": 119969.0,
+        "display": "CNY 800,000 cash",
+        "conversionDate": "2026-11-05T00:00:00Z",
+        "conversionSource": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+        "note": "CNY800,000 itemized dedicated game-track cash; other tracks, hardware and tokens excluded."
+      },
+      "entryFee": "Not stated",
+      "format": "Hybrid",
+      "mode": "hybrid",
+      "research": {
+        "checkedAt": "2026-11-05T22:15:29Z",
+        "snapshotAt": "2026-11-05T22:15:29Z",
+        "origin": "6 November 2026 IST — additional game contests with cash at least USD1,000",
+        "sourceNotes": [
+          {
+            "url": "https://spatialjoy.rokid.com/2026"
+          },
+          {
+            "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.eu.html"
+          }
+        ],
+        "status": "verified",
+        "deadlineText": "Official entry window 27 October 2026–28 January 2027. No exact closing time/timezone. Conservative expiry at earliest worldwide start of closing date."
+      },
+      "organizer": "Rokid",
+      "summary": "In-game AI interaction expressly permitted; coding-assistant permission unconfirmed. Global entry; in-person finals mandatory.",
+      "startsAt": null,
+      "deadline": "2027-01-27T10:00:00Z",
+      "registrationDeadline": "2027-01-27T10:00:00Z",
+      "deadlineLabel": "28 January 2027; exact time/timezone unannounced",
+      "deadlineDate": "2027-01-28",
+      "deadlinePrecision": "date",
+      "location": "Online submission; mandatory in-person finals in China, March 2027",
+      "teamSize": "Solo or up to 5",
+      "tags": [
+        "In-game AI permitted",
+        "AR",
+        "Rokid hardware",
+        "Finals travel required"
+      ],
+      "verificationStatus": "verified",
+      "aiPolicy": {
+        "status": "conditional",
+        "label": "In-game AI allowed; AI coding unconfirmed",
+        "detail": "Game-track rules encourage AI to strengthen virtual/physical interaction. Coding-assistant use is unconfirmed.",
+        "evidence": {
+          "url": "https://spatialjoy.rokid.com/2026",
+          "kind": "summary",
+          "quote": "The game track explicitly encourages AI, spatial positioning, gesture recognition and physics to enhance interaction."
+        }
+      },
+      "eligibility": {
+        "indiaEligible": true,
+        "label": "Worldwide; finals travel required",
+        "detail": "Official competition invites global creators. Finalists must attend physically.",
+        "evidence": {
+          "url": "https://spatialjoy.rokid.com/2026",
+          "kind": "summary",
+          "quote": "The competition invites developers, creators and ecosystem partners worldwide."
+        }
+      },
+      "prizeEvidence": {
+        "url": "https://spatialjoy.rokid.com/2026",
+        "kind": "summary",
+        "quote": "Game awards: CNY200,000 once, CNY150,000 twice and CNY100,000 three times; cash before tax."
+      },
+      "conditions": [
+        "Build for the Rokid AR kit; submit a core gameplay demo and project materials.",
+        "Finalists must attend the March 2027 finals physically; absence forfeits the place.",
+        "Borrowed devices require an agreement and return by 1 April 2027; loss/damage requires repayment.",
+        "Most previous Rokid entries are excluded; specified 2026 college award winners are excepted.",
+        "Deadline is date-only. Stored expiry is deliberately early; confirm the closing hour."
+      ],
+      "deadlineIsConservativeCutoff": true
     },
     {
       "id": "iaplay-panama-2027",
@@ -6613,27 +7281,462 @@
       "url": "https://arkavidia.com/competitions/gamevidia",
       "access": "Direct official event/rule review",
       "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.astrocade.com",
+      "name": "www.astrocade.com",
+      "url": "https://www.astrocade.com/contests/100k-creator-contest-2026",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.lzhu.cn",
+      "name": "www.lzhu.cn",
+      "url": "https://www.lzhu.cn/activity/2026/china-good-game/index.html",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.aholo.ai",
+      "name": "www.aholo.ai",
+      "url": "https://www.aholo.ai/hackathon",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "aiplaylab.cn",
+      "name": "aiplaylab.cn",
+      "url": "https://aiplaylab.cn/topics/songjiang-ai-genesis-2026/rules",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "hana.oasisw.ai",
+      "name": "hana.oasisw.ai",
+      "url": "https://hana.oasisw.ai/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "fiea.ucf.edu",
+      "name": "fiea.ucf.edu",
+      "url": "https://fiea.ucf.edu/gamejam2027/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "gm48.net",
+      "name": "gm48.net",
+      "url": "https://gm48.net/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "discussions.unity.com",
+      "name": "discussions.unity.com",
+      "url": "https://discussions.unity.com/t/the-2026-official-unity-game-jam-starts-november-5th/1740103",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "slapjam.ai",
+      "name": "slapjam.ai",
+      "url": "https://slapjam.ai/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.competehub.dev",
+      "name": "www.competehub.dev",
+      "url": "https://www.competehub.dev/en/competitions/lumaf42379f441fa558687649b8ebc87ce28",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.codefest.sg",
+      "name": "www.codefest.sg",
+      "url": "https://www.codefest.sg/competitions-game-makers",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "news.livedoor.com",
+      "name": "news.livedoor.com",
+      "url": "https://news.livedoor.com/article/detail/31335408/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "checkpointgamejam.org",
+      "name": "checkpointgamejam.org",
+      "url": "https://checkpointgamejam.org/faq/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "globalgamejam.org",
+      "name": "globalgamejam.org",
+      "url": "https://globalgamejam.org/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.modelscope.cn",
+      "name": "www.modelscope.cn",
+      "url": "https://www.modelscope.cn/events/394/%E6%AF%94%E8%B5%9B%E4%BB%8B%E7%BB%8D",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "gameinstitute.qq.com",
+      "name": "gameinstitute.qq.com",
+      "url": "https://gameinstitute.qq.com/awards2026",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "unity.cn",
+      "name": "unity.cn",
+      "url": "https://unity.cn/ucdc2026",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "tokyoesportsfesta.jp",
+      "name": "tokyoesportsfesta.jp",
+      "url": "https://tokyoesportsfesta.jp/creator_contest/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "finance.qingdaonews.com",
+      "name": "finance.qingdaonews.com",
+      "url": "https://finance.qingdaonews.com/content/2026-10/21/content_23762221.htm",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "3dj.gg",
+      "name": "3dj.gg",
+      "url": "https://3dj.gg/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "savvyacademy.sa",
+      "name": "savvyacademy.sa",
+      "url": "https://savvyacademy.sa/faq/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "contest.cygames.co.jp",
+      "name": "contest.cygames.co.jp",
+      "url": "https://contest.cygames.co.jp/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "spatialjoy.rokid.com",
+      "name": "spatialjoy.rokid.com",
+      "url": "https://spatialjoy.rokid.com/2026",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "spaceprogram-cn.picoxr.com",
+      "name": "spaceprogram-cn.picoxr.com",
+      "url": "https://spaceprogram-cn.picoxr.com/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.coworker.da.to",
+      "name": "www.coworker.da.to",
+      "url": "https://www.coworker.da.to/Contest/contest_view?idx=15955",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "gcontest.co.kr",
+      "name": "gcontest.co.kr",
+      "url": "https://gcontest.co.kr/front/m/comp/view/37931",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "newsletter.run-digital.com",
+      "name": "newsletter.run-digital.com",
+      "url": "https://newsletter.run-digital.com/opencalls/capcom-games-competition-2027",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "toxify.org",
+      "name": "toxify.org",
+      "url": "https://toxify.org/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "youjianggame.com",
+      "name": "youjianggame.com",
+      "url": "https://youjianggame.com/competitions/tencent-game-awards-2026",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "hackertrip.cn",
+      "name": "hackertrip.cn",
+      "url": "https://hackertrip.cn/hackathon/ht-lingzhu-gamejam-c60e5785",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "game.creators-guild.com",
+      "name": "game.creators-guild.com",
+      "url": "https://game.creators-guild.com/gck2026-tegd/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "competition.taleworlds.com",
+      "name": "competition.taleworlds.com",
+      "url": "https://competition.taleworlds.com/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.farming-simulator.com",
+      "name": "www.farming-simulator.com",
+      "url": "https://www.farming-simulator.com/newsArticle.php?news_id=697",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "mod.curseforge.com",
+      "name": "mod.curseforge.com",
+      "url": "https://mod.curseforge.com/arkathon2/terms-and-conditions.html",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "edenspark.io",
+      "name": "edenspark.io",
+      "url": "https://edenspark.io/en/news",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.nvidia.com",
+      "name": "www.nvidia.com",
+      "url": "https://www.nvidia.com/en-us/geforce/rtx-remix/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.nexusmods.com",
+      "name": "www.nexusmods.com",
+      "url": "https://www.nexusmods.com/featured/skyrim-modathon",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "sbox.game",
+      "name": "sbox.game",
+      "url": "https://sbox.game/jam/three",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "immersethebay.org",
+      "name": "immersethebay.org",
+      "url": "https://immersethebay.org/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.leukerbad-robot-carnival.tech",
+      "name": "www.leukerbad-robot-carnival.tech",
+      "url": "https://www.leukerbad-robot-carnival.tech/hackers",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "github.com",
+      "name": "github.com",
+      "url": "https://github.com/mozilla-ai/llamafile/discussions/1074",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.victoriavr.com",
+      "name": "www.victoriavr.com",
+      "url": "https://www.victoriavr.com/news/ai-builder-hackathon-2026-the-building-period-2042daf3",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.outsystems.com",
+      "name": "www.outsystems.com",
+      "url": "https://www.outsystems.com/forums/discussion/107113/join-2026-build-for-the-future-hackathon/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.cosmohacks.com",
+      "name": "www.cosmohacks.com",
+      "url": "https://www.cosmohacks.com/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "community-events.lovable.app",
+      "name": "community-events.lovable.app",
+      "url": "https://community-events.lovable.app/?event=2fbce0cc-721f-41b2-9ff5-36f52ad6a2cc",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.hackster.io",
+      "name": "www.hackster.io",
+      "url": "https://www.hackster.io/contests/infineon-boss-battle/faq",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "effecthouse.tiktok.com",
+      "name": "effecthouse.tiktok.com",
+      "url": "https://effecthouse.tiktok.com/latest/game-effect-challenge",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.ruyacareers.ae",
+      "name": "www.ruyacareers.ae",
+      "url": "https://www.ruyacareers.ae/game-on-to-mars",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "2026.hackjunction.com",
+      "name": "2026.hackjunction.com",
+      "url": "https://2026.hackjunction.com/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "hackathonhub.eu",
+      "name": "hackathonhub.eu",
+      "url": "https://hackathonhub.eu/events/5-hour-vibecoding-game-jam-2-london-2026",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "jamao.in",
+      "name": "jamao.in",
+      "url": "https://jamao.in/e/out-of-bounds-web-game-development-hackathon",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "zaohua.qq.com",
+      "name": "zaohua.qq.com",
+      "url": "https://zaohua.qq.com/activity/voxel-jam-2026",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "craftable.sites.tab.bot",
+      "name": "craftable.sites.tab.bot",
+      "url": "https://craftable.sites.tab.bot/challenge",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "game-xpress.xfer.hr",
+      "name": "game-xpress.xfer.hr",
+      "url": "https://game-xpress.xfer.hr/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.3dmgame.com",
+      "name": "www.3dmgame.com",
+      "url": "https://www.3dmgame.com/news/202611/3958738.html",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.opczone.cn",
+      "name": "www.opczone.cn",
+      "url": "https://www.opczone.cn/events/dan-ren-cheng-jun-zhi-chuang-gao-xin-shou-jie-opc-chuang-xin",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "xmohe.com",
+      "name": "xmohe.com",
+      "url": "https://xmohe.com/jam",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "lolipop.jp",
+      "name": "lolipop.jp",
+      "url": "https://lolipop.jp/deploy-now/contest/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "minit.studio",
+      "name": "minit.studio",
+      "url": "https://minit.studio/events",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "joinhandshake.com",
+      "name": "joinhandshake.com",
+      "url": "https://joinhandshake.com/learn/create-a-multiplayer-game-8d7d59b5/",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.nasca.edu.in",
+      "name": "www.nasca.edu.in",
+      "url": "https://www.nasca.edu.in/competitions/solve-it",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "help.nexusmods.com",
+      "name": "help.nexusmods.com",
+      "url": "https://help.nexusmods.com/article/179-cyberpunk-modathon-2026-terms-and-conditions",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
     }
   ],
   "refresh": {
     "mode": "manual",
-    "lastAttemptAt": "2026-11-05T21:56:41.427761+00:00",
-    "lastCompletedAt": "2026-11-05T21:56:41.427761+00:00",
-    "eventsChecked": 178,
+    "lastAttemptAt": "2026-11-05T22:36:34.165622+00:00",
+    "lastCompletedAt": "2026-11-05T22:36:34.165622+00:00",
+    "eventsChecked": 117,
     "sourceStatuses": [],
     "policy": "Targeted searches and direct official-source review. Automatic source rescanning is not enabled; individual evidence dates are preserved.",
     "discovery": {
       "status": "manual",
-      "lastAttemptAt": "2026-11-05T21:56:41.427761+00:00",
+      "lastAttemptAt": "2026-11-05T22:36:34.165622+00:00",
       "message": "Individual organizer sites and event directories are considered. Search leads require official-rule verification."
     },
     "publication": {
-      "builtAt": "2026-11-05T21:56:54Z",
-      "published": 66,
-      "excluded": 32,
+      "builtAt": "2026-11-05T22:38:32Z",
+      "published": 73,
+      "excluded": 34,
       "exclusionReasons": {
         "ai_not_confirmed": 17,
-        "cash_prize_not_above_200_usd": 18,
+        "cash_prize_below_1000_usd": 6,
+        "cash_prize_not_above_200_usd": 16,
         "india_not_confirmed": 19,
         "invalid_prize_currency": 17,
         "missing_ai_evidence": 15,
@@ -6646,11 +7749,11 @@
       "maxVerificationAgeDays": 7
     }
   },
-  "researchUpdatedAt": "2026-11-05T21:56:41.427761+00:00",
+  "researchUpdatedAt": "2026-11-05T22:36:34.165622+00:00",
   "researchSnapshot": "research-coverage.json",
   "publicationPolicy": {
     "allowUnconfirmedIndianEligibility": true,
-    "policyUpdatedAt": "2026-11-05T21:56:41.427761+00:00",
+    "policyUpdatedAt": "2026-11-05T22:36:34.165622+00:00",
     "note": "User requested inclusion of AI-and-cash-reviewed events even when Indian eligibility is uncertain. Such listings carry an explicit eligibility-unconfirmed marker; known India exclusions still fail."
   },
   "underReview": [
@@ -6735,6 +7838,14 @@
       "reviewReason": "Not yet a main-board match: itemized dollar awards total $665 separately from subscriptions, but the current published jam does not explicitly identify a fiat payout method or clarify whether all dollar rewards are cash. The official Luma page could not be re-fetched. The schedule conflict alone would be acceptable under the revised policy, with the earlier portal cutoff displayed."
     },
     {
+      "id": "bezi-jam-15-2026",
+      "title": "Bezi Jam #15",
+      "category": "game-development",
+      "url": "https://itch.io/jam/bezi-jam-15",
+      "entryClosesAt": "2026-12-01T06:59:59Z",
+      "reviewReason": "Eligible for the main board under the revised policy: explicit AI development assistance, $350 game/devlog cash and open registration. India eligibility remains unconfirmed; earlier portal deadline is used because the written Pacific schedule differs by one hour."
+    },
+    {
       "id": "gmt-jam-1-2026",
       "title": "GMT Jam #1",
       "category": "game-development",
@@ -6749,6 +7860,14 @@
       "url": "https://forum.defold.com/t/defold-minit-game-jam-1/83382",
       "entryClosesAt": "2026-11-10T23:00:00Z",
       "reviewReason": "Read the live jam rules and incorporated Creator Terms v2 in browser. USD1,000 cash and general worldwide entry are established, with PayPal required. Event rules give 11 November 11:00 UTC while the Defold forum gives 10 November 23:00 UTC; retain the earlier cutoff. Platform homepage permits AI-assisted games, but neither jam-specific rules nor incorporated creator terms expressly confirm AI for this competition; remains pending AI clarification."
+    },
+    {
+      "id": "micro-jam-069-halloween-2026",
+      "title": "Micro Jam 069 — Halloween",
+      "category": "game-development",
+      "url": "https://itch.io/jam/micro-jam-069",
+      "entryClosesAt": "2026-11-16T01:00:00Z",
+      "reviewReason": "AI, itemized cash and open entry confirmed; India eligibility unknown."
     }
   ],
   "unlistedEvents": [
@@ -6837,8 +7956,8 @@
       "deadline": "2026-11-14T12:00:00Z",
       "deadlineIsConservativeCutoff": false,
       "deadlineLabel": "14 November 2026, 17:30 IST",
-      "outcome": "Not yet qualified",
-      "reason": "AI permission is confirmed, but no cash award over USD 200 is documented; published prize descriptions list tools, licenses, subscriptions and coupons. Final prize eligibility also needs confirmation."
+      "outcome": "Below $1,000 game minimum",
+      "reason": "The game-development board now requires at least US$1,000 in total cash prizes. This event's reviewed cash pool is below that minimum."
     },
     {
       "id": "gamedev-tv-december-jam-2026",
@@ -6848,8 +7967,8 @@
       "deadline": "2026-12-14T22:00:00Z",
       "deadlineIsConservativeCutoff": false,
       "deadlineLabel": "15 December 2026, 3:30 AM IST",
-      "outcome": "Not yet qualified",
-      "reason": "Dates are now announced, but the current official page does not establish a fiat cash pool over $200 or explicit AI permission. Hold pending."
+      "outcome": "Below $1,000 game minimum",
+      "reason": "The game-development board now requires at least US$1,000 in total cash prizes. This event's reviewed cash pool is below that minimum."
     },
     {
       "id": "gitlab-transcend-life-after-code-2026",
@@ -7079,8 +8198,19 @@
       "deadline": "2026-11-13T19:00:00Z",
       "deadlineIsConservativeCutoff": true,
       "deadlineLabel": "14 November 2026, 12:30 AM IST — earlier portal cutoff; written schedule says 16 November, 10:30 AM IST",
-      "outcome": "Not yet qualified",
-      "reason": "Not yet a main-board match: itemized dollar awards total $665 separately from subscriptions, but the current published jam does not explicitly identify a fiat payout method or clarify whether all dollar rewards are cash. The official Luma page could not be re-fetched. The schedule conflict alone would be acceptable under the revised policy, with the earlier portal cutoff displayed."
+      "outcome": "Below $1,000 game minimum",
+      "reason": "The game-development board now requires at least US$1,000 in total cash prizes. This event's reviewed cash pool is below that minimum."
+    },
+    {
+      "id": "bezi-jam-15-2026",
+      "title": "Bezi Jam #15",
+      "category": "game-development",
+      "url": "https://itch.io/jam/bezi-jam-15",
+      "deadline": "2026-12-01T06:59:59Z",
+      "deadlineIsConservativeCutoff": true,
+      "deadlineLabel": "1 December 2026, 12:29:59 PM IST — earlier portal cutoff; written schedule differs by one hour",
+      "outcome": "Below $1,000 game minimum",
+      "reason": "The game-development board now requires at least US$1,000 in total cash prizes. This event's reviewed cash pool is below that minimum."
     },
     {
       "id": "gmt-jam-1-2026",
@@ -7090,8 +8220,8 @@
       "deadline": "2026-11-30T22:59:00Z",
       "deadlineIsConservativeCutoff": false,
       "deadlineLabel": "1 December 2026, 4:29 AM IST",
-      "outcome": "Not yet qualified",
-      "reason": "Not promoted: money and future entry are clear, but AI permission is not explicit enough. Rule 8 penalizes LLM use; FAQ Q4 says LLM use defeats the jam’s spirit and warns that one-shot prize submissions can lead to bans from future GMT events. Unknown India eligibility alone would no longer block inclusion."
+      "outcome": "Below $1,000 game minimum",
+      "reason": "The game-development board now requires at least US$1,000 in total cash prizes. This event's reviewed cash pool is below that minimum."
     },
     {
       "id": "defold-minit-game-jam-1-2026",
@@ -7103,6 +8233,17 @@
       "deadlineLabel": "11 November 2026, 4:30 AM IST",
       "outcome": "Not yet qualified",
       "reason": "Read the live jam rules and incorporated Creator Terms v2 in browser. USD1,000 cash and general worldwide entry are established, with PayPal required. Event rules give 11 November 11:00 UTC while the Defold forum gives 10 November 23:00 UTC; retain the earlier cutoff. Platform homepage permits AI-assisted games, but neither jam-specific rules nor incorporated creator terms expressly confirm AI for this competition; remains pending AI clarification."
+    },
+    {
+      "id": "micro-jam-069-halloween-2026",
+      "title": "Micro Jam 069 — Halloween",
+      "category": "game-development",
+      "url": "https://itch.io/jam/micro-jam-069",
+      "deadline": "2026-11-16T01:00:00Z",
+      "deadlineIsConservativeCutoff": false,
+      "deadlineLabel": "16 November 2026, 6:30 AM IST",
+      "outcome": "Below $1,000 game minimum",
+      "reason": "The game-development board now requires at least US$1,000 in total cash prizes. This event's reviewed cash pool is below that minimum."
     }
   ],
   "coverage": {
@@ -7114,10 +8255,10 @@
         "underReview": 5
       },
       "game-development": {
-        "eligible": 7,
-        "eligibilityUnconfirmed": 5,
-        "listed": 12,
-        "underReview": 5
+        "eligible": 13,
+        "eligibilityUnconfirmed": 6,
+        "listed": 19,
+        "underReview": 7
       },
       "other": {
         "eligible": 21,
@@ -7126,9 +8267,9 @@
         "underReview": 2
       }
     },
-    "eligible": 48,
-    "eligibilityUnconfirmed": 18,
-    "listed": 66,
-    "underReview": 12
+    "eligible": 54,
+    "eligibilityUnconfirmed": 19,
+    "listed": 73,
+    "underReview": 14
   }
 }
