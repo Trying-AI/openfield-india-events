@@ -1,316 +1,6 @@
 {
-  "updatedAt": "2026-11-05T22:36:34.165622+00:00",
+  "updatedAt": "2026-11-08T19:44:43.990407+00:00",
   "events": [
-    {
-      "id": "vultr-agent-rush-2026",
-      "title": "Vultr: Agent Rush Hackathon",
-      "organizer": "Vultr · lablab.ai",
-      "category": "coding",
-      "url": "https://lablab.build/ai-hackathons/vultr-hackathon",
-      "summary": "Build a Vultr-hosted agent that performs real work in isolated sandboxes.",
-      "startsAt": null,
-      "deadline": "2026-11-07T10:00:00Z",
-      "registrationDeadline": null,
-      "deadlineLabel": "8 November 2026; exact submission time not confirmed",
-      "format": "Online + optional approved showcase",
-      "mode": "hybrid",
-      "location": "Online · optional Salt Lake City",
-      "teamSize": "1–6",
-      "entryFee": "Free",
-      "tags": [
-        "AI agents",
-        "Vultr",
-        "Sandboxing"
-      ],
-      "verificationStatus": "verified",
-      "aiPolicy": {
-        "status": "conditional",
-        "detail": "The participation code allows reliance on third-party AI tools with disclosure.",
-        "evidence": {
-          "url": "https://lablab.build/code-of-conduct",
-          "kind": "summary",
-          "quote": "The participation code allows reliance on third-party AI tools with disclosure."
-        }
-      },
-      "eligibility": {
-        "indiaEligible": true,
-        "detail": "The organizer explicitly invites online builders from anywhere worldwide; India is included.",
-        "evidence": {
-          "url": "https://lablab.ai/",
-          "kind": "summary",
-          "quote": "The organizer explicitly invites online builders from anywhere worldwide; India is included."
-        }
-      },
-      "cashPrize": {
-        "amount": 9000,
-        "currency": "USD",
-        "usdAmount": 9000,
-        "display": "$9,000"
-      },
-      "prizeEvidence": {
-        "url": "https://community.vultr.com/e/vultr-agent-rush-hackathon",
-        "kind": "summary",
-        "quote": "Cash awards of USD 5,000, 3,000 and 1,000 exclude USD 5,000 in credits."
-      },
-      "conditions": [
-        "Register on lablab and join its Discord; solo or 1–6 members.",
-        "Deploy on Vultr; submit public repository, functioning demo and presentation.",
-        "Salt Lake City showcase requires approval; travel is not covered.",
-        "Date-only closing uses an early conservative site cutoff; confirm the organizer’s actual time."
-      ],
-      "startDate": "2026-11-03",
-      "deadlineDate": "2026-11-08",
-      "deadlinePrecision": "date",
-      "deadlineIsConservativeCutoff": true,
-      "verifiedAt": "2026-11-05T19:20:48.951328Z",
-      "research": {
-        "checkedAt": "2026-11-05T19:20:48.951328Z",
-        "snapshotAt": "2026-11-05T19:20:48.951328Z",
-        "status": "qualified",
-        "origin": "6 November 2026 IST official-source refresh",
-        "sourceNotes": [
-          {
-            "url": "https://lablab.build/ai-hackathons/vultr-hackathon"
-          },
-          {
-            "url": "https://lablab.build/code-of-conduct"
-          },
-          {
-            "url": "https://lablab.ai/"
-          },
-          {
-            "url": "https://community.vultr.com/e/vultr-agent-rush-hackathon"
-          }
-        ]
-      }
-    },
-    {
-      "id": "flip-the-switch-2026",
-      "title": "Flip the Switch Hackathon",
-      "organizer": "WeMakeDevs × DevTools Academy × Switch",
-      "category": "coding",
-      "url": "https://www.wemakedevs.org/hackathons/switch",
-      "summary": "Connect AI agents to team chat with Switch and build a workflow that gets a real task done. Business, personal and creative workflows are welcome.",
-      "startsAt": "2026-11-03T18:31:00Z",
-      "deadline": "2026-11-07T18:29:00Z",
-      "registrationDeadline": null,
-      "deadlineLabel": "7 November 2026, 11:59 PM IST",
-      "format": "Online",
-      "teamSize": "Solo or up to 4",
-      "entryFee": "Free",
-      "tags": [
-        "AI agents",
-        "Automation",
-        "Open source"
-      ],
-      "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T19:20:48.951328Z",
-      "aiPolicy": {
-        "status": "allowed",
-        "label": "AI coding tools allowed",
-        "detail": "AI coding assistants are explicitly permitted. Use Switch centrally and be able to explain your submission. AI development is allowed; automated registrations and fraudulent participation are prohibited.",
-        "evidence": {
-          "url": "https://www.wemakedevs.org/hackathons/switch/rules",
-          "quote": "The use of AI tools in developing a submission is permitted"
-        }
-      },
-      "eligibility": {
-        "indiaEligible": true,
-        "detail": "Indian geographic eligibility is inferred from the unrestricted-geography rule and named exclusions; India is not excluded. Age 18 or the local age of majority, whichever is greater. Sanctions, sponsor affiliation, identity checks and other official exclusions apply.",
-        "evidence": {
-          "url": "https://www.wemakedevs.org/hackathons/switch/rules",
-          "quote": "not currently restricted by geography"
-        }
-      },
-      "cashPrize": {
-        "amount": 4500,
-        "currency": "USD",
-        "usdAmount": 4500,
-        "display": "≥$4,500",
-        "note": "Conservative cash minimum: two USD 2,000 workflow prizes plus USD 500 Wispr prize. Contributor awards are excluded because the prize section says 20 awards but a judging section says 10 contributors. Hardware, swag and certificates are excluded."
-      },
-      "prizeEvidence": {
-        "url": "https://www.wemakedevs.org/hackathons/switch",
-        "quote": "$2,000 in cash"
-      },
-      "conditions": [
-        "Bring your own AI agent subscription or API key.",
-        "Switch must be central; submit a repository, demo and README.",
-        "Core-contribution track has separate assignment rules and permits an earlier start.",
-        "Registration is open; no separate registration closing time is published."
-      ],
-      "mode": "online",
-      "location": "Online · India eligible",
-      "research": {
-        "checkedAt": "2026-11-05T19:20:48.951328Z",
-        "snapshotAt": "2026-11-05T19:20:48.951328Z",
-        "status": "qualified",
-        "origin": "6 November 2026 IST official-source refresh",
-        "sourceNotes": [
-          {
-            "url": "https://www.wemakedevs.org/hackathons/switch"
-          },
-          {
-            "url": "https://www.wemakedevs.org/hackathons/switch/rules"
-          },
-          {
-            "url": "https://www.wemakedevs.org/hackathons/switch/schedule"
-          }
-        ]
-      }
-    },
-    {
-      "id": "chi-bench-2026",
-      "title": "CHI-Bench",
-      "organizer": "CHI-Bench organizers / Kaggle",
-      "category": "coding",
-      "url": "https://www.kaggle.com/competitions/chi-bench",
-      "summary": "Evaluate autonomous research agents; any model, harness or provider is permitted. India eligibility unconfirmed.",
-      "startsAt": null,
-      "deadline": "2026-11-15T23:59:00Z",
-      "registrationDeadline": "2026-11-07T23:59:00Z",
-      "deadlineLabel": "Entry: 8 November, 5:29 AM IST · Final: 16 November 2026, 5:29 AM IST",
-      "format": "Online",
-      "mode": "online",
-      "location": "Online · India eligibility unconfirmed",
-      "teamSize": "Up to 5; handbook approval per member",
-      "entryFee": "Not stated",
-      "tags": [
-        "Autonomous agents",
-        "Gated handbook access"
-      ],
-      "verificationStatus": "pending",
-      "listingStatus": "eligibility-unconfirmed",
-      "verifiedAt": "2026-11-05T21:41:20.823656Z",
-      "researchLead": false,
-      "reviewReason": "AI permission, cash and open entry verified; India and country-specific prize eligibility unconfirmed.",
-      "aiPolicy": {
-        "status": "conditional",
-        "label": "Models/agents permitted · coding assistants unconfirmed",
-        "detail": "Any model, agent harness or provider is allowed for autonomous-agent submissions.",
-        "evidence": {
-          "url": "https://www.kaggle.com/competitions/chi-bench",
-          "kind": "summary",
-          "quote": "Any model, agent harness or provider is allowed for autonomous-agent submissions."
-        }
-      },
-      "eligibility": {
-        "indiaEligible": null,
-        "label": "India eligibility unconfirmed",
-        "detail": "Competition-specific country and prize-eligibility terms could not be verified. Confirm eligibility before investing time or money."
-      },
-      "cashPrize": {
-        "amount": 3000,
-        "currency": "USD",
-        "usdAmount": 3000,
-        "display": "$3,000"
-      },
-      "prizeEvidence": {
-        "url": "https://www.kaggle.com/competitions/chi-bench",
-        "kind": "summary",
-        "quote": "The competition offers USD 3,000 in awards."
-      },
-      "conditions": [
-        "Each teammate needs approval for the gated handbook before participating; maximum five members.",
-        "Submit runnable code, an audit packet and a qualifying report.",
-        "The headline mentions 2027, but the detailed entry/final timeline specifies November 2026; verify the discrepancy with the organizer."
-      ],
-      "research": {
-        "checkedAt": "2026-11-05T21:41:20.823656Z",
-        "snapshotAt": "2026-11-05T21:41:20.823656Z",
-        "status": "eligibility_unconfirmed",
-        "origin": "6 November 2026 IST expanded coding research; user permits explicit eligibility uncertainty",
-        "sourceNotes": [
-          {
-            "url": "https://www.kaggle.com/competitions/chi-bench"
-          },
-          {
-            "url": "https://www.kaggle.com/competitions/chi-bench/overview/timeline"
-          }
-        ]
-      }
-    },
-    {
-      "id": "thatgamejam-02-2026",
-      "title": "thatgamejam #02",
-      "organizer": "thatgamecompany",
-      "category": "game-development",
-      "url": "https://itch.io/jam/thatgamejam02",
-      "rulesUrl": "https://itch.io/jam/thatgamejam02/topic/7110933/thatgamejam02-faq",
-      "summary": "Create a game inspired by the emotions of a musical theme in this global two-week jam. Any genre and engine are welcome.",
-      "startsAt": "2026-10-24T07:00:00Z",
-      "deadline": "2026-11-08T07:59:00Z",
-      "registrationDeadline": null,
-      "deadlineLabel": "8 November 2026, 1:29 PM IST",
-      "deadlineEvidence": "https://itch.io/jam/thatgamejam02",
-      "format": "Online",
-      "mode": "online",
-      "location": "Online · India eligible",
-      "teamSize": "Solo or up to 5",
-      "entryFee": "Free",
-      "tags": [
-        "Any engine",
-        "Music-inspired theme",
-        "AI disclosure"
-      ],
-      "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T19:27:33.078758Z",
-      "aiPolicy": {
-        "status": "conditional",
-        "label": "AI allowed with disclosure",
-        "detail": "AI tools are explicitly allowed. Disclose how AI was used in the submission and hold rights to all included content.",
-        "evidence": {
-          "url": "https://itch.io/jam/thatgamejam02/topic/7110933/thatgamejam02-faq",
-          "kind": "summary",
-          "quote": "AI use is allowed if clearly disclosed in the submission; entrants need rights to included content."
-        }
-      },
-      "eligibility": {
-        "indiaEligible": true,
-        "detail": "Indian geographic eligibility is inferred from the global eligibility statement and absence of a country restriction in the published rules. No pre-registration is required. Solo developers or teams of up to five may enter; itch.io account terms apply.",
-        "evidence": {
-          "url": "https://itch.io/jam/thatgamejam02",
-          "kind": "summary",
-          "quote": "The organizer describes this as a global game jam."
-        }
-      },
-      "cashPrize": {
-        "amount": 10000,
-        "currency": "USD",
-        "usdAmount": 10000,
-        "display": "$10,000",
-        "note": "USD 3,000 Best Overall + USD 2,000 each for Gameplay, Visual Design and Community’s Voice + USD 1,000 TapTap’s Choice. Monetary USD awards; no token, credit or in-kind prize is included."
-      },
-      "prizeEvidence": {
-        "url": "https://itch.io/jam/thatgamejam02",
-        "kind": "summary",
-        "quote": "Five cash awards total USD 10,000: 3,000; three awards of 2,000; and 1,000."
-      },
-      "conditions": [
-        "Provide a Windows or Mac build; English must be the default game language.",
-        "Games created inside Roblox, Dreams or other games are not accepted.",
-        "Create core content during the jam; no outsourced development or imported complete gameplay.",
-        "Disclose AI usage or risk disqualification; credit properly licensed assets.",
-        "One submission platform per game. Uploaded builds lock until winners are announced.",
-        "Theme is the announced Jason Grace music track. Unmodified use is permitted for jam entries; remixing and sampling are not permitted."
-      ],
-      "research": {
-        "snapshotAt": "2026-11-05T19:27:33.078758Z",
-        "status": "qualified",
-        "origin": "6 November 2026 IST official-source refresh",
-        "deadlineText": "8 November 2026, 1:29 PM IST",
-        "registrationDeadlineText": "",
-        "cashText": "USD 10,000 cash across five awards: USD 3,000, three USD 2,000 awards and USD 1,000.",
-        "sourceNotes": [
-          {
-            "url": "https://itch.io/jam/thatgamejam02"
-          },
-          {
-            "url": "https://itch.io/jam/thatgamejam02/topic/7110933/thatgamejam02-faq"
-          }
-        ]
-      }
-    },
     {
       "id": "topmediai-ai-dance-mv-2026",
       "title": "TopMediai AI Dance MV Challenge 2026",
@@ -333,7 +23,7 @@
         "International"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T21:04:38.845395Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "aiPolicy": {
         "status": "conditional",
         "label": "AI allowed with conditions",
@@ -372,17 +62,21 @@
         "Creativity and clarity are judged with a genuine-engagement bonus; fake or paid engagement is prohibited."
       ],
       "research": {
-        "snapshotAt": "2026-11-05T21:04:38.845395Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "6 November deep official-source review",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "deadlineText": "2026-11-08",
         "cashText": "USD 1,000 + 500 + five 100 awards. Ten credit awards excluded. Official Taiwan localization confirms USD payment.",
         "sourceNotes": [
           {
             "url": "https://www.topmediai.com/challenge/ai-dance-mv-challenge/",
-            "summary": "Current organizer rules checked for entry window, cash, AI and geographic eligibility."
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Still open at review: 8 November at 23:59 UTC equals 9 November at 05:29 IST. USD 2,000 cash, worldwide users and required TopMediai AI soundtrack reconfirmed; no extension. Do not prematurely close at midnight India time."
       },
       "extraSources": [
         {
@@ -450,20 +144,25 @@
         "New project; runs in Lens Studio preview without owning glasses.",
         "Public repository and public YouTube demo under three minutes; English or translation."
       ],
-      "verifiedAt": "2026-11-05T19:20:48.951328Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "research": {
-        "checkedAt": "2026-11-05T19:20:48.951328Z",
-        "snapshotAt": "2026-11-05T19:20:48.951328Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "6 November 2026 IST official-source refresh",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "sourceNotes": [
           {
-            "url": "https://learn-specs.devpost.com/"
+            "url": "https://learn-specs.devpost.com/",
+            "summary": "Official page checked in this targeted review."
           },
           {
-            "url": "https://learn-specs.devpost.com/rules"
+            "url": "https://learn-specs.devpost.com/rules",
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: registration/submission through 9 November 17:00 Eastern; USD 2,500 cash; AI coding assistants expressly permitted, majority-age global entrants subject to named exclusions."
       }
     },
     {
@@ -488,7 +187,7 @@
         "Free entry"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T21:34:38.414026Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "aiPolicy": {
         "status": "conditional",
         "label": "Models/agents permitted · coding assistants unconfirmed",
@@ -525,21 +224,23 @@
         "International payment requires identity, tax and payment verification. Amounts are before withholding; recognition categories add no cash."
       ],
       "research": {
-        "checkedAt": "2026-11-05T21:34:38.414026Z",
-        "snapshotAt": "2026-11-05T21:34:38.414026Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "6 November 2026 IST expanded coding research",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "sourceNotes": [
           {
-            "url": "https://www.builder.io/hackathon"
+            "url": "https://www.builder.io/hackathon",
+            "summary": "Official page checked in this targeted review."
           },
           {
-            "url": "https://www.builder.io/hackathon/rules"
-          },
-          {
-            "url": "https://www.agent-native.com/"
+            "url": "https://www.builder.io/hackathon/rules",
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: 9 November 23:59 Pacific, USD 10,000 cash, worldwide adults. Required in-application agents are confirmed; separate coding-assistant permission remains unconfirmed."
       }
     },
     {
@@ -565,7 +266,7 @@
         "Maharashtra cash eligibility route"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T21:02:20.347042Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "aiPolicy": {
         "status": "conditional",
         "detail": "Publicly available pretrained models and open-source ML tools are allowed. AutoML, paid services and credit-card trials are prohibited; unrestricted coding assistants are not confirmed.",
@@ -604,15 +305,19 @@
         "Creative award has a later 13 November 18:29 GMT cutoff; pool is counted only once."
       ],
       "research": {
-        "checkedAt": "2026-11-05T21:02:20.347042Z",
-        "snapshotAt": "2026-11-05T21:02:20.347042Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "6 November 2026 IST expanded coding research",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "sourceNotes": [
           {
-            "url": "https://zindi.world/competitions/google-mumbai-data-challenge"
+            "url": "https://zindi.world/competitions/google-mumbai-data-challenge",
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: 10 November 23:59:59 IST, USD 6,000 cash, open pretrained models permitted. Preserve prominent Maharashtra finalist restriction and uncertain non-Maharashtra cash eligibility; creative award has separate 13 November cutoff."
       },
       "startDate": "2026-10-26",
       "extraSources": [
@@ -623,124 +328,15 @@
       ]
     },
     {
-      "id": "adarena-microdrama-2026",
-      "title": "AdArena Micro Drama 2026",
-      "organizer": "AdArena / Playbox.io LTD",
-      "category": "other",
-      "url": "https://adarena.app/challenges/microdrama",
-      "summary": "Create a vertical AI micro-drama pilot with a cliffhanger.",
-      "startsAt": "2026-10-22T00:00:00Z",
-      "deadline": "2026-11-11T10:00:00Z",
-      "registrationDeadline": null,
-      "deadlineDate": "2026-11-12",
-      "deadlinePrecision": "date",
-      "deadlineIsConservativeCutoff": true,
-      "deadlineLabel": "2026-11-12; confirm the exact closing time",
-      "format": "Online entry",
-      "mode": "online",
-      "location": "Online · India eligibility unconfirmed",
-      "teamSize": "Check organizer entry rules",
-      "entryFee": "Free creator account; no purchase necessary",
-      "tags": [
-        "AI creative work",
-        "Eligibility unconfirmed"
-      ],
-      "verificationStatus": "pending",
-      "verifiedAt": "2026-11-05T21:43:00.391605Z",
-      "aiPolicy": {
-        "status": "conditional",
-        "label": "AI allowed with conditions",
-        "detail": "The official brief requires AI video tools; assets need valid commercial licenses.",
-        "evidence": {
-          "url": "https://adarena.app/news/the-micro-drama-arena-open-0-best-ai-video-ad",
-          "quote": "The official brief requires AI video tools; assets need valid commercial licenses.",
-          "kind": "summary"
-        }
-      },
-      "eligibility": {
-        "indiaEligible": null,
-        "detail": "International creator payouts are supported; Indian participation and payout availability still need confirmation. Entrants must be 18+.",
-        "evidence": {
-          "url": "https://adarena.app/terms",
-          "quote": "International creator payouts are supported; Indian participation and payout availability still need confirmation. Entrants must be 18+.",
-          "kind": "summary"
-        }
-      },
-      "cashPrize": {
-        "amount": 3500,
-        "currency": "USD",
-        "usdAmount": 3500,
-        "display": "USD 3,500",
-        "note": "USD 3,500 cash for places 1–15. Excludes USD 1,500 credits for places 16–40."
-      },
-      "prizeEvidence": {
-        "url": "https://adarena.app/news/the-micro-drama-arena-open-0-best-ai-video-ad",
-        "quote": "USD 3,500 cash for places 1–15. Excludes USD 1,500 credits for places 16–40.",
-        "kind": "summary"
-      },
-      "conditions": [
-        "50–80 seconds, 9:16, at most two pilots per creator.",
-        "Official news closes November 12; index says November 19. Earlier date used pending clarification.",
-        "On submission, all transferable IP is assigned to AdArena, including nonwinning entries. External reuse requires written permission.",
-        "Cash options include bank transfer or Payoneer; crypto is optional. Identity and tax checks, transfer fees and withholding apply.",
-        "Real-person likeness requires signed release; keep all music and asset rights cleared.",
-        "Closing hour/timezone not published; stored cutoff is conservative."
-      ],
-      "research": {
-        "snapshotAt": "2026-11-05T21:43:00.391605Z",
-        "status": "eligibility-unconfirmed",
-        "origin": "6 November policy-expanded official-source review",
-        "deadlineText": "2026-11-12",
-        "cashText": "USD 3,500 cash for places 1–15. Excludes USD 1,500 credits for places 16–40.",
-        "sourceNotes": [
-          {
-            "url": "https://adarena.app/challenges/microdrama",
-            "summary": "Official contest or rules source checked; remaining limitations are disclosed."
-          },
-          {
-            "url": "https://adarena.app/news/the-micro-drama-arena-open-0-best-ai-video-ad",
-            "summary": "Official contest or rules source checked; remaining limitations are disclosed."
-          },
-          {
-            "url": "https://adarena.app/terms",
-            "summary": "Official contest or rules source checked; remaining limitations are disclosed."
-          },
-          {
-            "url": "https://adarena.app/challenges",
-            "summary": "Official contest or rules source checked; remaining limitations are disclosed."
-          }
-        ]
-      },
-      "extraSources": [
-        {
-          "label": "Official contest or rules",
-          "url": "https://adarena.app/challenges/microdrama"
-        },
-        {
-          "label": "Official contest or rules",
-          "url": "https://adarena.app/news/the-micro-drama-arena-open-0-best-ai-video-ad"
-        },
-        {
-          "label": "Official contest or rules",
-          "url": "https://adarena.app/terms"
-        },
-        {
-          "label": "Official contest or rules",
-          "url": "https://adarena.app/challenges"
-        }
-      ],
-      "listingStatus": "eligibility-unconfirmed"
-    },
-    {
       "id": "follow-the-money-iimb-2026",
       "title": "Follow The Money: Innovation Challenge",
       "organizer": "IIM Bangalore CSITM × PayU",
       "category": "other",
       "url": "https://unstop.com/competitions/follow-the-money-innovation-challenge-iim-bangalore-1773522/amp",
       "summary": "Propose a response to digital-payment fraud through technology, business or policy. Shortlisted teams present in Bengaluru.",
-      "deadline": "2026-11-11T18:29:00Z",
-      "registrationDeadline": null,
-      "deadlineLabel": "11 November 2026, 11:59 PM IST — submission deadline",
+      "deadline": "2026-11-12T18:29:00Z",
+      "registrationDeadline": "2026-11-12T18:29:00Z",
+      "deadlineLabel": "12 November 2026, 11:59 PM IST — registration and submission",
       "mode": "hybrid",
       "location": "Online submission; Bengaluru finale",
       "format": "Hybrid",
@@ -752,7 +348,7 @@
         "AI assistance"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T19:19:00Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "aiPolicy": {
         "status": "conditional",
         "label": "AI assistance allowed",
@@ -785,12 +381,22 @@
       },
       "conditions": [
         "Submit an eight-slide maximum PDF and a video of up to two minutes. Technical entries need a working prototype.",
-        "The page lists registration through 12 November but submission on 11 November. The earlier submission cutoff controls this listing.",
+        "The organizer now lists both registration and submission closing on 12 November at 11:59 PM IST.",
         "Finale: 26 November at IIM Bangalore. Finalists arrange and fund travel and accommodation."
       ],
       "research": {
-        "snapshotAt": "2026-11-05T19:19:00Z",
-        "origin": "6 November wider official-source review"
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
+        "origin": "9 November 2026 IST targeted official-source refresh",
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Changed: official page now gives both registration and submission as 12 November at 23:59 IST, resolving the prior 11/12 November discrepancy. AI assistance, Indian college eligibility, INR 70,000 cash and a self-funded Bengaluru final reconfirmed.",
+        "sourceNotes": [
+          {
+            "url": "https://unstop.com/competitions/follow-the-money-innovation-challenge-iim-bangalore-1773522/amp",
+            "summary": "Official page checked in this targeted review."
+          }
+        ]
       }
     },
     {
@@ -815,7 +421,7 @@
         "Open source"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T19:20:48.951328Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "aiPolicy": {
         "status": "conditional",
         "label": "Any AI tool; PayPal required",
@@ -862,18 +468,19 @@
         }
       ],
       "research": {
-        "checkedAt": "2026-11-05T19:20:48.951328Z",
-        "snapshotAt": "2026-11-05T19:20:48.951328Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "6 November 2026 IST official-source refresh",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "sourceNotes": [
           {
-            "url": "https://paypalaihackathon.devpost.com/"
-          },
-          {
-            "url": "https://paypalaihackathon.devpost.com/rules"
+            "url": "https://paypalaihackathon.devpost.com/rules",
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: 12 November noon Pacific; USD 67,500 in fiat awards excluding credits. Rules permit AI tools/models with central PayPal integration; majority-age global eligibility subject to named exclusions."
       }
     },
     {
@@ -897,7 +504,7 @@
         "Public good",
         "India"
       ],
-      "verifiedAt": "2026-11-05T19:20:48.951328Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "conditions": [
         "Online and free; solo or team.",
         "Build in AgentFoundry, deploy to a cloud, supply a public repository and a two-to-three-minute demo.",
@@ -915,18 +522,23 @@
         }
       ],
       "research": {
-        "checkedAt": "2026-11-05T19:20:48.951328Z",
-        "snapshotAt": "2026-11-05T19:20:48.951328Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "6 November 2026 IST official-source refresh",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "sourceNotes": [
           {
-            "url": "https://codeforindia.org/hackathon"
+            "url": "https://codeforindia.org/hackathon",
+            "summary": "Official page checked in this targeted review."
           },
           {
-            "url": "https://github.com/karlmehta/code-for-a-billion"
+            "url": "https://github.com/karlmehta/code-for-a-billion",
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Official page still closes 15 November date-only and requires AI-assisted AgentFoundry workflow, worldwide free entry. INR 18 lakh headline and linked official GitHub USD 17,500 total still conflict; preserve disclosed conservative cash treatment."
       },
       "summary": "Build an open-source agent for Indian public needs in AgentFoundry, deploy it and submit a public repository and demo.",
       "deadlineDate": "2026-11-15",
@@ -993,7 +605,7 @@
         "Eligibility unconfirmed"
       ],
       "verificationStatus": "pending",
-      "verifiedAt": "2026-11-05T21:43:00.391605Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "aiPolicy": {
         "status": "conditional",
         "label": "AI allowed with conditions",
@@ -1036,17 +648,21 @@
         "Closing hour/timezone not published; stored cutoff is conservative."
       ],
       "research": {
-        "snapshotAt": "2026-11-05T21:43:00.391605Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "eligibility-unconfirmed",
-        "origin": "6 November policy-expanded official-source review",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "deadlineText": "2026-11-15",
         "cashText": "CNY 100,000 actual cash incentives: ten selections at CNY 10,000 before tax. Certificates excluded.",
         "sourceNotes": [
           {
             "url": "https://www.liblib.tv/hiiff-aifilmseason",
-            "summary": "Official contest or rules source checked; remaining limitations are disclosed."
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: 15 November, date only; AI cinema call and ten CNY 10,000 pretax cash incentives explicitly shown. India and payout details remain unconfirmed; preserve the warning and existing age/terms caveats."
       },
       "extraSources": [
         {
@@ -1078,7 +694,7 @@
         "Teacher required"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T19:20:48.951328Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "aiPolicy": {
         "status": "conditional",
         "detail": "AI assistance is permitted; entrants must explain their implementation.",
@@ -1121,15 +737,19 @@
         }
       ],
       "research": {
-        "checkedAt": "2026-11-05T19:20:48.951328Z",
-        "snapshotAt": "2026-11-05T19:20:48.951328Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "6 November 2026 IST official-source refresh",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "sourceNotes": [
           {
-            "url": "https://gvhackathon.com/"
+            "url": "https://gvhackathon.com/",
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: registration through 13 November AoE; submit 25 November AoE. Worldwide school students aged 14–18; AI tools allowed; six cash awards total USD3,000; teacher and guardian consent required."
       }
     },
     {
@@ -1157,7 +777,7 @@
         "Creative teams"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T19:20:19.464292Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "aiPolicy": {
         "status": "allowed",
         "label": "AI tools permitted; disclose use",
@@ -1210,25 +830,25 @@
         }
       ],
       "research": {
-        "snapshotAt": "2026-11-05T19:20:19.464292Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "New direct-organizer discovery",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "deadlineText": "15 November 2026 (US Eastern); exact closing hour not published",
         "cashText": "Three division prizes of USD 500 plus USD 1,000 Best of Festival; credits and noncash awards excluded.",
         "sourceNotes": [
           {
+            "url": "https://www.atlantaaiadfest.com/en",
+            "summary": "Official page checked in this targeted review."
+          },
+          {
             "url": "https://www.atlantaaiadfest.com/en/legal/rules",
-            "summary": "Official rules confirm global entry, AI use, cash and timeline; copyright retained under these rules."
-          },
-          {
-            "url": "https://www.atlantaaiadfest.com/en/challenge/brief",
-            "summary": "Online submission, two brand tracks and deliverables; exact closing hour not stated."
-          },
-          {
-            "url": "https://www.atlantaaiadfest.com/en/faq",
-            "summary": "FAQ contradicts rules on copyright and file size. Listing flags the rights discrepancy; official rules treated as controlling."
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: 15 November US Eastern, date only; USD 2,500 cash, worldwide entrants and AI tool choice. USD 10 fee, brand brief and limited festival licence retained."
       }
     },
     {
@@ -1337,7 +957,7 @@
         "AI assets allowed"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T19:27:33.078758Z",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "aiPolicy": {
         "status": "conditional",
         "label": "AI assets allowed with rights",
@@ -1378,9 +998,9 @@
         "Cash is sent to the submitting team leader, who is responsible for sharing it."
       ],
       "research": {
-        "snapshotAt": "2026-11-05T19:27:33.078758Z",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
         "status": "qualified",
-        "origin": "6 November 2026 IST official-source refresh",
+        "origin": "9 November 2026 IST official-source refresh",
         "deadlineText": "16 November 2026, 1:30 AM IST",
         "registrationDeadlineText": "Register on itch.io; no separate closing time published.",
         "cashText": "EUR 1,000 cash, approximately USD 1,117.20 at ECB 30 October 2026 reference rate.",
@@ -1394,7 +1014,18 @@
           {
             "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
           }
-        ]
+        ],
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Current jam page confirms open entry through 15 November 20:00 UTC, worldwide invitation and EUR 1,000 cash; host reply still explicitly permits legally usable AI-generated assets.",
+        "refreshSources": [
+          {
+            "url": "https://itch.io/jam/gdevelop-big-game-jam-10"
+          },
+          {
+            "url": "https://itch.io/jam/gdevelop-big-game-jam-10/topic/7083671/a-doubt"
+          }
+        ],
+        "checkedAt": "2026-11-08T19:43:15.229746Z"
       }
     },
     {
@@ -1419,7 +1050,7 @@
         "AI prototypes"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T21:02:20.347042Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "aiPolicy": {
         "status": "conditional",
         "detail": "AI models and APIs are explicitly used and disclosed in the prototype; a responsible-AI note is required. Coding-assistant freedom is not separately specified.",
@@ -1456,18 +1087,23 @@
         "Rules say prize details are forthcoming, while the published prize card confirms the cash award."
       ],
       "research": {
-        "checkedAt": "2026-11-05T21:02:20.347042Z",
-        "snapshotAt": "2026-11-05T21:02:20.347042Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "6 November 2026 IST expanded coding research",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "sourceNotes": [
           {
-            "url": "https://gtransformer-buildathon-2026.devpost.com/"
+            "url": "https://gtransformer-buildathon-2026.devpost.com/",
+            "summary": "Official page checked in this targeted review."
           },
           {
-            "url": "https://gtransformer-buildathon-2026.devpost.com/rules"
+            "url": "https://gtransformer-buildathon-2026.devpost.com/rules",
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: 15 November at noon Pacific; USD 1,000 cash on the official prize card, USD 50 entry fee, global adult and online participation. Models and APIs are expressly part of the submission; coding-assistant scope remains unconfirmed. Rules still say prize details are forthcoming."
       }
     },
     {
@@ -1494,7 +1130,7 @@
         "Design"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T19:20:19.464292Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "aiPolicy": {
         "status": "allowed",
         "label": "AI and digital work accepted",
@@ -1545,21 +1181,25 @@
         }
       ],
       "research": {
-        "snapshotAt": "2026-11-05T19:20:19.464292Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "New direct art-festival call",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "deadlineText": "15 November 2026, midnight Rome (16 November, 4:30 AM IST)",
         "cashText": "Four EUR 1,500 gross cash acquisition awards. Residency and exhibition benefits excluded. ECB 5 November: EUR 1 = USD 1.1224.",
         "sourceNotes": [
           {
-            "url": "https://parma360festival.it/wp-content/uploads/2026/10/Call-AI-HORIZONS.-Call-for-Artists-eng.pdf",
-            "summary": "Rules confirm AI work, international under-35 eligibility, the extended deadline and four cash acquisition awards."
+            "url": "https://parma360festival.it/call-for-artists/",
+            "summary": "Official page checked in this targeted review."
           },
           {
-            "url": "https://parma360festival.it/call-for-artists/",
-            "summary": "Landing page corroborates 15 November and total EUR 6,000; free entry."
+            "url": "https://parma360festival.it/wp-content/uploads/2026/10/Call-AI-HORIZONS.-Call-for-Artists-eng.pdf",
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: 15 November at midnight Rome; artists under 35 from Italy and abroad, explicit AI digital work, four EUR 1,500 cash acquisition awards. The European residency benefit is excluded from cash."
       }
     },
     {
@@ -1581,26 +1221,26 @@
         "UEFN",
         "AI tools allowed"
       ],
-      "verificationStatus": "verified",
-      "verifiedAt": "2026-11-01T12:23:43.882237+00:00",
+      "verificationStatus": "pending",
+      "verifiedAt": "2026-11-08T19:44:43.884455+00:00",
       "rulesUrl": "https://epicgames.box.com/s/a7xcgl07fqoieeb99sjtd3juhj4agc4z",
       "aiPolicy": {
         "status": "allowed",
         "label": "AI tools expressly allowed",
         "detail": "Coding agents, generated assets, audio and writing tools are permitted. AI is optional.",
         "evidence": {
-          "url": "https://epicgames.box.com/s/a7xcgl07fqoieeb99sjtd3juhj4agc4z",
+          "url": "https://itch.io/jam/2026-epic-ai-megajam",
           "kind": "summary",
-          "quote": "Section 7 permits optional AI in creation or gameplay, including code, assets and in-game systems."
+          "quote": "Current organizer page explicitly permits coding agents and AI-generated assets, audio and writing; AI use is optional."
         }
       },
       "eligibility": {
-        "indiaEligible": true,
-        "detail": "Indian geographic eligibility is inferred from the official eligible-jurisdiction rule: India is not excluded. Entrants must reside and be located in an eligible jurisdiction, be 18+, and hold an active Epic account; Cabined Accounts and specified sponsor affiliations/households are excluded. The current rules name Iran, Iraq, North Korea, Somalia, Sudan, Syria, Crimea, Donetsk, Luhansk and Italy, plus broader legal/payment restrictions. Brazil may participate but cannot receive cash.",
+        "indiaEligible": null,
+        "detail": "Current organizer page invites online entry from anywhere, age 18+ with an active Epic account, but links separate full eligibility rules. The current Box PDF could not be retrieved in this review, so Indian eligibility is marked unconfirmed. Earlier rules reviewed on 1 November did not name India among exclusions; recheck current jurisdiction and payout restrictions before entering.",
         "evidence": {
-          "url": "https://epicgames.box.com/s/a7xcgl07fqoieeb99sjtd3juhj4agc4z",
+          "url": "https://itch.io/jam/2026-epic-ai-megajam",
           "kind": "summary",
-          "quote": "The 30 October rules allow eligible-jurisdiction residents and exclude named restricted jurisdictions; India is not named. Brazilian residents cannot receive cash."
+          "quote": "Organizer page says online from anywhere and age 18+ with an active Epic account, while directing entrants to separate Official Rules for full eligibility."
         }
       },
       "cashPrize": {
@@ -1611,15 +1251,16 @@
         "note": "USD 45,000 across the three main categories plus USD 20,000 modifier awards. Development Continuation Grants and sponsor credits are separate and excluded."
       },
       "prizeEvidence": {
-        "url": "https://epicgames.box.com/s/a7xcgl07fqoieeb99sjtd3juhj4agc4z",
+        "url": "https://itch.io/jam/2026-epic-ai-megajam",
         "kind": "summary",
-        "quote": "Section 13 states $65,000 total cash, paid per team through its owner; continuation grants and partner prizes are separate."
+        "quote": "Organizer page explicitly lists $65,000 cash: $45,000 across three main divisions plus $20,000 modifier awards. Continuation grants and sponsor prizes are separate."
       },
       "mode": "online",
-      "location": "Online · India eligible",
+      "location": "Online · India eligibility unconfirmed",
       "rulesPdfUrl": "https://epicgames.ent.box.com/index.php?rm=box_download_shared_file&shared_name=a7xcgl07fqoieeb99sjtd3juhj4agc4z&file_id=f_2543555439894",
       "rulesProvenance": "Official public Box download retrieved on 1 November 2026. All 14 pages extracted; eligibility pages 1, 3–4, AI permission page 4, prizes pages 7–9 and change log page 14 checked. Latest revision is 30 October 2026.",
       "conditions": [
+        "AI permission, cash pool and entry dates were rechecked on the organizer page on 9 November IST. Detailed country and payout terms below come from the rules reviewed on 1 November; the current linked PDF was unavailable, so confirm their current wording before entry.",
         "Entrants must be legal residents of and physically located in an eligible jurisdiction, age 18+, with an active valid Epic account; Cabined Accounts are excluded.",
         "Sponsor-related people and their immediate families or household members are excluded.",
         "Choose Unreal Engine or UEFN; provide a 30–60 second gameplay video and the required packaged game or private island version code.",
@@ -1630,24 +1271,33 @@
         "The official PDF says UE builds must be packaged for Windows and playable on listed supported platforms; check the packaging requirement before submission."
       ],
       "research": {
-        "snapshotAt": "2026-11-01T12:23:43.882237+00:00",
-        "status": "qualified",
-        "origin": "Existing listing, renewed from current official PDF",
+        "snapshotAt": "2026-11-08T19:44:43.884455+00:00",
+        "status": "eligibility-unconfirmed",
+        "origin": "Current official jam page checked; current full-jurisdiction rules unavailable",
         "deadlineText": "16 November 2026, 07:29 AM IST",
         "cashText": "$65,000 cash; continuation grants excluded.",
         "sourceNotes": [
           {
             "url": "https://itch.io/jam/2026-epic-ai-megajam",
-            "summary": "Live registration, dates, tools and cash checked."
+            "summary": "AI permission, itemized cash prizes, dates and limited participation summary rechecked on 9 November IST."
           },
           {
             "url": "https://epicgames.ent.box.com/index.php?rm=box_download_shared_file&shared_name=a7xcgl07fqoieeb99sjtd3juhj4agc4z&file_id=f_2543555439894",
-            "summary": "Current 14-page rules, revision 30 October, downloaded and checked including eligibility and cash."
+            "summary": "Historical rules retrieved 1 November only; current retrieval failed. Not a fresh rules verification."
           }
         ],
-        "refreshAttemptAt": "2026-11-05T19:27:33.078758Z",
-        "refreshNote": "Main jam page confirms unchanged dates, USD65,000 cash and explicit AI permission on 6 November IST. Current Box PDF could not be downloaded; prior 1 November verification retained, not renewed."
-      }
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Current organizer page directly verifies AI permission, $65,000 cash and November 12–16 UTC entry window. India eligibility is explicitly unconfirmed because the current linked full-rules PDF could not be retrieved. Earlier PDF provenance and conditions are retained with their original date.",
+        "refreshSources": [
+          {
+            "url": "https://itch.io/jam/2026-epic-ai-megajam"
+          },
+          {
+            "url": "https://epicgames.box.com/s/a7xcgl07fqoieeb99sjtd3juhj4agc4z"
+          }
+        ]
+      },
+      "listingStatus": "eligibility-unconfirmed"
     },
     {
       "id": "aldevere-research-question-november-2026",
@@ -1669,7 +1319,7 @@
         "Academic writing"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T19:18:00Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "aiPolicy": {
         "status": "conditional",
         "label": "AI proofreading only",
@@ -1709,7 +1359,21 @@
           "label": "Competition rules and dates",
           "url": "https://aldevere.com/scholarships/essay-prize/"
         }
-      ]
+      ],
+      "research": {
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
+        "origin": "9 November 2026 IST targeted official-source refresh",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: 15 November at 23:59 AoE; ages 14–18 worldwide, USD 1,000 cash. AI is limited to declared spelling and grammar support: no generated prose, argument or whole-essay translation.",
+        "sourceNotes": [
+          {
+            "url": "https://aldevere.com/scholarships/essay-prize/",
+            "summary": "Official page checked in this targeted review."
+          }
+        ]
+      }
     },
     {
       "id": "zoud-gamelab-2026",
@@ -1799,6 +1463,19 @@
             "url": "https://docs.google.com/document/d/18_t6h50sEPEUALQXpbvkxFuUZXcLZi0k6r8SjGCcsj4/edit",
             "summary": "Prizes section visually inspected: USD 70k/30k/15k development awards plus five up-to-USD5k categories, including one UAE-only."
           }
+        ],
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Live jam and FAQ reconfirm worldwide 18+ entry, disclosed AI permission and 16 November 11:59:59 UTC cutoff. FAQ distinguishes cash from milestone funding. The detailed prize guide and winner agreement were not readable this pass; preserve prior cash calculation and verifiedAt.",
+        "refreshSources": [
+          {
+            "url": "https://itch.io/jam/zoud-gamelab"
+          },
+          {
+            "url": "https://zoudgamelab.org/faq/"
+          },
+          {
+            "url": "https://docs.google.com/document/d/18_t6h50sEPEUALQXpbvkxFuUZXcLZi0k6r8SjGCcsj4/edit"
+          }
         ]
       }
     },
@@ -1824,7 +1501,7 @@
         "Start membership required"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T19:27:33.078758Z",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "aiPolicy": {
         "status": "conditional",
         "label": "AI development tools encouraged",
@@ -1882,9 +1559,9 @@
         }
       ],
       "research": {
-        "snapshotAt": "2026-11-05T19:27:33.078758Z",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
         "status": "qualified",
-        "origin": "6 November 2026 IST official-source refresh",
+        "origin": "9 November 2026 IST official-source refresh",
         "categoryNote": "Single listing under Game development. USD 1M covers all three tracks and special awards, not a separate Gaming pool.",
         "sourceNotes": [
           {
@@ -1899,7 +1576,18 @@
             "url": "https://developers.meta.com/blog/meta-connect-2026-vr-start-developer-competition/",
             "summary": "Official competition-specific guidance explicitly supports coding agents."
           }
-        ]
+        ],
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Current official rules retain 18 November 12:00 PST cutoff, 18+/majority, Start membership, Developer Access and country exclusions. Organizer launch guide still explicitly recommends coding agents and confirms 20 cash awards sharing USD 1 million.",
+        "refreshSources": [
+          {
+            "url": "https://start-developer-competition-26.devpost.com/rules"
+          },
+          {
+            "url": "https://developers.meta.com/blog/meta-connect-2026-vr-start-developer-competition/"
+          }
+        ],
+        "checkedAt": "2026-11-08T19:43:15.229746Z"
       },
       "rulesUrl": "https://start-developer-competition-26.devpost.com/rules"
     },
@@ -1928,7 +1616,7 @@
         "Short film"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T19:20:19.464292Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "aiPolicy": {
         "status": "conditional",
         "label": "AI generation required",
@@ -1977,21 +1665,25 @@
         }
       ],
       "research": {
-        "snapshotAt": "2026-11-05T19:20:19.464292Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "Reverified 6 November 2026 IST",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "deadlineText": "2026-11-20; exact closing time and timezone not published",
         "cashText": "One USD 1,000,000 cash prize, subject to identity, eligibility and tax verification; noncash benefits excluded.",
         "sourceNotes": [
           {
             "url": "https://www.1billionsummit.com/ai-award-2027",
-            "summary": "Rechecked the organizer evidence for current entry dates, AI permission, geographic eligibility and cash award."
+            "summary": "Official page checked in this targeted review."
           },
           {
             "url": "https://www.1billionsummit.com/ai-award-2027/terms-and-conditions",
-            "summary": "Rechecked the organizer evidence for current entry dates, AI permission, geographic eligibility and cash award."
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: 20 November, date only; USD 1 million cash, adult entrants under published exclusions. At least 70% Seedance generation, English subtitles and an unpublished 5–7 minute film are required."
       }
     },
     {
@@ -2007,7 +1699,7 @@
       "mode": "online",
       "location": "Online · India eligible",
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T19:20:19.464292Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "deadlineDate": "2026-11-20",
       "deadlinePrecision": "date",
       "deadlineIsConservativeCutoff": true,
@@ -2065,17 +1757,21 @@
         }
       ],
       "research": {
-        "snapshotAt": "2026-11-05T19:20:19.464292Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "Reverified 6 November 2026 IST",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "deadlineText": "2026-11-20; exact closing time and timezone not published",
         "cashText": "Five unrestricted cash awards: EUR 1,500 + 1,000 + 1,000 + 750 + 750. Excludes EUR 750 Sardinia-only award and travel. ECB 30 October conversion.",
         "sourceNotes": [
           {
             "url": "https://filmfreeway.com/MAIINTERNATIONALAISHORTFILMFESTIVAL",
-            "summary": "Rechecked the organizer evidence for current entry dates, AI permission, geographic eligibility and cash award."
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: 20 November, date only; worldwide free entry, meaningful AI use. EUR 5,000 in unrestricted cash; EUR 750 Sardinia award excluded. Relevant entry rules reconfirmed."
       }
     },
     {
@@ -2089,7 +1785,7 @@
       "mode": "online",
       "location": "Online · Worldwide",
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T22:16:00Z",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "researchLead": false,
       "eligibility": {
         "indiaEligible": true,
@@ -2119,9 +1815,9 @@
         "Global headline CNY320,000 exceeds the CNY300,000 listed in English; the difference is four domestic popularity awards."
       ],
       "research": {
-        "snapshotAt": "2026-11-05T22:16:00Z",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
         "status": "qualified",
-        "origin": "Additional independent game competitions, minimum US$1,000 fiat cash; direct platform and regional-language discovery",
+        "origin": "9 November 2026 IST official-source refresh",
         "sourceNotes": [
           {
             "url": "https://www.aholo.ai/hackathon",
@@ -2132,7 +1828,15 @@
             "summary": "Full official Chinese indexed page confirms Nov19 19:00Beijing and six popularity awards: four domestic, two overseas."
           }
         ],
-        "fetchMethod": "Official-domain indexed full text. Direct open did not expose page content. Parent independently reviewing primary page."
+        "fetchMethod": "Official-domain indexed full text. Direct open did not expose page content. Parent independently reviewing primary page.",
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Complete indexed official event content rechecked after direct page yielded a JavaScript shell. Worldwide entry, required Lux3D, 1–3 members and 19 November 06:00 EST cutoff remain. International itemized awards still sum to CNY 300,000 despite the CNY 320,000 headline; retain conservative cash amount.",
+        "refreshSources": [
+          {
+            "url": "https://www.aholo.ai/hackathon"
+          }
+        ],
+        "checkedAt": "2026-11-08T19:43:15.229746Z"
       },
       "tags": [
         "3D AI",
@@ -2250,17 +1954,16 @@
         "sourceNotes": [
           {
             "url": "https://fairground.tv/creator/fairground-animation-imagination",
-            "summary": "Official contest or rules source checked; remaining limitations are disclosed."
+            "summary": "Official page checked in this targeted review."
           },
           {
             "url": "https://fairground.tv/creator/contest-terms-and-conditions",
-            "summary": "Official contest or rules source checked; remaining limitations are disclosed."
-          },
-          {
-            "url": "https://fairground.tv/company/terms-and-conditions",
-            "summary": "Official contest or rules source checked; remaining limitations are disclosed."
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "Partial status/rules review; previous verification timestamp retained",
+        "reviewNotes": "Unchanged conflict: terms close 19 November at 23:59 Pacific; landing page says 1 December at 23:59 Pacific. Retain the earlier cutoff. USD 15,000 cash and required CapCut creation reconfirmed; access to required tools from India and platform rights/payment terms remain unconfirmed."
       },
       "extraSources": [
         {
@@ -2333,20 +2036,25 @@
         "Students only; companies excluded.",
         "Show the work done during the event and supply an accessible demo."
       ],
-      "verifiedAt": "2026-11-05T19:20:48.951328Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "research": {
-        "checkedAt": "2026-11-05T19:20:48.951328Z",
-        "snapshotAt": "2026-11-05T19:20:48.951328Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "6 November 2026 IST official-source refresh",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "sourceNotes": [
           {
-            "url": "https://launchpad-hacks.devpost.com/"
+            "url": "https://launchpad-hacks.devpost.com/",
+            "summary": "Official page checked in this targeted review."
           },
           {
-            "url": "https://launchpad-hacks.devpost.com/rules"
+            "url": "https://launchpad-hacks.devpost.com/rules",
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: 20 November at 17:00 Eastern; USD 300 cash, adult students worldwide; disclosed AI assistance permitted. Games remain accepted, but the pool is below the current gaming threshold."
       }
     },
     {
@@ -2360,7 +2068,7 @@
       "mode": "online",
       "location": "Online · Worldwide",
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T22:16:00Z",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "researchLead": false,
       "eligibility": {
         "indiaEligible": true,
@@ -2385,9 +2093,9 @@
         "Individual entry only; 18+/local majority, lawful payout eligibility and tax paperwork required."
       ],
       "research": {
-        "snapshotAt": "2026-11-05T22:16:00Z",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
         "status": "qualified",
-        "origin": "Additional independent game competitions, minimum US$1,000 fiat cash; direct platform and regional-language discovery",
+        "origin": "9 November 2026 IST official-source refresh",
         "sourceNotes": [
           {
             "url": "https://www.astrocade.com/contests/100k-creator-contest-2026/rules",
@@ -2398,7 +2106,21 @@
             "summary": "New announcement dated 5 November 2026; AI-powered Astrocade creation and promotional competition."
           }
         ],
-        "deadlineText": "Applications close 20 November 2026 at 23:59 Pacific; competition 30 November–20 December."
+        "deadlineText": "Applications close 20 November 2026 at 23:59 Pacific; competition 30 November–20 December.",
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Official rules, application page and creator announcement reconfirm 20 November 23:59 Pacific application deadline, individual worldwide eligibility subject to exclusions, Astrocade prompt-based game creation, competitive selection and one USD 100,000 cash prize. Existing conditions retained.",
+        "refreshSources": [
+          {
+            "url": "https://www.astrocade.com/contests/100k-creator-contest-2026/rules"
+          },
+          {
+            "url": "https://www.astrocade.com/contests/100k-creator-contest-2026"
+          },
+          {
+            "url": "https://www.astrocade.com/blog/100k-creator-competition"
+          }
+        ],
+        "checkedAt": "2026-11-08T19:43:15.229746Z"
       },
       "tags": [
         "AI game builder",
@@ -2468,7 +2190,7 @@
         "Korea final"
       ],
       "verificationStatus": "pending",
-      "verifiedAt": "2026-11-05T22:17:02.095796Z",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "aiPolicy": {
         "status": "allowed",
         "label": "AI allowed",
@@ -2509,9 +2231,9 @@
         "No entry fee. Travel support, overseas payout methods and precise closing hour were not established."
       ],
       "research": {
-        "snapshotAt": "2026-11-05T22:17:02.095796Z",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
         "status": "eligibility-unconfirmed",
-        "origin": "6 November regional gaming contests >=USD1000 cash sweep",
+        "origin": "9 November 2026 IST official-source refresh",
         "deadlineText": "Proposal deadline 22 November 2026; time/timezone unstated, conservative cutoff stored.",
         "cashText": "KRW 10m total: 2m + 1.5m + 2×1m + 6×0.5m + 10×0.15m. Winners bear applicable taxes.",
         "sourceNotes": [
@@ -2527,7 +2249,15 @@
             "url": "https://linkareer.com/activity/360524",
             "summary": "Organizer-named listing confirms Hana Bank customers, no fee, and tax responsibility."
           }
-        ]
+        ],
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Indexed official event page confirms AI game generation, KRW 10 million itemized awards, free entry, ages 14–18, Hana Bank identity/invitation workflow and 22 November proposal deadline. December 19 offline final remains. India eligibility remains unconfirmed; no inference of global access.",
+        "refreshSources": [
+          {
+            "url": "https://hana.oasisw.ai/"
+          }
+        ],
+        "checkedAt": "2026-11-08T19:43:15.229746Z"
       },
       "extraSources": [
         {
@@ -2559,7 +2289,7 @@
       "entryFee": "No entry fee",
       "verificationStatus": "pending",
       "listingStatus": "eligibility-unconfirmed",
-      "verifiedAt": "2026-11-05T22:32:06Z",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "researchLead": false,
       "eligibility": {
         "indiaEligible": null,
@@ -2585,16 +2315,24 @@
         }
       ],
       "research": {
-        "snapshotAt": "2026-11-05T22:32:06Z",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
         "status": "eligibility-unconfirmed",
-        "origin": "Second non-Chinese platform sweep expanded into publisher-led game-mod competitions",
+        "origin": "9 November 2026 IST official-source refresh",
         "sourceNotes": [
           {
             "url": "https://competition.taleworlds.com/",
             "summary": "Organizer page includes complete contest-specific and general rules, euro awards, AI disclosure, bank details and entry deadline."
           }
         ],
-        "deadlineText": "22 November 2026 23:59 UTC"
+        "deadlineText": "22 November 2026 23:59 UTC",
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Complete official contest page reconfirms 22 November 23:59 UTC cutoff, EUR 30,000 monetary awards, age conditions, bank payout, and rule A.2.8 requiring AI code/assets disclosure. India eligibility remains unconfirmed under regional lawful-delivery conditions.",
+        "refreshSources": [
+          {
+            "url": "https://competition.taleworlds.com/"
+          }
+        ],
+        "checkedAt": "2026-11-08T19:43:15.229746Z"
       },
       "tags": [
         "Game modding",
@@ -2691,23 +2429,29 @@
         "DEV post, public repository, setup instructions, demo and consent/data-handling explanation.",
         "English submission required for prizes; no medical claims or non-consensual monitoring."
       ],
-      "verifiedAt": "2026-11-05T19:20:48.951328Z",
+      "verifiedAt": "2026-11-08T19:42:33.445289Z",
       "research": {
-        "checkedAt": "2026-11-05T19:20:48.951328Z",
-        "snapshotAt": "2026-11-05T19:20:48.951328Z",
+        "checkedAt": "2026-11-08T19:42:33.445289Z",
+        "snapshotAt": "2026-11-08T19:42:33.445289Z",
         "status": "qualified",
-        "origin": "6 November 2026 IST official-source refresh",
+        "origin": "9 November 2026 IST targeted official-source refresh",
         "sourceNotes": [
           {
-            "url": "https://dev.to/challenges/presage-2026-11-04"
+            "url": "https://dev.to/challenges/presage-2026-11-04",
+            "summary": "Official page checked in this targeted review."
           },
           {
-            "url": "https://dev.to/page/official-hackathon-rules"
+            "url": "https://dev.to/page/presage-2026-11-04-contest-rules",
+            "summary": "Official page checked in this targeted review."
           },
           {
-            "url": "https://dev.to/page/presage-2026-11-04-contest-rules"
+            "url": "https://dev.to/page/official-hackathon-rules",
+            "summary": "Official page checked in this targeted review."
           }
-        ]
+        ],
+        "lastReviewedAt": "2026-11-08T19:42:33.445289Z",
+        "reviewScope": "AI permission, cash, eligibility and entry dates",
+        "reviewNotes": "Unchanged: 22 November at 23:59 Pacific; ten USD 300 cash awards; individual adults including India; AI assistance explicitly allowed. Specific rules confirm one entry, camera consent, live SDK integration and no medical claims."
       }
     },
     {
@@ -2961,7 +2705,7 @@
         "India eligibility unconfirmed"
       ],
       "verificationStatus": "pending",
-      "verifiedAt": "2026-11-05T21:40:58.947220Z",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "researchLead": false,
       "reviewReason": "Eligible for the main board under the revised policy: published $500/$300/$200 USD awards paid through Tremendous, explicit AI-assisted asset permission and open entries. India eligibility and available Indian payout/redemption methods remain unconfirmed.",
       "aiPolicy": {
@@ -3019,9 +2763,9 @@
         }
       ],
       "research": {
-        "snapshotAt": "2026-11-05T21:40:58.947220Z",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
         "status": "eligibility-unconfirmed",
-        "origin": "6 November 2026 IST revised inclusion policy: unknown India eligibility is disclosed on the main board",
+        "origin": "9 November 2026 IST official-source refresh",
         "deadlineText": "29 November 2026, 1:29:59 PM IST",
         "cashText": "Official jam awards $500 USD + $300 USD + $200 USD, paid through Tremendous. These are listed separately as monetary awards, not platform credits; available Indian redemption methods are unconfirmed.",
         "sourceNotes": [
@@ -3037,7 +2781,15 @@
             "url": "https://app.notion.com/p/Bash-tv-FAQ-3edbbd3cecd98131b57ccd461b8e0dec?source=copy_link",
             "summary": "Linked FAQ — inaccessible in review"
           }
-        ]
+        ],
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Current organizer jam page retains 29 November 07:59:59 UTC cutoff, USD 500/300/200 awards via Tremendous and explicitly permitted AI-assisted assets. Indian participation and cash-redemption uncertainty remain prominently disclosed.",
+        "refreshSources": [
+          {
+            "url": "https://itch.io/jam/ps1-aesthetic-game-jam-bashtv"
+          }
+        ],
+        "checkedAt": "2026-11-08T19:43:15.229746Z"
       },
       "listingStatus": "eligibility-unconfirmed"
     },
@@ -3518,6 +3270,16 @@
             "url": "https://www.modelscope.cn/events",
             "summary": "Official index labels this competition ongoing and requires an original AI-created playable game."
           }
+        ],
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Official current event index still lists the AI game creation contest as open with a 1 December deadline. Detailed event page is a JavaScript shell, so the exact CNY 40,000 breakdown and earlier registration cutoff were not reverified. Preserve previous verifiedAt and conservative registration date.",
+        "refreshSources": [
+          {
+            "url": "https://www.modelscope.cn/events"
+          },
+          {
+            "url": "https://www.modelscope.cn/events/394/%E6%AF%94%E8%B5%9B%E4%BB%8B%E7%BB%8D"
+          }
         ]
       },
       "extraSources": [
@@ -3556,7 +3318,7 @@
       "entryFee": "No contest fee stated; ForgeClan account and creator approval required; platform charges may apply",
       "verificationStatus": "pending",
       "listingStatus": "eligibility-unconfirmed",
-      "verifiedAt": "2026-11-05T21:53:29.128552Z",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "researchLead": false,
       "reviewReason": "Included under the revised policy: explicit AI game/app creation, $1,000 paid USD, and open November entry. Parent inspected the official Who can enter, Prize payments and prior-app FAQ accordions in Chrome. Approved creators are eligible; no country rule is stated, so India eligibility remains unconfirmed.",
       "aiPolicy": {
@@ -3608,9 +3370,9 @@
         }
       ],
       "research": {
-        "snapshotAt": "2026-11-05T21:53:29.128552Z",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
         "status": "eligibility-unconfirmed",
-        "origin": "Second systematic sweep of AI game builders and web-game publishers outside itch",
+        "origin": "9 November 2026 IST official-source refresh",
         "deadlineText": "30 November 2026 23:59 WAT",
         "cashText": "Published $500 most upvotes + $300 most downloads + $200 most game time, explicitly paid in USD. Shared apps/games pool, counted once. Payment is scheduled for 7 December; winners must provide requested payment details by 6 December or the award passes to a runner-up.",
         "sourceNotes": [
@@ -3628,7 +3390,15 @@
           }
         ],
         "browserReviewRequested": false,
-        "browserReviewCompleted": true
+        "browserReviewCompleted": true,
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Current official page confirms AI creation in ForgeClan, USD 1,000 cash split 500/300/200, 30 November 23:59 WAT cutoff and 7 December payment schedule. Unresolved India eligibility and existing platform conditions are retained.",
+        "refreshSources": [
+          {
+            "url": "https://www.forgeclan.com/hackathon"
+          }
+        ],
+        "checkedAt": "2026-11-08T19:43:15.229746Z"
       },
       "tags": [
         "AI game builder",
@@ -3843,7 +3613,7 @@
         "Ages 18+"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T21:54:17.923603+00:00",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "aiPolicy": {
         "status": "conditional",
         "label": "AI code and assets allowed",
@@ -3893,15 +3663,23 @@
         }
       ],
       "research": {
-        "snapshotAt": "2026-11-05T21:54:17.923603+00:00",
-        "origin": "User-supplied lead; read official landing page and complete terms in browser",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
+        "origin": "9 November 2026 IST official-source refresh",
         "status": "qualified",
         "sourceNotes": [
           {
             "url": "https://nitropay.com/base44webgame/terms-and-conditions/",
             "summary": "Sections 3, 4, 6, 9 and 11 establish open dates, general eligibility, required platform, actual USD payout and permitted AI components."
           }
-        ]
+        ],
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Current complete terms reconfirm 3 December 23:59 UTC cutoff, USD 65,000 monetary awards, adult/account/sanctions eligibility and explicit compliant AI-generated code, text, images and audio under section 11.5(d).",
+        "refreshSources": [
+          {
+            "url": "https://nitropay.com/base44webgame/terms-and-conditions/"
+          }
+        ],
+        "checkedAt": "2026-11-08T19:43:15.229746Z"
       }
     },
     {
@@ -5007,7 +4785,7 @@
       "teamSize": "Individual or collaboration; all contributors 18+",
       "entryFee": "No contest fee stated; Nexus account and Skyrim Special Edition access needed",
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T22:33:39Z",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "researchLead": false,
       "reviewReason": "Full event-specific terms checked: international participation §7.6, cash-choice and ten cash awards §4, exact deadline §3.1, and limited AI assistance §3.6. This is not permission to include AI-generated code/content/assets.",
       "aiPolicy": {
@@ -5063,16 +4841,24 @@
         }
       ],
       "research": {
-        "snapshotAt": "2026-11-05T22:33:39Z",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
         "status": "qualified",
-        "origin": "Additional publisher/platform game-modding sweep",
+        "origin": "9 November 2026 IST official-source refresh",
         "deadlineText": "31December2026 23:59UTC",
         "sourceNotes": [
           {
             "url": "https://help.nexusmods.com/article/178-skyrim-modathon-2026-terms-and-conditions",
             "summary": "Complete primary terms inspected: AI assistance restriction, cash alternative, international participation, new-publication window,30-day claim/payment."
           }
-        ]
+        ],
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Official terms retain 31 December 23:59 UTC, international age-18+ eligibility, GBP 5,000 freely chosen cash alternative plus ten GBP 500 awards, and AI assistance only with generated entry content/assets prohibited.",
+        "refreshSources": [
+          {
+            "url": "https://help.nexusmods.com/article/178-skyrim-modathon-2026-terms-and-conditions"
+          }
+        ],
+        "checkedAt": "2026-11-08T19:43:15.229746Z"
       },
       "tags": [
         "Game modding",
@@ -5099,7 +4885,7 @@
       "teamSize": "Solo or teams; all 18+",
       "entryFee": "Free; game/software access needed",
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T22:36:27.009119+00:00",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "aiPolicy": {
         "status": "conditional",
         "label": "AI assistance only; generated entry content banned",
@@ -5142,7 +4928,19 @@
         "Game modding",
         "AI assistance only",
         "Generated content prohibited"
-      ]
+      ],
+      "research": {
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Official terms retain 31 December 23:59 UTC, international eligibility, GBP 10,000 cash overall less GBP 200 screenshot-only award, and AI assistance only. Generated mod content/assets remain prohibited; winning mods must stay public for 90 days.",
+        "refreshSources": [
+          {
+            "url": "https://help.nexusmods.com/article/179-cyberpunk-modathon-2026-terms-and-conditions"
+          }
+        ],
+        "checkedAt": "2026-11-08T19:43:15.229746Z",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
+        "origin": "9 November 2026 IST official-source refresh"
+      }
     },
     {
       "id": "gff-award-2027-ai-game-art",
@@ -5223,6 +5021,16 @@
           {
             "url": "https://www.city.fukuoka.lg.jp/shisei/kouhou-hodo/hodo-happyo/2026/documents/dai20kaifukuokagamecontestgffaward2027sakuhinbosyuukaishi-r.pdf",
             "summary": "Fukuoka City co-organizer announcement confirms software deadline and JPY300,000 grand prize."
+          }
+        ],
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Organizer current call confirms software deadline 6 January 23:59, art deadline 16 November 23:59 and JPY 300,000 software grand prize. Full rules PDF could not be freshly read: university mirror is image-only in available tools and organizer PDF fails. Preserve prior software AI/foreign-national evidence and verifiedAt.",
+        "refreshSources": [
+          {
+            "url": "https://www.gff.jp/gffcast/news/2026/09/-tbody-tr-tdinfo-table-tbody-t.html"
+          },
+          {
+            "url": "https://fukuoka-game.com/wptest/wp-content/themes/game/lib/pdf/contest/20/contest20_youkou.pdf"
           }
         ]
       },
@@ -5407,7 +5215,7 @@
         "Browser games"
       ],
       "verificationStatus": "verified",
-      "verifiedAt": "2026-11-05T21:01:08.926535Z",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "aiPolicy": {
         "status": "conditional",
         "label": "At least one AI tool required",
@@ -5451,9 +5259,9 @@
       "mode": "online",
       "location": "Online · India eligible",
       "research": {
-        "snapshotAt": "2026-11-05T21:01:08.926535Z",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
         "status": "qualified",
-        "origin": "6 November 2026 IST deep game expansion",
+        "origin": "9 November 2026 IST official-source refresh",
         "deadlineText": "8 January 2027, 1:15 PM IST",
         "registrationDeadlineText": "",
         "cashText": "Five separate game-genre cash pools, each $2,000 first + $1,000 second + $500 third. Counted once for the entire Game Division. Excludes the $20,500 mixed-value headline, Meshy Game of the Year trip, subscriptions, internships and unspecified additional benefits.",
@@ -5486,7 +5294,30 @@
             "url": "https://chromaawards.com/terms",
             "summary": "General AI, eligibility and submission-window rules."
           }
-        ]
+        ],
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Current general terms require an AI tool, retain eligibility exclusions and close 7 January 23:45 Pacific. All five game genre pages rechecked: each still lists USD 2,000/1,000/500, total USD 17,500 cash. No duplicate genre records added.",
+        "refreshSources": [
+          {
+            "url": "https://chromaawards.com/terms"
+          },
+          {
+            "url": "https://chromaawards.com/prizes/game-arcade-party"
+          },
+          {
+            "url": "https://chromaawards.com/prizes/game-experimental-open-format"
+          },
+          {
+            "url": "https://chromaawards.com/prizes/game-interactive-narrative-presented-by-pickford"
+          },
+          {
+            "url": "https://chromaawards.com/prizes/game-music-rhythm"
+          },
+          {
+            "url": "https://chromaawards.com/prizes/game-puzzle-strategy"
+          }
+        ],
+        "checkedAt": "2026-11-08T19:43:15.229746Z"
       },
       "rulesUrl": "https://chromaawards.com/terms",
       "extraSources": [
@@ -5748,7 +5579,17 @@
             "summary": "All four official prize graphics visually verified in Chrome: three categories each €3,750 and Volvo €10,000; merchandise and vouchers excluded."
           }
         ],
-        "deadlineText": "Submissions 16 November 2026–15 January 2027 23:59 CET"
+        "deadlineText": "Submissions 16 November 2026–15 January 2027 23:59 CET",
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Current full rules reconfirm 16 November opening, 15 January 23:59 CET cutoff and limited AI ideation/scripting assistance, excluding generated final artwork. Announcement still links the original prize graphics; graphics were not visually re-read, so preserve earlier cash verification and verifiedAt.",
+        "refreshSources": [
+          {
+            "url": "https://farming-simulator.com/newsArticle.php?news_id=694"
+          },
+          {
+            "url": "https://www.farming-simulator.com/newsArticle.php?news_id=697"
+          }
+        ]
       },
       "tags": [
         "Game modding",
@@ -5879,7 +5720,7 @@
       "title": "Rokid Spatial Joy 2026 — AR Game Track",
       "category": "game-development",
       "url": "https://spatialjoy.rokid.com/2026",
-      "verifiedAt": "2026-11-05T22:15:29Z",
+      "verifiedAt": "2026-11-08T19:43:15.229746Z",
       "researchLead": false,
       "cashPrize": {
         "amount": 800000,
@@ -5894,9 +5735,9 @@
       "format": "Hybrid",
       "mode": "hybrid",
       "research": {
-        "checkedAt": "2026-11-05T22:15:29Z",
-        "snapshotAt": "2026-11-05T22:15:29Z",
-        "origin": "6 November 2026 IST — additional game contests with cash at least USD1,000",
+        "checkedAt": "2026-11-08T19:43:15.229746Z",
+        "snapshotAt": "2026-11-08T19:43:15.229746Z",
+        "origin": "9 November 2026 IST official-source refresh",
         "sourceNotes": [
           {
             "url": "https://spatialjoy.rokid.com/2026"
@@ -5906,7 +5747,14 @@
           }
         ],
         "status": "verified",
-        "deadlineText": "Official entry window 27 October 2026–28 January 2027. No exact closing time/timezone. Conservative expiry at earliest worldwide start of closing date."
+        "deadlineText": "Official entry window 27 October 2026–28 January 2027. No exact closing time/timezone. Conservative expiry at earliest worldwide start of closing date.",
+        "refreshAttemptAt": "2026-11-08T19:43:15.229746Z",
+        "refreshNote": "Complete indexed official event content reconfirms global entry through 28 January, CNY 800,000 game-track cash, in-game AI interaction and mandatory in-person finals. No general AI coding permission inferred. Loaned-device obligations and international travel conditions retained.",
+        "refreshSources": [
+          {
+            "url": "https://spatialjoy.rokid.com/2026"
+          }
+        ]
       },
       "organizer": "Rokid",
       "summary": "In-game AI interaction expressly permitted; coding-assistant permission unconfirmed. Global entry; in-person finals mandatory.",
@@ -7715,45 +7563,73 @@
       "url": "https://help.nexusmods.com/article/179-cyberpunk-modathon-2026-terms-and-conditions",
       "access": "Direct official event/rule review",
       "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.summerengine.com",
+      "name": "www.summerengine.com",
+      "url": "https://www.summerengine.com/games",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "policy.run.world",
+      "name": "policy.run.world",
+      "url": "https://policy.run.world/octoberjam-rules.html",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "www.playcubio.com",
+      "name": "www.playcubio.com",
+      "url": "https://www.playcubio.com/events/cubio-game-jam",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
+    },
+    {
+      "id": "getflikk.com",
+      "name": "getflikk.com",
+      "url": "https://getflikk.com/blog/flikk-halloween-game-jam",
+      "access": "Direct official event/rule review",
+      "status": "Manual research; see dated review findings"
     }
   ],
   "refresh": {
     "mode": "manual",
-    "lastAttemptAt": "2026-11-05T22:36:34.165622+00:00",
-    "lastCompletedAt": "2026-11-05T22:36:34.165622+00:00",
-    "eventsChecked": 117,
+    "lastAttemptAt": "2026-11-08T19:44:43.990407+00:00",
+    "lastCompletedAt": "2026-11-08T19:44:43.990407+00:00",
+    "eventsChecked": 63,
     "sourceStatuses": [],
     "policy": "Targeted searches and direct official-source review. Automatic source rescanning is not enabled; individual evidence dates are preserved.",
     "discovery": {
       "status": "manual",
-      "lastAttemptAt": "2026-11-05T22:36:34.165622+00:00",
+      "lastAttemptAt": "2026-11-08T19:44:43.990407+00:00",
       "message": "Individual organizer sites and event directories are considered. Search leads require official-rule verification."
     },
     "publication": {
-      "builtAt": "2026-11-05T22:38:32Z",
-      "published": 73,
-      "excluded": 34,
+      "builtAt": "2026-11-08T19:45:06Z",
+      "published": 68,
+      "excluded": 39,
       "exclusionReasons": {
         "ai_not_confirmed": 17,
         "cash_prize_below_1000_usd": 6,
         "cash_prize_not_above_200_usd": 16,
-        "india_not_confirmed": 19,
+        "india_not_confirmed": 20,
         "invalid_prize_currency": 17,
         "missing_ai_evidence": 15,
         "missing_eligibility_evidence": 17,
         "missing_prize_evidence": 17,
-        "not_verified": 21,
-        "registration_closed_or_unknown": 20,
-        "verification_stale_or_unknown": 23
+        "not_verified": 22,
+        "registration_closed_or_unknown": 25,
+        "verification_stale_or_unknown": 31
       },
       "maxVerificationAgeDays": 7
     }
   },
-  "researchUpdatedAt": "2026-11-05T22:36:34.165622+00:00",
+  "researchUpdatedAt": "2026-11-08T19:44:43.990407+00:00",
   "researchSnapshot": "research-coverage.json",
   "publicationPolicy": {
     "allowUnconfirmedIndianEligibility": true,
-    "policyUpdatedAt": "2026-11-05T22:36:34.165622+00:00",
+    "policyUpdatedAt": "2026-11-08T19:44:43.990407+00:00",
     "note": "User requested inclusion of AI-and-cash-reviewed events even when Indian eligibility is uncertain. Such listings carry an explicit eligibility-unconfirmed marker; known India exclusions still fail."
   },
   "underReview": [
@@ -7796,14 +7672,6 @@
       "url": "https://ipl-uv.github.io/ClimX/",
       "entryClosesAt": "2026-12-14T10:00:00Z",
       "reviewReason": "Prize and AI task confirmed; country eligibility unresolved."
-    },
-    {
-      "id": "ascend-ai-industry-innovation-2026-power-industry-operators",
-      "title": "Ascend AI Industry Innovation 2026 — Power Industry Operators",
-      "category": "coding",
-      "url": "https://cann-elec.gccorg.com/",
-      "entryClosesAt": "2026-11-06T04:00:00Z",
-      "reviewReason": "Concrete CANN organizer announcement, but international eligibility and AI assistance rules incomplete."
     },
     {
       "id": "micro1-eval-hackathon",
@@ -7862,6 +7730,14 @@
       "reviewReason": "Read the live jam rules and incorporated Creator Terms v2 in browser. USD1,000 cash and general worldwide entry are established, with PayPal required. Event rules give 11 November 11:00 UTC while the Defold forum gives 10 November 23:00 UTC; retain the earlier cutoff. Platform homepage permits AI-assisted games, but neither jam-specific rules nor incorporated creator terms expressly confirm AI for this competition; remains pending AI clarification."
     },
     {
+      "id": "adarena-microdrama-2026",
+      "title": "AdArena Micro Drama 2026",
+      "category": "other",
+      "url": "https://adarena.app/challenges/microdrama",
+      "entryClosesAt": "2026-11-11T10:00:00Z",
+      "reviewReason": "Official sources conflict on entry activation/funding and closing date; linked brief says preview and opening pending while live page says Live. India eligibility also unconfirmed."
+    },
+    {
       "id": "micro-jam-069-halloween-2026",
       "title": "Micro Jam 069 — Halloween",
       "category": "game-development",
@@ -7879,6 +7755,17 @@
       "deadline": "2026-10-31T18:29:00Z",
       "deadlineIsConservativeCutoff": false,
       "deadlineLabel": "31 October 2026, 11:59 PM IST",
+      "outcome": "Entry closed",
+      "reason": "The entry deadline has passed."
+    },
+    {
+      "id": "flip-the-switch-2026",
+      "title": "Flip the Switch Hackathon",
+      "category": "coding",
+      "url": "https://www.wemakedevs.org/hackathons/switch",
+      "deadline": "2026-11-07T18:29:00Z",
+      "deadlineIsConservativeCutoff": false,
+      "deadlineLabel": "7 November 2026, 11:59 PM IST",
       "outcome": "Entry closed",
       "reason": "The entry deadline has passed."
     },
@@ -7923,6 +7810,17 @@
       "deadline": "2026-10-31T15:00:00Z",
       "deadlineIsConservativeCutoff": false,
       "deadlineLabel": "31 October 2026, 8:30 PM IST",
+      "outcome": "Entry closed",
+      "reason": "The entry deadline has passed."
+    },
+    {
+      "id": "thatgamejam-02-2026",
+      "title": "thatgamejam #02",
+      "category": "game-development",
+      "url": "https://itch.io/jam/thatgamejam02",
+      "deadline": "2026-11-08T07:59:00Z",
+      "deadlineIsConservativeCutoff": false,
+      "deadlineLabel": "8 November 2026, 1:29 PM IST",
       "outcome": "Entry closed",
       "reason": "The entry deadline has passed."
     },
@@ -8044,8 +7942,8 @@
       "deadline": "2026-11-06T04:00:00Z",
       "deadlineIsConservativeCutoff": false,
       "deadlineLabel": "Online preliminary: 6 Nov 2026, 12:00 China (09:30 IST). In-person final: 15 Nov, Guangzhou.",
-      "outcome": "Not yet qualified",
-      "reason": "Concrete CANN organizer announcement, but international eligibility and AI assistance rules incomplete."
+      "outcome": "Entry closed",
+      "reason": "The entry deadline has passed."
     },
     {
       "id": "dev-hacktoberfest-ai-week3-2026",
@@ -8191,6 +8089,28 @@
       "reason": "The entry deadline has passed."
     },
     {
+      "id": "vultr-agent-rush-2026",
+      "title": "Vultr: Agent Rush Hackathon",
+      "category": "coding",
+      "url": "https://lablab.build/ai-hackathons/vultr-hackathon",
+      "deadline": "2026-11-07T10:00:00Z",
+      "deadlineIsConservativeCutoff": true,
+      "deadlineLabel": "8 November 2026; exact submission time not confirmed",
+      "outcome": "Exact closing time unconfirmed",
+      "reason": "The conservative cutoff passed because the organizer gives a date without a closing time. Check the official page; this does not prove entry has closed."
+    },
+    {
+      "id": "chi-bench-2026",
+      "title": "CHI-Bench",
+      "category": "coding",
+      "url": "https://www.kaggle.com/competitions/chi-bench",
+      "deadline": "2026-11-07T23:59:00Z",
+      "deadlineIsConservativeCutoff": false,
+      "deadlineLabel": "Entry: 8 November, 5:29 AM IST · Final: 16 November 2026, 5:29 AM IST",
+      "outcome": "Entry closed",
+      "reason": "The entry deadline has passed."
+    },
+    {
       "id": "jabali-ai-game-jam-hybrid-2026",
       "title": "Jabali AI Game Jam — HYBRID",
       "category": "game-development",
@@ -8235,6 +8155,17 @@
       "reason": "Read the live jam rules and incorporated Creator Terms v2 in browser. USD1,000 cash and general worldwide entry are established, with PayPal required. Event rules give 11 November 11:00 UTC while the Defold forum gives 10 November 23:00 UTC; retain the earlier cutoff. Platform homepage permits AI-assisted games, but neither jam-specific rules nor incorporated creator terms expressly confirm AI for this competition; remains pending AI clarification."
     },
     {
+      "id": "adarena-microdrama-2026",
+      "title": "AdArena Micro Drama 2026",
+      "category": "other",
+      "url": "https://adarena.app/challenges/microdrama",
+      "deadline": "2026-11-11T10:00:00Z",
+      "deadlineIsConservativeCutoff": true,
+      "deadlineLabel": "2026-11-12; confirm the exact closing time",
+      "outcome": "Not yet qualified",
+      "reason": "Official sources conflict on entry activation/funding and closing date; linked brief says preview and opening pending while live page says Live. India eligibility also unconfirmed."
+    },
+    {
       "id": "micro-jam-069-halloween-2026",
       "title": "Micro Jam 069 — Halloween",
       "category": "game-development",
@@ -8249,27 +8180,27 @@
   "coverage": {
     "categories": {
       "coding": {
-        "eligible": 20,
-        "eligibilityUnconfirmed": 7,
-        "listed": 27,
-        "underReview": 5
+        "eligible": 18,
+        "eligibilityUnconfirmed": 6,
+        "listed": 24,
+        "underReview": 4
       },
       "game-development": {
-        "eligible": 13,
-        "eligibilityUnconfirmed": 6,
-        "listed": 19,
+        "eligible": 11,
+        "eligibilityUnconfirmed": 7,
+        "listed": 18,
         "underReview": 7
       },
       "other": {
         "eligible": 21,
-        "eligibilityUnconfirmed": 6,
-        "listed": 27,
-        "underReview": 2
+        "eligibilityUnconfirmed": 5,
+        "listed": 26,
+        "underReview": 3
       }
     },
-    "eligible": 54,
-    "eligibilityUnconfirmed": 19,
-    "listed": 73,
+    "eligible": 50,
+    "eligibilityUnconfirmed": 18,
+    "listed": 68,
     "underReview": 14
   }
 }
